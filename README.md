@@ -4,6 +4,16 @@ Windows 桌面工具：透過螢幕截圖、PaddleOCR 文字偵測與單行辨�
 
 > **非官方專案。** 遊戲角色、技能敘述與商標相關權利歸原權利人所有；翻譯來自第三方資料整理，未逐筆校對。發布前請確認再散布權限。如有權利疑慮，應移除相關圖片和資料庫並使用合規的使用者自行下載流程。
 
+## Download for Windows
+
+[**Download Latest Release**](https://github.com/ichika2004/Arknights-JP-Translator/releases/latest)
+
+1. Download the Windows x64 ZIP.
+2. Extract the entire folder.
+3. Run `Arknights-JP-Translator.exe`.
+
+No Python or Conda installation required.
+
 ## 功能
 
 - 自動辨識畫面中的日文幹員名稱，不需手動框選
