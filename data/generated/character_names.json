@@ -1,0 +1,5232 @@
+{
+  "char_123_fang": {
+    "name_jp": "フェン",
+    "name_en": "Fang",
+    "name_zh_tw": "芬"
+  },
+  "char_240_wyvern": {
+    "name_jp": "バニラ",
+    "name_en": "Vanilla",
+    "name_zh_tw": "香草"
+  },
+  "char_192_falco": {
+    "name_jp": "プリュム",
+    "name_en": "Plume",
+    "name_zh_tw": "翎羽"
+  },
+  "char_208_melan": {
+    "name_jp": "メランサ",
+    "name_en": "Melantha",
+    "name_zh_tw": "玫蘭莎"
+  },
+  "char_281_popka": {
+    "name_jp": "ポプカル",
+    "name_en": "Popukar",
+    "name_zh_tw": "泡普卡"
+  },
+  "char_209_ardign": {
+    "name_jp": "カーディ",
+    "name_en": "Cardigan",
+    "name_zh_tw": "卡緹"
+  },
+  "char_122_beagle": {
+    "name_jp": "ビーグル",
+    "name_en": "Beagle",
+    "name_zh_tw": "米格魯"
+  },
+  "char_284_spot": {
+    "name_jp": "スポット",
+    "name_en": "Spot",
+    "name_zh_tw": "斑點"
+  },
+  "char_124_kroos": {
+    "name_jp": "クルース",
+    "name_en": "Kroos",
+    "name_zh_tw": "克洛絲"
+  },
+  "char_211_adnach": {
+    "name_jp": "アドナキエル",
+    "name_en": "Adnachiel",
+    "name_zh_tw": "安德切爾"
+  },
+  "char_121_lava": {
+    "name_jp": "ラヴァ",
+    "name_en": "Lava",
+    "name_zh_tw": "炎熔"
+  },
+  "char_120_hibisc": {
+    "name_jp": "ハイビスカス",
+    "name_en": "Hibiscus",
+    "name_zh_tw": "芙蓉"
+  },
+  "char_212_ansel": {
+    "name_jp": "アンセル",
+    "name_en": "Ansel",
+    "name_zh_tw": "安賽爾"
+  },
+  "char_210_stward": {
+    "name_jp": "スチュワード",
+    "name_en": "Steward",
+    "name_zh_tw": "史都華德"
+  },
+  "char_278_orchid": {
+    "name_jp": "オーキッド",
+    "name_en": "Orchid",
+    "name_zh_tw": "梓蘭"
+  },
+  "char_141_nights": {
+    "name_jp": "ヘイズ",
+    "name_en": "Haze",
+    "name_zh_tw": "夜煙"
+  },
+  "char_604_ccast": {
+    "name_jp": "予備隊員-術師",
+    "name_en": "Reserve Operator - Caster",
+    "name_zh_tw": "預備幹員-術師"
+  },
+  "char_109_fmout": {
+    "name_jp": "ギターノ",
+    "name_en": "Gitano",
+    "name_zh_tw": "遠山"
+  },
+  "char_253_greyy": {
+    "name_jp": "グレイ",
+    "name_en": "Greyy",
+    "name_zh_tw": "格雷伊"
+  },
+  "char_4051_akkord": {
+    "name_jp": "アコルト",
+    "name_en": "Akkord",
+    "name_zh_tw": "協律"
+  },
+  "char_328_cammou": {
+    "name_jp": "カシャ",
+    "name_en": "Click",
+    "name_zh_tw": "卡達"
+  },
+  "char_469_indigo": {
+    "name_jp": "インディゴ",
+    "name_en": "Indigo",
+    "name_zh_tw": "深靛"
+  },
+  "char_4004_pudd": {
+    "name_jp": "プリン",
+    "name_en": "Pudding",
+    "name_zh_tw": "布丁"
+  },
+  "char_235_jesica": {
+    "name_jp": "ジェシカ",
+    "name_en": "Jessica",
+    "name_zh_tw": "潔西卡"
+  },
+  "char_126_shotst": {
+    "name_jp": "メテオ",
+    "name_en": "Meteor",
+    "name_zh_tw": "流星"
+  },
+  "char_190_clour": {
+    "name_jp": "ヴァーミル",
+    "name_en": "Vermeil",
+    "name_zh_tw": "紅雲"
+  },
+  "char_133_mm": {
+    "name_jp": "メイ",
+    "name_en": "May",
+    "name_zh_tw": "梅"
+  },
+  "char_603_csnipe": {
+    "name_jp": "予備隊員-狙撃",
+    "name_en": "Reserve Operator - Sniper",
+    "name_zh_tw": "預備幹員-狙擊"
+  },
+  "char_118_yuki": {
+    "name_jp": "シラユキ",
+    "name_en": "Shirayuki",
+    "name_zh_tw": "白雪"
+  },
+  "char_440_pinecn": {
+    "name_jp": "パインコーン",
+    "name_en": "Pinecone",
+    "name_zh_tw": "松果"
+  },
+  "char_302_glaze": {
+    "name_jp": "アンブリエル",
+    "name_en": "Ambriel",
+    "name_zh_tw": "安比爾"
+  },
+  "char_366_acdrop": {
+    "name_jp": "アシッドドロップ",
+    "name_en": "Aciddrop",
+    "name_zh_tw": "酸糖"
+  },
+  "char_4062_totter": {
+    "name_jp": "トター",
+    "name_en": "Totter",
+    "name_zh_tw": "鉛踝"
+  },
+  "char_4100_caper": {
+    "name_jp": "ケイパー",
+    "name_en": "Caper",
+    "name_zh_tw": "躍躍"
+  },
+  "char_198_blackd": {
+    "name_jp": "クーリエ",
+    "name_en": "Courier",
+    "name_zh_tw": "訊使"
+  },
+  "char_149_scave": {
+    "name_jp": "スカベンジャー",
+    "name_en": "Scavenger",
+    "name_zh_tw": "清道夫"
+  },
+  "char_600_cpione": {
+    "name_jp": "予備隊員-先鋒",
+    "name_en": "Reserve Operator - Vanguard",
+    "name_zh_tw": "預備幹員-先鋒"
+  },
+  "char_290_vigna": {
+    "name_jp": "ヴィグナ",
+    "name_en": "Vigna",
+    "name_zh_tw": "紅豆"
+  },
+  "char_151_myrtle": {
+    "name_jp": "テンニンカ",
+    "name_en": "Myrtle",
+    "name_zh_tw": "桃金娘"
+  },
+  "char_452_bstalk": {
+    "name_jp": "ビーンストーク",
+    "name_en": "Beanstalk",
+    "name_zh_tw": "豆苗"
+  },
+  "char_4208_wintim": {
+    "name_jp": "スネグーラチカ",
+    "name_en": "Snegurochka",
+    "name_zh_tw": "冬時"
+  },
+  "char_130_doberm": {
+    "name_jp": "ドーベルマン",
+    "name_en": "Dobermann",
+    "name_zh_tw": "杜賓"
+  },
+  "char_289_gyuki": {
+    "name_jp": "マトイマル",
+    "name_en": "Matoimaru",
+    "name_zh_tw": "纏丸"
+  },
+  "char_159_peacok": {
+    "name_jp": "コンビクション",
+    "name_en": "Conviction",
+    "name_zh_tw": "斷罪者"
+  },
+  "char_601_cguard": {
+    "name_jp": "予備隊員-前衛",
+    "name_en": "Reserve Operator - Guard",
+    "name_zh_tw": "預備幹員-近衛"
+  },
+  "char_193_frostl": {
+    "name_jp": "フロストリーフ",
+    "name_en": "Frostleaf",
+    "name_zh_tw": "霜葉"
+  },
+  "char_127_estell": {
+    "name_jp": "エステル",
+    "name_en": "Estelle",
+    "name_zh_tw": "艾絲黛爾"
+  },
+  "char_185_frncat": {
+    "name_jp": "ムース",
+    "name_en": "Mousse",
+    "name_zh_tw": "慕斯"
+  },
+  "char_301_cutter": {
+    "name_jp": "カッター",
+    "name_en": "Cutter",
+    "name_zh_tw": "刻刀"
+  },
+  "char_337_utage": {
+    "name_jp": "ウタゲ",
+    "name_en": "Utage",
+    "name_zh_tw": "宴"
+  },
+  "char_271_spikes": {
+    "name_jp": "アレーン",
+    "name_en": "Arene",
+    "name_zh_tw": "芳汀"
+  },
+  "char_4067_lolxh": {
+    "name_jp": "羅小黒",
+    "name_en": "Luo Xiaohei",
+    "name_zh_tw": "羅小黑"
+  },
+  "char_4063_quartz": {
+    "name_jp": "クォーツ",
+    "name_en": "Quartz",
+    "name_zh_tw": "石英"
+  },
+  "char_491_humus": {
+    "name_jp": "ヒューマス",
+    "name_en": "Humus",
+    "name_zh_tw": "休謨斯"
+  },
+  "char_445_wscoot": {
+    "name_jp": "ウィンドスクート",
+    "name_en": "Windscoot",
+    "name_zh_tw": "騁風"
+  },
+  "char_237_gravel": {
+    "name_jp": "グラベル",
+    "name_en": "Gravel",
+    "name_zh_tw": "礫"
+  },
+  "char_607_cspec": {
+    "name_jp": "予備隊員-特殊",
+    "name_en": "Reserve Operator - Specialist",
+    "name_zh_tw": "預備幹員-特種"
+  },
+  "char_272_strong": {
+    "name_jp": "ジェイ",
+    "name_en": "Jaye",
+    "name_zh_tw": "孑"
+  },
+  "char_236_rope": {
+    "name_jp": "ロープ",
+    "name_en": "Rope",
+    "name_zh_tw": "暗索"
+  },
+  "char_117_myrrh": {
+    "name_jp": "ミルラ",
+    "name_en": "Myrrh",
+    "name_zh_tw": "末藥"
+  },
+  "char_187_ccheal": {
+    "name_jp": "ガヴィル",
+    "name_en": "Gavial",
+    "name_zh_tw": "嘉維爾"
+  },
+  "char_298_susuro": {
+    "name_jp": "ススーロ",
+    "name_en": "Sussurro",
+    "name_zh_tw": "蘇蘇洛"
+  },
+  "char_605_cmedic": {
+    "name_jp": "予備隊員-医療",
+    "name_en": "Reserve Operator - Medic",
+    "name_zh_tw": "預備幹員-醫療"
+  },
+  "char_181_flower": {
+    "name_jp": "パフューマー",
+    "name_en": "Perfumer",
+    "name_zh_tw": "調香師"
+  },
+  "char_385_finlpp": {
+    "name_jp": "セイリュウ",
+    "name_en": "Purestream",
+    "name_zh_tw": "清流"
+  },
+  "char_4041_chnut": {
+    "name_jp": "チェストナット",
+    "name_en": "Chestnut",
+    "name_zh_tw": "褐果"
+  },
+  "char_199_yak": {
+    "name_jp": "マッターホルン",
+    "name_en": "Matterhorn",
+    "name_zh_tw": "角峰"
+  },
+  "char_150_snakek": {
+    "name_jp": "クオーラ",
+    "name_en": "Cuora",
+    "name_zh_tw": "蛇屠箱"
+  },
+  "char_381_bubble": {
+    "name_jp": "バブル",
+    "name_en": "Bubble",
+    "name_zh_tw": "泡泡"
+  },
+  "char_602_cdfend": {
+    "name_jp": "予備隊員-重装",
+    "name_en": "Reserve Operator - Defender",
+    "name_zh_tw": "預備幹員-重裝"
+  },
+  "char_4130_luton": {
+    "name_jp": "ルトナダ",
+    "name_en": "Lutonada",
+    "name_zh_tw": "露托"
+  },
+  "char_196_sunbr": {
+    "name_jp": "グム",
+    "name_en": "Gummy",
+    "name_zh_tw": "古米"
+  },
+  "char_260_durnar": {
+    "name_jp": "ジュナー",
+    "name_en": "Dur-nar",
+    "name_zh_tw": "堅雷"
+  },
+  "char_110_deepcl": {
+    "name_jp": "ディピカ",
+    "name_en": "Deepcolor",
+    "name_zh_tw": "深海色"
+  },
+  "char_183_skgoat": {
+    "name_jp": "アーススピリット",
+    "name_en": "Earthspirit",
+    "name_zh_tw": "地靈"
+  },
+  "char_258_podego": {
+    "name_jp": "ポデンコ",
+    "name_en": "Podenco",
+    "name_zh_tw": "波登可"
+  },
+  "char_606_csuppo": {
+    "name_jp": "予備隊員-補助",
+    "name_en": "Reserve Operator - Supporter",
+    "name_zh_tw": "預備幹員-輔助"
+  },
+  "char_484_robrta": {
+    "name_jp": "ロベルタ",
+    "name_en": "Roberta",
+    "name_zh_tw": "羅比菈塔"
+  },
+  "char_616_pithst": {
+    "name_jp": "盟約・補助オペレーター",
+    "name_en": "Alliance/Supportive Operator",
+    "name_zh_tw": "盟約·輔助幹員"
+  },
+  "char_355_ethan": {
+    "name_jp": "イーサン",
+    "name_en": "Ethan",
+    "name_zh_tw": "伊桑"
+  },
+  "char_277_sqrrel": {
+    "name_jp": "ショウ",
+    "name_en": "Shaw",
+    "name_zh_tw": "阿消"
+  },
+  "char_4107_vrdant": {
+    "name_jp": "ヴァーダント",
+    "name_en": "Verdant",
+    "name_zh_tw": "維荻"
+  },
+  "char_4165_ctrail": {
+    "name_jp": "コントレイル",
+    "name_en": "Contrail",
+    "name_zh_tw": "雲跡"
+  },
+  "char_128_plosis": {
+    "name_jp": "フィリオプシス",
+    "name_en": "Ptilopsis",
+    "name_zh_tw": "白面鴞"
+  },
+  "char_275_breeze": {
+    "name_jp": "ブリーズ",
+    "name_en": "Breeze",
+    "name_zh_tw": "微風"
+  },
+  "char_4163_rosesa": {
+    "name_jp": "ローズソルト",
+    "name_en": "Rose Salt",
+    "name_zh_tw": "瑰鹽"
+  },
+  "char_115_headbr": {
+    "name_jp": "ズィマー",
+    "name_en": "Zima",
+    "name_zh_tw": "凜冬"
+  },
+  "char_102_texas": {
+    "name_jp": "テキサス",
+    "name_en": "Texas",
+    "name_zh_tw": "德克薩斯"
+  },
+  "char_349_chiave": {
+    "name_jp": "キアーベ",
+    "name_en": "Chiave",
+    "name_zh_tw": "賈維"
+  },
+  "char_488_buildr": {
+    "name_jp": "ポンシラス",
+    "name_en": "Poncirus",
+    "name_zh_tw": "青枳"
+  },
+  "char_513_apionr": {
+    "name_jp": "チューリップ",
+    "name_en": "Tulip",
+    "name_zh_tw": "鬱金香"
+  },
+  "char_4023_rfalcn": {
+    "name_jp": "ケストレル",
+    "name_en": "Kestrel",
+    "name_zh_tw": "紅隼"
+  },
+  "char_4199_makiri": {
+    "name_jp": "マツキリ",
+    "name_en": "Matsukiri",
+    "name_zh_tw": "松桐"
+  },
+  "char_261_sddrag": {
+    "name_jp": "リード",
+    "name_en": "Reed",
+    "name_zh_tw": "葦草"
+  },
+  "char_496_wildmn": {
+    "name_jp": "ワイルドメイン",
+    "name_en": "Wild Mane",
+    "name_zh_tw": "野鬃"
+  },
+  "char_1036_fang2": {
+    "name_jp": "歴陣鋭槍フェン",
+    "name_en": "Fang the Fire-Sharpened",
+    "name_zh_tw": "歷陣銳槍芬"
+  },
+  "char_401_elysm": {
+    "name_jp": "エリジウム",
+    "name_en": "Elysium",
+    "name_zh_tw": "極境"
+  },
+  "char_4119_wanqin": {
+    "name_jp": "ワンチィン",
+    "name_en": "Wanqing",
+    "name_zh_tw": "萬頃"
+  },
+  "char_476_blkngt": {
+    "name_jp": "ブラックナイト",
+    "name_en": "Blacknight",
+    "name_zh_tw": "夜半"
+  },
+  "char_4147_mitm": {
+    "name_jp": "ミトム",
+    "name_en": "Mitm",
+    "name_zh_tw": "渡橋"
+  },
+  "char_497_ctable": {
+    "name_jp": "カンタービレ",
+    "name_en": "Cantabile",
+    "name_zh_tw": "曉歌"
+  },
+  "char_4017_puzzle": {
+    "name_jp": "パズル",
+    "name_en": "Puzzle",
+    "name_zh_tw": "謎圖"
+  },
+  "char_4144_chilc": {
+    "name_jp": "チルチャック",
+    "name_en": "Chilchuck",
+    "name_zh_tw": "奇爾查克"
+  },
+  "char_4052_surfer": {
+    "name_jp": "サーファー",
+    "name_en": "Surfer",
+    "name_zh_tw": "尋瀾"
+  },
+  "char_308_swire": {
+    "name_jp": "スワイヤー",
+    "name_en": "Swire",
+    "name_zh_tw": "詩懷雅"
+  },
+  "char_265_sophia": {
+    "name_jp": "ウィスラッシュ",
+    "name_en": "Whislash",
+    "name_zh_tw": "鞭刃"
+  },
+  "char_4106_bryota": {
+    "name_jp": "ブライオファイタ",
+    "name_en": "Bryophyta",
+    "name_zh_tw": "蒼苔"
+  },
+  "char_4125_rdoc": {
+    "name_jp": "Doc",
+    "name_en": "Doc",
+    "name_zh_tw": "DOC"
+  },
+  "char_106_franka": {
+    "name_jp": "フランカ",
+    "name_en": "Franka",
+    "name_zh_tw": "芙蘭卡"
+  },
+  "char_131_flameb": {
+    "name_jp": "エンカク",
+    "name_en": "Flamebringer",
+    "name_zh_tw": "炎客"
+  },
+  "char_154_morgan": {
+    "name_jp": "モーガン",
+    "name_en": "Morgan",
+    "name_zh_tw": "摩根"
+  },
+  "char_508_aguard": {
+    "name_jp": "Sharp",
+    "name_en": "Sharp",
+    "name_zh_tw": "Sharp"
+  },
+  "char_4142_laios": {
+    "name_jp": "ライオス",
+    "name_en": "Laios",
+    "name_zh_tw": "萊歐斯"
+  },
+  "char_155_tiger": {
+    "name_jp": "インドラ",
+    "name_en": "Indra",
+    "name_zh_tw": "因陀羅"
+  },
+  "char_415_flint": {
+    "name_jp": "フリント",
+    "name_en": "Flint",
+    "name_zh_tw": "燧石"
+  },
+  "char_157_dagda": {
+    "name_jp": "ダグザ",
+    "name_en": "Dagda",
+    "name_zh_tw": "達格達"
+  },
+  "char_140_whitew": {
+    "name_jp": "ラップランド",
+    "name_en": "Lappland",
+    "name_zh_tw": "拉普蘭德"
+  },
+  "char_294_ayer": {
+    "name_jp": "エアースカーペ",
+    "name_en": "Ayerscarpe",
+    "name_zh_tw": "斷崖"
+  },
+  "char_194_leto": {
+    "name_jp": "リェータ",
+    "name_en": "Leto",
+    "name_zh_tw": "烈夏"
+  },
+  "char_4083_chimes": {
+    "name_jp": "ウィンドチャイム",
+    "name_en": "Wind Chimes",
+    "name_zh_tw": "鐸鈴"
+  },
+  "char_252_bibeak": {
+    "name_jp": "バイビーク",
+    "name_en": "Bibeak",
+    "name_zh_tw": "柏喙"
+  },
+  "char_459_tachak": {
+    "name_jp": "Tachanka",
+    "name_en": "Tachanka",
+    "name_zh_tw": "TACHANKA"
+  },
+  "char_143_ghost": {
+    "name_jp": "スペクター",
+    "name_en": "Specter",
+    "name_zh_tw": "幽靈鯊"
+  },
+  "char_356_broca": {
+    "name_jp": "ブローカ",
+    "name_en": "Broca",
+    "name_zh_tw": "布洛卡"
+  },
+  "char_4126_fuze": {
+    "name_jp": "Fuze",
+    "name_en": "Fuze",
+    "name_zh_tw": "FUZE"
+  },
+  "char_4166_varkis": {
+    "name_jp": "ヴァルカリス",
+    "name_en": "Varkáris",
+    "name_zh_tw": "擺渡人"
+  },
+  "char_274_astesi": {
+    "name_jp": "アステシア",
+    "name_en": "Astesia",
+    "name_zh_tw": "星極"
+  },
+  "char_333_sidero": {
+    "name_jp": "シデロカ",
+    "name_en": "Sideroca",
+    "name_zh_tw": "鑄鐵"
+  },
+  "char_475_akafyu": {
+    "name_jp": "アカフユ",
+    "name_en": "Akafuyu",
+    "name_zh_tw": "赤冬"
+  },
+  "char_1030_noirc2": {
+    "name_jp": "レウスSノイルホーン",
+    "name_en": "Rathalos S Noir Corne",
+    "name_zh_tw": "火龍S黑角"
+  },
+  "char_421_crow": {
+    "name_jp": "ラ・プルマ",
+    "name_en": "La Pluma",
+    "name_zh_tw": "羽毛筆"
+  },
+  "char_4066_highmo": {
+    "name_jp": "ハイモア",
+    "name_en": "Highmore",
+    "name_zh_tw": "海沫"
+  },
+  "char_486_takila": {
+    "name_jp": "テキーラ",
+    "name_en": "Tequila",
+    "name_zh_tw": "龍舌蘭"
+  },
+  "char_4131_odda": {
+    "name_jp": "オッダ",
+    "name_en": "Odda",
+    "name_zh_tw": "奧達"
+  },
+  "char_4187_graceb": {
+    "name_jp": "グレースベアラー",
+    "name_en": "Gracebearer",
+    "name_zh_tw": "聆音"
+  },
+  "char_4185_amoris": {
+    "name_jp": "祐天寺にゃむ",
+    "name_en": "Nyamu Yūtenji",
+    "name_zh_tw": "祐天寺若麥"
+  },
+  "char_394_hadiya": {
+    "name_jp": "ハディヤ",
+    "name_en": "Hadiya",
+    "name_zh_tw": "哈蒂婭"
+  },
+  "char_129_bluep": {
+    "name_jp": "アズリウス",
+    "name_en": "Blue Poison",
+    "name_zh_tw": "藍毒"
+  },
+  "char_204_platnm": {
+    "name_jp": "プラチナ",
+    "name_en": "Platinum",
+    "name_zh_tw": "白金"
+  },
+  "char_367_swllow": {
+    "name_jp": "グレースロート",
+    "name_en": "GreyThroat",
+    "name_zh_tw": "灰喉"
+  },
+  "char_511_asnipe": {
+    "name_jp": "Stormeye",
+    "name_en": "Stormeye",
+    "name_zh_tw": "Stormeye"
+  },
+  "char_365_aprl": {
+    "name_jp": "エイプリル",
+    "name_en": "April",
+    "name_zh_tw": "四月"
+  },
+  "char_1021_kroos2": {
+    "name_jp": "寒芒クルース",
+    "name_en": "Kroos the Keen Glint",
+    "name_zh_tw": "寒芒克洛絲"
+  },
+  "char_498_inside": {
+    "name_jp": "インサイダー",
+    "name_en": "Insider",
+    "name_zh_tw": "隱現"
+  },
+  "char_219_meteo": {
+    "name_jp": "メテオリーテ",
+    "name_en": "Meteorite",
+    "name_zh_tw": "隕星"
+  },
+  "char_379_sesa": {
+    "name_jp": "シェーシャ",
+    "name_en": "Sesa",
+    "name_zh_tw": "懾砂"
+  },
+  "char_4078_bdhkgt": {
+    "name_jp": "ジエユン",
+    "name_en": "Jieyun",
+    "name_zh_tw": "截雲"
+  },
+  "char_279_excu": {
+    "name_jp": "イグゼキュター",
+    "name_en": "Executor",
+    "name_zh_tw": "送葬人"
+  },
+  "char_346_aosta": {
+    "name_jp": "アオスタ",
+    "name_en": "Aosta",
+    "name_zh_tw": "奥斯塔"
+  },
+  "char_4203_kichi": {
+    "name_jp": "キチセイ",
+    "name_en": "Kichisei",
+    "name_zh_tw": "吉星"
+  },
+  "char_4213_skybx": {
+    "name_jp": "スカイボックス",
+    "name_en": "Skybox",
+    "name_zh_tw": "天空盒"
+  },
+  "char_002_amiya": {
+    "name_jp": "アーミヤ",
+    "name_en": "Amiya",
+    "name_zh_tw": "阿米婭"
+  },
+  "char_405_absin": {
+    "name_jp": "アブサント",
+    "name_en": "Absinthe",
+    "name_zh_tw": "苦艾"
+  },
+  "char_411_tomimi": {
+    "name_jp": "トミミ",
+    "name_en": "Tomimi",
+    "name_zh_tw": "特米米"
+  },
+  "char_466_qanik": {
+    "name_jp": "カニパラート",
+    "name_en": "Qanipalaat",
+    "name_zh_tw": "雪絨"
+  },
+  "char_166_skfire": {
+    "name_jp": "スカイフレア",
+    "name_en": "Skyfire",
+    "name_zh_tw": "天火"
+  },
+  "char_509_acast": {
+    "name_jp": "Pith",
+    "name_en": "Pith",
+    "name_zh_tw": "Pith"
+  },
+  "char_306_leizi": {
+    "name_jp": "レイズ",
+    "name_en": "Leizi",
+    "name_zh_tw": "驚蟄"
+  },
+  "char_135_halo": {
+    "name_jp": "アステジーニ",
+    "name_en": "Astgenne",
+    "name_zh_tw": "星源"
+  },
+  "char_344_beewax": {
+    "name_jp": "ビーズワクス",
+    "name_en": "Beeswax",
+    "name_zh_tw": "蜜蠟"
+  },
+  "char_373_lionhd": {
+    "name_jp": "レオンハルト",
+    "name_en": "Leonhardt",
+    "name_zh_tw": "萊恩哈特"
+  },
+  "char_341_sntlla": {
+    "name_jp": "サンタラ",
+    "name_en": "Santalla",
+    "name_zh_tw": "寒檀"
+  },
+  "char_4031_liesel": {
+    "name_jp": "リプレーザ",
+    "name_en": "Ripresa",
+    "name_zh_tw": "復奏"
+  },
+  "char_388_mint": {
+    "name_jp": "ミント",
+    "name_en": "Mint",
+    "name_zh_tw": "薄綠"
+  },
+  "char_338_iris": {
+    "name_jp": "アイリス",
+    "name_en": "Iris",
+    "name_zh_tw": "愛麗絲"
+  },
+  "char_297_hamoni": {
+    "name_jp": "ハーモニー",
+    "name_en": "Harmonie",
+    "name_zh_tw": "和弦"
+  },
+  "char_4110_delphn": {
+    "name_jp": "デルフィーン",
+    "name_en": "Delphine",
+    "name_zh_tw": "戴菲恩"
+  },
+  "char_1011_lava2": {
+    "name_jp": "炎獄ラヴァ",
+    "name_en": "Lava the Purgatory",
+    "name_zh_tw": "炎獄炎熔"
+  },
+  "char_489_serum": {
+    "name_jp": "コロセラム",
+    "name_en": "Corroserum",
+    "name_zh_tw": "蝕清"
+  },
+  "char_446_aroma": {
+    "name_jp": "アロマ",
+    "name_en": "Aroma",
+    "name_zh_tw": "阿羅瑪"
+  },
+  "char_4013_kjera": {
+    "name_jp": "イェラ",
+    "name_en": "Kjera",
+    "name_zh_tw": "耶拉"
+  },
+  "char_4040_rockr": {
+    "name_jp": "ロックロック",
+    "name_en": "Rockrock",
+    "name_zh_tw": "洛洛"
+  },
+  "char_4054_malist": {
+    "name_jp": "ミニマリスト",
+    "name_en": "Minimalist",
+    "name_zh_tw": "至簡"
+  },
+  "char_499_kaitou": {
+    "name_jp": "ディアマンテ",
+    "name_en": "Diamante",
+    "name_zh_tw": "折光"
+  },
+  "char_4081_warmy": {
+    "name_jp": "ウォーミー",
+    "name_en": "Warmy",
+    "name_zh_tw": "溫米"
+  },
+  "char_4198_christ": {
+    "name_jp": "ミス・クリスティーン",
+    "name_en": "Miss.Christine",
+    "name_zh_tw": "Miss.Christine"
+  },
+  "char_4164_tecno": {
+    "name_jp": "テクノ",
+    "name_en": "Tecno",
+    "name_zh_tw": "特克諾"
+  },
+  "char_242_otter": {
+    "name_jp": "メイヤー",
+    "name_en": "Mayer",
+    "name_zh_tw": "梅爾"
+  },
+  "char_336_folivo": {
+    "name_jp": "シーン",
+    "name_en": "Scene",
+    "name_zh_tw": "稀音"
+  },
+  "char_4140_lasher": {
+    "name_jp": "サンドレコナー",
+    "name_en": "Sand Reckoner",
+    "name_zh_tw": "衡沙"
+  },
+  "char_108_silent": {
+    "name_jp": "サイレンス",
+    "name_en": "Silence",
+    "name_zh_tw": "赫默"
+  },
+  "char_171_bldsk": {
+    "name_jp": "ワルファリン",
+    "name_en": "Warfarin",
+    "name_zh_tw": "華法琳"
+  },
+  "char_345_folnic": {
+    "name_jp": "フォリニック",
+    "name_en": "Folinic",
+    "name_zh_tw": "亞葉"
+  },
+  "char_510_amedic": {
+    "name_jp": "Touch",
+    "name_en": "Touch",
+    "name_zh_tw": "Touch"
+  },
+  "char_4196_reckpr": {
+    "name_jp": "レコードキーパー",
+    "name_en": "Record Keeper",
+    "name_zh_tw": "錄武官"
+  },
+  "char_348_ceylon": {
+    "name_jp": "セイロン",
+    "name_en": "Ceylon",
+    "name_zh_tw": "錫蘭"
+  },
+  "char_436_whispr": {
+    "name_jp": "ウィスパーレイン",
+    "name_en": "Whisperain",
+    "name_zh_tw": "絮雨"
+  },
+  "char_4173_nowell": {
+    "name_jp": "ノウエル",
+    "name_en": "Nowell",
+    "name_zh_tw": "諾威爾"
+  },
+  "char_402_tuye": {
+    "name_jp": "トゥイエ",
+    "name_en": "Tuye",
+    "name_zh_tw": "圖耶"
+  },
+  "char_473_mberry": {
+    "name_jp": "マルベリー",
+    "name_en": "Mulberry",
+    "name_zh_tw": "桑葚"
+  },
+  "char_449_glider": {
+    "name_jp": "ハニーベリー",
+    "name_en": "Honeyberry",
+    "name_zh_tw": "蜜莓"
+  },
+  "char_4114_harold": {
+    "name_jp": "ハロルド",
+    "name_en": "Harold",
+    "name_zh_tw": "哈洛德"
+  },
+  "char_1024_hbisc2": {
+    "name_jp": "濯塵ハイビスカス",
+    "name_en": "Hibiscus the Purifier",
+    "name_zh_tw": "濯塵芙蓉"
+  },
+  "char_494_vendla": {
+    "name_jp": "ヴァンデラ",
+    "name_en": "Vendela",
+    "name_zh_tw": "刺玫"
+  },
+  "char_4071_peper": {
+    "name_jp": "パプリカ",
+    "name_en": "Paprika",
+    "name_zh_tw": "明椒"
+  },
+  "char_4139_papyrs": {
+    "name_jp": "パピルス",
+    "name_en": "Papyrus",
+    "name_zh_tw": "莎草"
+  },
+  "char_4224_turdus": {
+    "name_jp": "ウクシク",
+    "name_en": "Ukusik",
+    "name_zh_tw": "烏啾"
+  },
+  "char_4222_taraxa": {
+    "name_jp": "タラクサカム",
+    "name_en": "Taraxacum",
+    "name_zh_tw": "風絮"
+  },
+  "char_148_nearl": {
+    "name_jp": "ニアール",
+    "name_en": "Nearl",
+    "name_zh_tw": "臨光"
+  },
+  "char_226_hmau": {
+    "name_jp": "ウン",
+    "name_en": "Hung",
+    "name_zh_tw": "吽"
+  },
+  "char_4109_baslin": {
+    "name_jp": "ベースライン",
+    "name_en": "Bassline",
+    "name_zh_tw": "深律"
+  },
+  "char_4143_sensi": {
+    "name_jp": "センシ",
+    "name_en": "Senshi",
+    "name_zh_tw": "先西"
+  },
+  "char_144_red": {
+    "name_jp": "レッド",
+    "name_en": "Projekt Red",
+    "name_zh_tw": "紅"
+  },
+  "char_243_waaifu": {
+    "name_jp": "ワイフー",
+    "name_en": "Waai Fu",
+    "name_zh_tw": "槐琥"
+  },
+  "char_214_kafka": {
+    "name_jp": "カフカ",
+    "name_en": "Kafka",
+    "name_zh_tw": "卡夫卡"
+  },
+  "char_455_nothin": {
+    "name_jp": "ウユウ",
+    "name_en": "Mr. Nothing",
+    "name_zh_tw": "烏有"
+  },
+  "char_4155_talr": {
+    "name_jp": "フィグリーノ",
+    "name_en": "Figurino",
+    "name_zh_tw": "裁度"
+  },
+  "char_107_liskam": {
+    "name_jp": "リスカム",
+    "name_en": "Liskarm",
+    "name_zh_tw": "雷蛇"
+  },
+  "char_4137_udflow": {
+    "name_jp": "アンダーフロー",
+    "name_en": "Underflow",
+    "name_zh_tw": "深巡"
+  },
+  "char_201_moeshd": {
+    "name_jp": "クロワッサン",
+    "name_en": "Croissant",
+    "name_zh_tw": "可頌"
+  },
+  "char_325_bison": {
+    "name_jp": "バイソン",
+    "name_en": "Bison",
+    "name_zh_tw": "拜松"
+  },
+  "char_163_hpsts": {
+    "name_jp": "ヴァルカン",
+    "name_en": "Vulcan",
+    "name_zh_tw": "火神"
+  },
+  "char_4207_branch": {
+    "name_jp": "ヴェトチキ",
+    "name_en": "Vetochki",
+    "name_zh_tw": "折椏"
+  },
+  "char_378_asbest": {
+    "name_jp": "アスベストス",
+    "name_en": "Asbestos",
+    "name_zh_tw": "石棉"
+  },
+  "char_512_aprot": {
+    "name_jp": "シャレム",
+    "name_en": "Shalem",
+    "name_zh_tw": "暮落"
+  },
+  "char_4025_aprot2": {
+    "name_jp": "シャレム",
+    "name_en": "Shalem",
+    "name_zh_tw": "暮落"
+  },
+  "char_4047_pianst": {
+    "name_jp": "ツェルニー",
+    "name_en": "Czerny",
+    "name_zh_tw": "車爾尼"
+  },
+  "char_457_blitz": {
+    "name_jp": "Blitz",
+    "name_en": "Blitz",
+    "name_zh_tw": "BLITZ"
+  },
+  "char_304_zebra": {
+    "name_jp": "ヘビーレイン",
+    "name_en": "Heavyrain",
+    "name_zh_tw": "暴雨"
+  },
+  "char_431_ashlok": {
+    "name_jp": "アッシュロック",
+    "name_en": "Ashlock",
+    "name_zh_tw": "灰毫"
+  },
+  "char_493_firwhl": {
+    "name_jp": "ファイヤーホイッスル",
+    "name_en": "Firewhistle",
+    "name_zh_tw": "火哨"
+  },
+  "char_422_aurora": {
+    "name_jp": "オーロラ",
+    "name_en": "Aurora",
+    "name_zh_tw": "極光"
+  },
+  "char_464_cement": {
+    "name_jp": "セメント",
+    "name_en": "Cement",
+    "name_zh_tw": "洋灰"
+  },
+  "char_4148_philae": {
+    "name_jp": "フィラエ",
+    "name_en": "Philae",
+    "name_zh_tw": "菲萊"
+  },
+  "char_4225_tanya": {
+    "name_jp": "クラックボーン",
+    "name_en": "Crackborne",
+    "name_zh_tw": null
+  },
+  "char_145_prove": {
+    "name_jp": "プロヴァンス",
+    "name_en": "Provence",
+    "name_zh_tw": "普羅旺斯"
+  },
+  "char_4006_melnte": {
+    "name_jp": "メラナイト",
+    "name_en": "Melanite",
+    "name_zh_tw": "玫拉"
+  },
+  "char_158_milu": {
+    "name_jp": "ファイヤーウォッチ",
+    "name_en": "Firewatch",
+    "name_zh_tw": "守林人"
+  },
+  "char_218_cuttle": {
+    "name_jp": "アンドレアナ",
+    "name_en": "Andreana",
+    "name_zh_tw": "安哲拉"
+  },
+  "char_4014_lunacu": {
+    "name_jp": "ルナカブ",
+    "name_en": "Lunacub",
+    "name_zh_tw": "子月"
+  },
+  "char_363_toddi": {
+    "name_jp": "トギフォンス",
+    "name_en": "Toddifons",
+    "name_zh_tw": "熔泉"
+  },
+  "char_4043_erato": {
+    "name_jp": "エラト",
+    "name_en": "Erato",
+    "name_zh_tw": "埃拉托"
+  },
+  "char_4221_ju": {
+    "name_jp": "ジュー",
+    "name_en": "Ju",
+    "name_zh_tw": "矩"
+  },
+  "char_1027_greyy2": {
+    "name_jp": "承曦グレイ",
+    "name_en": "Greyy the Lightningbearer",
+    "name_zh_tw": "承曦格雷伊"
+  },
+  "char_4104_coldst": {
+    "name_jp": "コールドショット",
+    "name_en": "Coldshot",
+    "name_zh_tw": "冰釀"
+  },
+  "char_4211_snhunt": {
+    "name_jp": "スノーハンター",
+    "name_en": "Snow Hunter",
+    "name_zh_tw": "雪獵"
+  },
+  "char_4177_brigid": {
+    "name_jp": "ブリギッド",
+    "name_en": "Brigid",
+    "name_zh_tw": "水燈心"
+  },
+  "char_4015_spuria": {
+    "name_jp": "スプリア",
+    "name_en": "Spuria",
+    "name_zh_tw": "空構"
+  },
+  "char_173_slchan": {
+    "name_jp": "クリフハート",
+    "name_en": "Cliffheart",
+    "name_zh_tw": "崖心"
+  },
+  "char_383_snsant": {
+    "name_jp": "スノーズント",
+    "name_en": "Snowsant",
+    "name_zh_tw": "雪雉"
+  },
+  "char_4105_almond": {
+    "name_jp": "アーモンド",
+    "name_en": "Almond",
+    "name_zh_tw": "杏仁"
+  },
+  "char_174_slbell": {
+    "name_jp": "プラマニクス",
+    "name_en": "Pramanix",
+    "name_zh_tw": "初雪"
+  },
+  "char_254_vodfox": {
+    "name_jp": "シャマレ",
+    "name_en": "Shamare",
+    "name_zh_tw": "巫戀"
+  },
+  "char_4079_haini": {
+    "name_jp": "ルシーラ",
+    "name_en": "Lucilla",
+    "name_zh_tw": "海霓"
+  },
+  "char_195_glassb": {
+    "name_jp": "イースチナ",
+    "name_en": "Istina",
+    "name_zh_tw": "真理"
+  },
+  "char_326_glacus": {
+    "name_jp": "グラウコス",
+    "name_en": "Glaucus",
+    "name_zh_tw": "格勞克斯"
+  },
+  "char_4032_provs": {
+    "name_jp": "プロヴァイゾ",
+    "name_en": "Proviso",
+    "name_zh_tw": "但書"
+  },
+  "char_4122_grabds": {
+    "name_jp": "グレインバッズ",
+    "name_en": "Grain Buds",
+    "name_zh_tw": "小滿"
+  },
+  "char_433_windft": {
+    "name_jp": "ウインドフリット",
+    "name_en": "Windflit",
+    "name_zh_tw": "掠風"
+  },
+  "char_4162_cathy": {
+    "name_jp": "キャサリン",
+    "name_en": "Catherine",
+    "name_zh_tw": "凱瑟琳"
+  },
+  "char_4178_alanna": {
+    "name_jp": "アランナ",
+    "name_en": "Alanna",
+    "name_zh_tw": "阿蘭娜"
+  },
+  "char_101_sora": {
+    "name_jp": "ソラ",
+    "name_en": "Sora",
+    "name_zh_tw": "空"
+  },
+  "char_4045_heidi": {
+    "name_jp": "ハイディ",
+    "name_en": "Heidi",
+    "name_zh_tw": "海蒂"
+  },
+  "char_4184_dolris": {
+    "name_jp": "三角初華",
+    "name_en": "Uika Misumi",
+    "name_zh_tw": "三角初華"
+  },
+  "char_343_tknogi": {
+    "name_jp": "ツキノギ",
+    "name_en": "Tsukinogi",
+    "name_zh_tw": "月禾"
+  },
+  "char_4019_ncdeer": {
+    "name_jp": "九色鹿",
+    "name_en": "Nine-Colored Deer",
+    "name_zh_tw": "九色鹿"
+  },
+  "char_492_quercu": {
+    "name_jp": "クエルクス",
+    "name_en": "Quercus",
+    "name_zh_tw": "夏櫟"
+  },
+  "char_4172_xingzh": {
+    "name_jp": "シィンズゥ",
+    "name_en": "Xingzhu",
+    "name_zh_tw": "行箸"
+  },
+  "char_1022_flwr2": {
+    "name_jp": "萃香パフューマー",
+    "name_en": "Perfumer the Distilled",
+    "name_zh_tw": "擷英調香師"
+  },
+  "char_4102_threye": {
+    "name_jp": "ヴァラルクビン",
+    "name_en": "Valarqvin",
+    "name_zh_tw": "凜視"
+  },
+  "char_487_bobb": {
+    "name_jp": "ボビング",
+    "name_en": "Bobbing",
+    "name_zh_tw": "波卜"
+  },
+  "char_4223_botany": {
+    "name_jp": "ボタニ",
+    "name_en": "Botani",
+    "name_zh_tw": "伯塔尼"
+  },
+  "char_215_mantic": {
+    "name_jp": "マンティコア",
+    "name_en": "Manticore",
+    "name_zh_tw": "獅蠍"
+  },
+  "char_478_kirara": {
+    "name_jp": "キララ",
+    "name_en": "Kirara",
+    "name_zh_tw": "綺良"
+  },
+  "char_4186_tmoris": {
+    "name_jp": "八幡海鈴",
+    "name_en": "Umiri Yahata",
+    "name_zh_tw": "八幡海鈴"
+  },
+  "char_241_panda": {
+    "name_jp": "エフイーター",
+    "name_en": "FEater",
+    "name_zh_tw": "食鐵獸"
+  },
+  "char_4036_forcer": {
+    "name_jp": "エンフォーサー",
+    "name_en": "Enforcer",
+    "name_zh_tw": "見行者"
+  },
+  "char_451_robin": {
+    "name_jp": "ロビン",
+    "name_en": "Robin",
+    "name_zh_tw": "羅賓"
+  },
+  "char_458_rfrost": {
+    "name_jp": "Frost",
+    "name_en": "Frost",
+    "name_zh_tw": "FROST"
+  },
+  "char_4171_wulfen": {
+    "name_jp": "ウルフェナイト",
+    "name_en": "Wulfenite",
+    "name_zh_tw": "鉬鉛"
+  },
+  "char_369_bena": {
+    "name_jp": "ベナ",
+    "name_en": "Bena",
+    "name_zh_tw": "貝娜"
+  },
+  "char_4016_kazema": {
+    "name_jp": "カゼマル",
+    "name_en": "Kazemaru",
+    "name_zh_tw": "風丸"
+  },
+  "char_4124_iana": {
+    "name_jp": "Iana",
+    "name_en": "Iana",
+    "name_zh_tw": "IANA"
+  },
+  "char_4183_mortis": {
+    "name_jp": "若葉睦",
+    "name_en": "Mutsumi Wakaba",
+    "name_zh_tw": "若葉睦"
+  },
+  "char_4151_tinman": {
+    "name_jp": "ブリキ",
+    "name_en": "Tin Man",
+    "name_zh_tw": "錫人"
+  },
+  "char_4191_tippi": {
+    "name_jp": "ティッピ",
+    "name_en": "Tippi",
+    "name_zh_tw": "蒂比"
+  },
+  "char_103_angel": {
+    "name_jp": "エクシア",
+    "name_en": "Exusiai",
+    "name_zh_tw": "能天使"
+  },
+  "char_332_archet": {
+    "name_jp": "アルケット",
+    "name_en": "Archetto",
+    "name_zh_tw": "空弦"
+  },
+  "char_456_ash": {
+    "name_jp": "Ash",
+    "name_en": "Ash",
+    "name_zh_tw": "ASH"
+  },
+  "char_611_acnipe": {
+    "name_jp": "Stormeye",
+    "name_en": "Stormeye",
+    "name_zh_tw": "Stormeye"
+  },
+  "char_340_shwaz": {
+    "name_jp": "シュヴァルツ",
+    "name_en": "Schwarz",
+    "name_zh_tw": "黑"
+  },
+  "char_4055_bgsnow": {
+    "name_jp": "パゼオンカ",
+    "name_en": "Pozëmka",
+    "name_zh_tw": "鴻雪"
+  },
+  "char_430_fartth": {
+    "name_jp": "ファートゥース",
+    "name_en": "Fartooth",
+    "name_zh_tw": "遠牙"
+  },
+  "char_4193_lemuen": {
+    "name_jp": "レミュアン",
+    "name_en": "Lemuen",
+    "name_zh_tw": "蕾繆安"
+  },
+  "char_113_cqbw": {
+    "name_jp": "W",
+    "name_en": "W",
+    "name_zh_tw": "W"
+  },
+  "char_300_phenxi": {
+    "name_jp": "フィアメッタ",
+    "name_en": "Fiammetta",
+    "name_zh_tw": "菲亞梅塔"
+  },
+  "char_197_poca": {
+    "name_jp": "ロサ",
+    "name_en": "Rosa",
+    "name_zh_tw": "早露"
+  },
+  "char_2012_typhon": {
+    "name_jp": "ティフォン",
+    "name_en": "Typhon",
+    "name_zh_tw": "提豐"
+  },
+  "char_391_rosmon": {
+    "name_jp": "ロスモンティス",
+    "name_en": "Rosmontis",
+    "name_zh_tw": "迷迭香"
+  },
+  "char_1035_wisdel": {
+    "name_jp": "ウィシャデル",
+    "name_en": "Wiš'adel",
+    "name_zh_tw": "維什戴爾"
+  },
+  "char_1013_chen2": {
+    "name_jp": "遊龍チェン",
+    "name_en": "Ch'en the Holungday",
+    "name_zh_tw": "假日威龍陳"
+  },
+  "char_4117_ray": {
+    "name_jp": "レイ",
+    "name_en": "Ray",
+    "name_zh_tw": "萊伊"
+  },
+  "char_4138_narant": {
+    "name_jp": "ナラントゥヤ",
+    "name_en": "Narantuya",
+    "name_zh_tw": "娜仁圖亞"
+  },
+  "char_112_siege": {
+    "name_jp": "シージ",
+    "name_en": "Siege",
+    "name_zh_tw": "推進之王"
+  },
+  "char_222_bpipe": {
+    "name_jp": "バグパイプ",
+    "name_en": "Bagpipe",
+    "name_zh_tw": "風笛"
+  },
+  "char_362_saga": {
+    "name_jp": "サガ",
+    "name_en": "Saga",
+    "name_zh_tw": "嵯峨"
+  },
+  "char_4026_vulpis": {
+    "name_jp": "ウルピスフォリア",
+    "name_en": "Vulpisfoglia",
+    "name_zh_tw": "忍冬"
+  },
+  "char_479_sleach": {
+    "name_jp": "サイラッハ",
+    "name_en": "Saileach",
+    "name_zh_tw": "琴柳"
+  },
+  "char_420_flamtl": {
+    "name_jp": "フレイムテイル",
+    "name_en": "Flametail",
+    "name_zh_tw": "焰尾"
+  },
+  "char_608_acpion": {
+    "name_jp": "チューリップ",
+    "name_en": "Tulip",
+    "name_zh_tw": "鬱金香"
+  },
+  "char_427_vigil": {
+    "name_jp": "ヴィジェル",
+    "name_en": "Vigil",
+    "name_zh_tw": "伺夜"
+  },
+  "char_249_mlyss": {
+    "name_jp": "ミュルジス",
+    "name_en": "Muelsyse",
+    "name_zh_tw": "繆爾賽思"
+  },
+  "char_4228_closur": {
+    "name_jp": "クロージャ",
+    "name_en": "Closure",
+    "name_zh_tw": null
+  },
+  "char_1045_svash2": {
+    "name_jp": "凛御シルバーアッシュ",
+    "name_en": "SilverAsh the Reignfrost",
+    "name_zh_tw": "凜御銀灰"
+  },
+  "char_4087_ines": {
+    "name_jp": "イネス",
+    "name_en": "Ines",
+    "name_zh_tw": "伊內絲"
+  },
+  "char_134_ifrit": {
+    "name_jp": "イフリータ",
+    "name_en": "Ifrit",
+    "name_zh_tw": "伊芙利特"
+  },
+  "char_213_mostma": {
+    "name_jp": "モスティマ",
+    "name_en": "Mostima",
+    "name_zh_tw": "莫斯提馬"
+  },
+  "char_180_amgoat": {
+    "name_jp": "エイヤフィヤトラ",
+    "name_en": "Eyjafjalla",
+    "name_zh_tw": "艾雅法拉"
+  },
+  "char_2013_cerber": {
+    "name_jp": "ケオベ",
+    "name_en": "Ceobe",
+    "name_zh_tw": "刻俄柏"
+  },
+  "char_4027_heyak": {
+    "name_jp": "ホルハイヤ",
+    "name_en": "Ho'olheyak",
+    "name_zh_tw": "霍爾海雅"
+  },
+  "char_4133_logos": {
+    "name_jp": "ロゴス",
+    "name_en": "Logos",
+    "name_zh_tw": "邏各斯"
+  },
+  "char_2015_dusk": {
+    "name_jp": "シー",
+    "name_en": "Dusk",
+    "name_zh_tw": "夕"
+  },
+  "char_4141_marcil": {
+    "name_jp": "マルシル",
+    "name_en": "Marcille",
+    "name_zh_tw": "瑪露希爾"
+  },
+  "char_612_accast": {
+    "name_jp": "Pith",
+    "name_en": "Pith",
+    "name_zh_tw": "Pith"
+  },
+  "char_472_pasngr": {
+    "name_jp": "パッセンジャー",
+    "name_en": "Passenger",
+    "name_zh_tw": "異客"
+  },
+  "char_426_billro": {
+    "name_jp": "カーネリアン",
+    "name_en": "Carnelian",
+    "name_zh_tw": "卡涅利安"
+  },
+  "char_4080_lin": {
+    "name_jp": "リン",
+    "name_en": "Lin",
+    "name_zh_tw": "林"
+  },
+  "char_1046_sbell2": {
+    "name_jp": "聖聆プラマニクス",
+    "name_en": "Pramanix the Prerita",
+    "name_zh_tw": "聖聆初雪"
+  },
+  "char_377_gdglow": {
+    "name_jp": "ゴールデングロー",
+    "name_en": "Goldenglow",
+    "name_zh_tw": "澄閃"
+  },
+  "char_1038_whitw2": {
+    "name_jp": "荒蕪ラップランド",
+    "name_en": "Lappland the Decadenza",
+    "name_zh_tw": "荒蕪拉普蘭德"
+  },
+  "char_4046_ebnhlz": {
+    "name_jp": "エーベンホルツ",
+    "name_en": "Ebenholz",
+    "name_zh_tw": "黑鍵"
+  },
+  "char_4226_veen": {
+    "name_jp": "ヴィイ",
+    "name_en": "Viy",
+    "name_zh_tw": null
+  },
+  "char_4146_nymph": {
+    "name_jp": "ニンフ",
+    "name_en": "Nymph",
+    "name_zh_tw": "妮芙"
+  },
+  "char_1040_blaze2": {
+    "name_jp": "熾炎ブレイズ",
+    "name_en": "Blaze the Igniting Spark",
+    "name_zh_tw": "燭煌"
+  },
+  "char_4204_mantra": {
+    "name_jp": "マントラ",
+    "name_en": "Mantra",
+    "name_zh_tw": "真言"
+  },
+  "char_450_necras": {
+    "name_jp": "ネクラス",
+    "name_en": "Necrass",
+    "name_zh_tw": "死芒"
+  },
+  "char_206_gnosis": {
+    "name_jp": "ノーシス",
+    "name_en": "Gnosis",
+    "name_zh_tw": "靈知"
+  },
+  "char_291_aglina": {
+    "name_jp": "アンジェリーナ",
+    "name_en": "Angelina",
+    "name_zh_tw": "安潔莉娜"
+  },
+  "char_358_lisa": {
+    "name_jp": "スズラン",
+    "name_en": "Suzuran",
+    "name_zh_tw": "鈴蘭"
+  },
+  "char_614_acsupo": {
+    "name_jp": "Raidian",
+    "name_en": "Raidian",
+    "name_zh_tw": "Raidian"
+  },
+  "char_1047_halo2": {
+    "name_jp": "溯光アステジーニ",
+    "name_en": "Astgenne the Lightchaser",
+    "name_zh_tw": "溯光星源"
+  },
+  "char_248_mgllan": {
+    "name_jp": "マゼラン",
+    "name_en": "Magallan",
+    "name_zh_tw": "麥哲倫"
+  },
+  "char_4195_radian": {
+    "name_jp": "レイディアン",
+    "name_en": "Raidian",
+    "name_zh_tw": "電弧"
+  },
+  "char_1012_skadi2": {
+    "name_jp": "濁心スカジ",
+    "name_en": "Skadi the Corrupting Heart",
+    "name_zh_tw": "濁心斯卡蒂"
+  },
+  "char_4134_cetsyr": {
+    "name_jp": "シヴィライト・エテルナ",
+    "name_en": "Civilight Eterna",
+    "name_zh_tw": "魔王"
+  },
+  "char_1031_slent2": {
+    "name_jp": "淬羽サイレンス",
+    "name_en": "Silence the Paradigmatic",
+    "name_zh_tw": "淬羽赫默"
+  },
+  "char_4202_haruka": {
+    "name_jp": "ハルカ",
+    "name_en": "Haruka",
+    "name_zh_tw": "遙"
+  },
+  "char_2023_ling": {
+    "name_jp": "リィン",
+    "name_en": "Ling",
+    "name_zh_tw": "令"
+  },
+  "char_4072_ironmn": {
+    "name_jp": "ステインレス",
+    "name_en": "Stainless",
+    "name_zh_tw": "白鐵"
+  },
+  "char_4212_nasti": {
+    "name_jp": "ナスティ",
+    "name_en": "Nasti",
+    "name_zh_tw": "娜斯提"
+  },
+  "char_245_cello": {
+    "name_jp": "ヴィルトゥオーサ",
+    "name_en": "Virtuosa",
+    "name_zh_tw": "塑心"
+  },
+  "char_1042_phatm2": {
+    "name_jp": "トラゴーディア",
+    "name_en": "Tragodia",
+    "name_zh_tw": "酒神"
+  },
+  "char_250_phatom": {
+    "name_jp": "ファントム",
+    "name_en": "Phantom",
+    "name_zh_tw": "傀影"
+  },
+  "char_1028_texas2": {
+    "name_jp": "血掟テキサス",
+    "name_en": "Texas the Omertosa",
+    "name_zh_tw": "緘默德克薩斯"
+  },
+  "char_1029_yato2": {
+    "name_jp": "キリンRヤトウ",
+    "name_en": "Kirin R Yato",
+    "name_zh_tw": "麒麟R夜刀"
+  },
+  "char_1502_crosly": {
+    "name_jp": "クラウンスレイヤー",
+    "name_en": "Crownslayer",
+    "name_zh_tw": "弒君者"
+  },
+  "char_615_acspec": {
+    "name_jp": "Misery",
+    "name_en": "Misery",
+    "name_zh_tw": "Misery"
+  },
+  "char_322_lmlee": {
+    "name_jp": "リー",
+    "name_en": "Lee",
+    "name_zh_tw": "老鯉"
+  },
+  "char_1033_swire2": {
+    "name_jp": "琳琅スワイヤー",
+    "name_en": "Swire the Elegant Wit",
+    "name_zh_tw": "琳瑯詩懷雅"
+  },
+  "char_400_weedy": {
+    "name_jp": "ウィーディ",
+    "name_en": "Weedy",
+    "name_zh_tw": "溫蒂"
+  },
+  "char_225_haak": {
+    "name_jp": "ア",
+    "name_en": "Aak",
+    "name_zh_tw": "阿"
+  },
+  "char_1041_angel2": {
+    "name_jp": "新約エクシア",
+    "name_en": "Exusiai the New Covenant",
+    "name_zh_tw": "新約能天使"
+  },
+  "char_474_glady": {
+    "name_jp": "グレイディーア",
+    "name_en": "Gladiia",
+    "name_zh_tw": "歌蕾蒂婭"
+  },
+  "char_437_mizuki": {
+    "name_jp": "ミヅキ",
+    "name_en": "Mizuki",
+    "name_zh_tw": "水月"
+  },
+  "char_4132_ascln": {
+    "name_jp": "アスカロン",
+    "name_en": "Ascalon",
+    "name_zh_tw": "阿斯卡綸"
+  },
+  "char_1023_ghost2": {
+    "name_jp": "帰溟スペクター",
+    "name_en": "Specter the Unchained",
+    "name_zh_tw": "歸溟幽靈鯊"
+  },
+  "char_4048_doroth": {
+    "name_jp": "ドロシー",
+    "name_en": "Dorothy",
+    "name_zh_tw": "多蘿西"
+  },
+  "char_4123_ela": {
+    "name_jp": "Ela",
+    "name_en": "Ela",
+    "name_zh_tw": "ELA"
+  },
+  "char_2027_wang": {
+    "name_jp": "ウァン",
+    "name_en": "Wang",
+    "name_zh_tw": "望"
+  },
+  "char_1039_thorn2": {
+    "name_jp": "引星ソーンズ",
+    "name_en": "Thorns the Lodestar",
+    "name_zh_tw": "引星棘刺"
+  },
+  "char_147_shining": {
+    "name_jp": "シャイニング",
+    "name_en": "Shining",
+    "name_zh_tw": "閃靈"
+  },
+  "char_613_acmedc": {
+    "name_jp": "Touch",
+    "name_en": "Touch",
+    "name_zh_tw": "Touch"
+  },
+  "char_179_cgbird": {
+    "name_jp": "ナイチンゲール",
+    "name_en": "Nightingale",
+    "name_zh_tw": "夜鶯"
+  },
+  "char_003_kalts": {
+    "name_jp": "ケルシー",
+    "name_en": "Kal'tsit",
+    "name_zh_tw": "凱爾希"
+  },
+  "char_4042_lumen": {
+    "name_jp": "ルーメン",
+    "name_en": "Lumen",
+    "name_zh_tw": "流明"
+  },
+  "char_1016_agoat2": {
+    "name_jp": "純燼エイヤフィヤトラ",
+    "name_en": "Eyjafjalla the Hvít Aska",
+    "name_zh_tw": "純燼艾雅法拉"
+  },
+  "char_1020_reed2": {
+    "name_jp": "焔影リード",
+    "name_en": "Reed the Flame Shadow",
+    "name_zh_tw": "焰影葦草"
+  },
+  "char_4056_titi": {
+    "name_jp": "ティティ",
+    "name_en": "Titi",
+    "name_zh_tw": "緹緹"
+  },
+  "char_4179_monstr": {
+    "name_jp": "Mon3tr",
+    "name_en": "Mon3tr",
+    "name_zh_tw": "Mon3tr"
+  },
+  "char_1052_kalts2": {
+    "name_jp": "ケルシー・エスペランタ",
+    "name_en": "Kal'tsit Esperanta",
+    "name_zh_tw": null
+  },
+  "char_136_hsguma": {
+    "name_jp": "ホシグマ",
+    "name_en": "Hoshiguma",
+    "name_zh_tw": "星熊"
+  },
+  "char_610_acfend": {
+    "name_jp": "Mechanist",
+    "name_en": "Mechanist",
+    "name_zh_tw": "Mechanist"
+  },
+  "char_202_demkni": {
+    "name_jp": "サリア",
+    "name_en": "Saria",
+    "name_zh_tw": "塞雷婭"
+  },
+  "char_423_blemsh": {
+    "name_jp": "ブレミシャイン",
+    "name_en": "Blemishine",
+    "name_zh_tw": "瑕光"
+  },
+  "char_2025_shu": {
+    "name_jp": "シュウ",
+    "name_en": "Shu",
+    "name_zh_tw": "黍"
+  },
+  "char_2014_nian": {
+    "name_jp": "ニェン",
+    "name_en": "Nian",
+    "name_zh_tw": "年"
+  },
+  "char_311_mudrok": {
+    "name_jp": "マドロック",
+    "name_en": "Mudrock",
+    "name_zh_tw": "泥岩"
+  },
+  "char_4065_judge": {
+    "name_jp": "ペナンス",
+    "name_en": "Penance",
+    "name_zh_tw": "斥罪"
+  },
+  "char_416_zumama": {
+    "name_jp": "ユーネクテス",
+    "name_en": "Eunectes",
+    "name_zh_tw": "森蚺"
+  },
+  "char_4039_horn": {
+    "name_jp": "ホルン",
+    "name_en": "Horn",
+    "name_zh_tw": "號角"
+  },
+  "char_1034_jesca2": {
+    "name_jp": "滌火ジェシカ",
+    "name_en": "Jessica the Liberated",
+    "name_zh_tw": "滌火潔西卡"
+  },
+  "char_4194_rmixer": {
+    "name_jp": "サンクタ・ミキサー",
+    "name_en": "Sankta Miksaparato",
+    "name_zh_tw": "信仰攪拌機"
+  },
+  "char_2026_yu": {
+    "name_jp": "ユー",
+    "name_en": "Yu",
+    "name_zh_tw": "餘"
+  },
+  "char_1044_hsgma2": {
+    "name_jp": "斬業ホシグマ",
+    "name_en": "Hoshiguma the Breacher",
+    "name_zh_tw": "斬業星熊"
+  },
+  "char_264_f12yin": {
+    "name_jp": "マウンテン",
+    "name_en": "Mountain",
+    "name_zh_tw": "山"
+  },
+  "char_2024_chyue": {
+    "name_jp": "チョンユエ",
+    "name_en": "Chongyue",
+    "name_zh_tw": "重岳"
+  },
+  "char_4037_demetr": {
+    "name_jp": "ベッローネ",
+    "name_en": "Bellone",
+    "name_zh_tw": "貝洛內"
+  },
+  "char_172_svrash": {
+    "name_jp": "シルバーアッシュ",
+    "name_en": "SilverAsh",
+    "name_zh_tw": "銀灰"
+  },
+  "char_293_thorns": {
+    "name_jp": "ソーンズ",
+    "name_en": "Thorns",
+    "name_zh_tw": "棘刺"
+  },
+  "char_4082_qiubai": {
+    "name_jp": "チューバイ",
+    "name_en": "Qiubai",
+    "name_zh_tw": "仇白"
+  },
+  "char_4182_oblvns": {
+    "name_jp": "豊川祥子",
+    "name_en": "Sakiko Togawa",
+    "name_zh_tw": "豐川祥子"
+  },
+  "char_617_sharp2": {
+    "name_jp": "領主・Sharp",
+    "name_en": "Lord/Sharp",
+    "name_zh_tw": "領主·Sharp"
+  },
+  "char_4088_hodrer": {
+    "name_jp": "ヘドリー",
+    "name_en": "Hoederer",
+    "name_zh_tw": "赫德雷"
+  },
+  "char_4145_ulpia": {
+    "name_jp": "ウルピアヌス",
+    "name_en": "Ulpianus",
+    "name_zh_tw": "烏爾比安"
+  },
+  "char_4058_pepe": {
+    "name_jp": "ペペ",
+    "name_en": "Pepe",
+    "name_zh_tw": "佩佩"
+  },
+  "char_1051_headb2": {
+    "name_jp": "怒潮ズィマー",
+    "name_en": "Zima the Raging Tide",
+    "name_zh_tw": "怒潮凜冬"
+  },
+  "char_010_chen": {
+    "name_jp": "チェン",
+    "name_en": "Ch'en",
+    "name_zh_tw": "陳"
+  },
+  "char_4009_irene": {
+    "name_jp": "アイリーニ",
+    "name_en": "Irene",
+    "name_zh_tw": "艾麗妮"
+  },
+  "char_4116_blkkgt": {
+    "name_jp": "デーゲンブレヒャー",
+    "name_en": "Degenbrecher",
+    "name_zh_tw": "鐧"
+  },
+  "char_017_huang": {
+    "name_jp": "ブレイズ",
+    "name_en": "Blaze",
+    "name_zh_tw": "煌"
+  },
+  "char_1026_gvial2": {
+    "name_jp": "百錬ガヴィル",
+    "name_en": "Gavial the Invincible",
+    "name_zh_tw": "百煉嘉維爾"
+  },
+  "char_350_surtr": {
+    "name_jp": "スルト",
+    "name_en": "Surtr",
+    "name_zh_tw": "史爾特爾"
+  },
+  "char_4098_vvana": {
+    "name_jp": "ヴィヴィアナ",
+    "name_en": "Viviana",
+    "name_zh_tw": "薇薇安娜"
+  },
+  "char_1019_siege2": {
+    "name_jp": "ヴィーナ・ヴィクトリア",
+    "name_en": "Vina Victoria",
+    "name_zh_tw": "維娜·維多利亞"
+  },
+  "char_1050_chen3": {
+    "name_jp": "赤刃明霄チェン",
+    "name_en": "Ch'en the Dawnstreak",
+    "name_zh_tw": "赤刃明霄陳"
+  },
+  "char_188_helage": {
+    "name_jp": "ヘラグ",
+    "name_en": "Hellagur",
+    "name_zh_tw": "赫拉格"
+  },
+  "char_4121_zuole": {
+    "name_jp": "ズオ・ラウ",
+    "name_en": "Zuo Le",
+    "name_zh_tw": "左樂"
+  },
+  "char_485_pallas": {
+    "name_jp": "パラス",
+    "name_en": "Pallas",
+    "name_zh_tw": "帕拉斯"
+  },
+  "char_1014_nearl2": {
+    "name_jp": "耀騎士ニアール",
+    "name_en": "Nearl the Radiant Knight",
+    "name_zh_tw": "耀騎士臨光"
+  },
+  "char_4011_lessng": {
+    "name_jp": "レッシング",
+    "name_en": "Lessing",
+    "name_zh_tw": "止頌"
+  },
+  "char_609_acguad": {
+    "name_jp": "Sharp",
+    "name_en": "Sharp",
+    "name_zh_tw": "Sharp"
+  },
+  "char_1032_excu2": {
+    "name_jp": "聖約イグゼキュター",
+    "name_en": "Executor the Ex Foedere",
+    "name_zh_tw": "聖約送葬人"
+  },
+  "char_4010_etlchi": {
+    "name_jp": "エンテレケイア",
+    "name_en": "Entelechia",
+    "name_zh_tw": "隱德來希"
+  },
+  "char_4064_mlynar": {
+    "name_jp": "ムリナール",
+    "name_en": "Młynar",
+    "name_zh_tw": "瑪恩納"
+  },
+  "char_1043_leizi2": {
+    "name_jp": "司霆レイズ",
+    "name_en": "Leizi the Thunderbringer",
+    "name_zh_tw": "司霆驚蟄"
+  },
+  "char_4214_cairn": {
+    "name_jp": "ケルン",
+    "name_en": "Cairn",
+    "name_zh_tw": "響石"
+  },
+  "token_10000_silent_healrb": {
+    "name_jp": "医療ドローン",
+    "name_en": "Medic Drone",
+    "name_zh_tw": "醫療探機"
+  },
+  "token_10004_otter_motter": {
+    "name_jp": "メカ・カワウソ",
+    "name_en": "Robotter",
+    "name_zh_tw": "機械水獺"
+  },
+  "token_10005_mgllan_drone1": {
+    "name_jp": "DDF・F",
+    "name_en": "Soaring Dragon F",
+    "name_zh_tw": "龍騰.F"
+  },
+  "token_10005_mgllan_drone2": {
+    "name_jp": "DDF・L",
+    "name_en": "Soaring Dragon L",
+    "name_zh_tw": "龍騰.L"
+  },
+  "token_10005_mgllan_drone3": {
+    "name_jp": "DDF・A",
+    "name_en": "Soaring Dragon A",
+    "name_zh_tw": "龍騰.A"
+  },
+  "token_10006_vodfox_doll": {
+    "name_jp": "呪いの人形",
+    "name_en": "Cursed Doll",
+    "name_zh_tw": "詛咒娃娃"
+  },
+  "token_10007_phatom_twin": {
+    "name_jp": "鏡映虚影",
+    "name_en": "Phantom in the Mirror",
+    "name_zh_tw": "鏡中虛影"
+  },
+  "token_10008_cqbw_box": {
+    "name_jp": "サプライズ！",
+    "name_en": "Front Toward Enemy",
+    "name_zh_tw": "此面向敵"
+  },
+  "token_10009_weedy_cannon": {
+    "name_jp": "工事用蓄水砲",
+    "name_en": "Industrial Water Cannon",
+    "name_zh_tw": "工程蓄水炮"
+  },
+  "token_10010_folivo_car": {
+    "name_jp": "撮影ロボット",
+    "name_en": "Mobile Buggy Cam",
+    "name_zh_tw": "移動攝影器"
+  },
+  "token_10011_beewax_oblisk": {
+    "name_jp": "砂の碑",
+    "name_en": "Sand Obelisk",
+    "name_zh_tw": "沙之碑"
+  },
+  "token_10012_rosmon_shield": {
+    "name_jp": "ロスモンティスの戦術装備",
+    "name_en": "Rosmontis's Tactical Equipment",
+    "name_zh_tw": "迷迭香的戰術裝備"
+  },
+  "token_10013_robin_mine": {
+    "name_jp": "「クリップ」",
+    "name_en": "'Clip'",
+    "name_zh_tw": "“夾子”"
+  },
+  "token_10016_rfrost_mine": {
+    "name_jp": "ウェルカムマット",
+    "name_en": "Welcome Mat",
+    "name_zh_tw": "迎賓踏墊"
+  },
+  "token_10017_skadi2_dedant": {
+    "name_jp": "スカジのシーボーン",
+    "name_en": "Skadi's Seaborn",
+    "name_zh_tw": "斯卡蒂的海嗣"
+  },
+  "token_10018_robrta_mach": {
+    "name_jp": "メイクアップマシン",
+    "name_en": "Full Auto Modeler",
+    "name_zh_tw": "全自動造型儀"
+  },
+  "token_10019_nearl2_sword": {
+    "name_jp": "「ブレイジング・サン」",
+    "name_en": "'Blazing Sun'",
+    "name_zh_tw": "“耀陽”"
+  },
+  "token_10020_ling_soul1": {
+    "name_jp": "「清平」",
+    "name_en": "'Tranquility'",
+    "name_zh_tw": "“清平”"
+  },
+  "token_10020_ling_soul2": {
+    "name_jp": "「逍遥」",
+    "name_en": "'Peripateticism'",
+    "name_zh_tw": "“逍遙”"
+  },
+  "token_10020_ling_soul3": {
+    "name_jp": "「弦驚」",
+    "name_en": "'Thunderer'",
+    "name_zh_tw": "“弦驚”"
+  },
+  "token_10051_radian_tower1": {
+    "name_jp": "ダイウ",
+    "name_en": "Dive",
+    "name_zh_tw": "戴烏"
+  },
+  "token_10052_radian_tower2": {
+    "name_jp": "サイガ",
+    "name_en": "Cycle",
+    "name_zh_tw": "賽柯"
+  },
+  "token_10053_radian_tower3": {
+    "name_jp": "サントラ",
+    "name_en": "Center",
+    "name_zh_tw": "桑特拉"
+  },
+  "token_10021_blkngt_hypnos": {
+    "name_jp": "眠獣",
+    "name_en": "Slumberfoot",
+    "name_zh_tw": "眠獸"
+  },
+  "token_10023_windft_wrench": {
+    "name_jp": "高信頼性バッテリー",
+    "name_en": "Reliable Battery",
+    "name_zh_tw": "可靠電池"
+  },
+  "token_10041_cathy_catsld": {
+    "name_jp": "クローラー・防護ユニット",
+    "name_en": "Crawler Protection Unit",
+    "name_zh_tw": "爬行號·防護單元"
+  },
+  "token_10024_ebnhlz_rcube": {
+    "name_jp": "過去の残像",
+    "name_en": "Remnants of Days Past",
+    "name_zh_tw": "舊日殘影"
+  },
+  "token_10025_doroth_recttp": {
+    "name_jp": "共振装置",
+    "name_en": "Resonator",
+    "name_zh_tw": "共振裝置"
+  },
+  "token_10026_bgsnow_subbow": {
+    "name_jp": "「タイプライター」",
+    "name_en": "'Typewriter'",
+    "name_zh_tw": "“打字機”"
+  },
+  "token_10027_ironmn_pile1": {
+    "name_jp": "ステインレス™多機能プラットフォーム",
+    "name_en": "Stainless™ Multifunctional Platform",
+    "name_zh_tw": "白鐵™多功能平台"
+  },
+  "token_10027_ironmn_pile2": {
+    "name_jp": "ステインレス™多機能プラットフォーム",
+    "name_en": "Stainless™ Multifunctional Platform",
+    "name_zh_tw": "白鐵™多功能平台"
+  },
+  "token_10027_ironmn_pile3": {
+    "name_jp": "鉄鉗号･プロトタイプ",
+    "name_en": "Prototype of Feist's Metal Crab",
+    "name_zh_tw": "鐵鉗號·原型機"
+  },
+  "token_10028_vigil_wolf": {
+    "name_jp": "狼の群れ",
+    "name_en": "Wolfpack",
+    "name_zh_tw": "狼群"
+  },
+  "token_10029_slent2_protrb": {
+    "name_jp": "夜の灯火",
+    "name_en": "Night Banisher",
+    "name_zh_tw": "夜燈"
+  },
+  "token_10030_mlyss_wtrman": {
+    "name_jp": "うつろう水影",
+    "name_en": "Flowing Shape",
+    "name_zh_tw": "流形"
+  },
+  "token_10031_swire2_gdtrap": {
+    "name_jp": "シャンパン爆弾",
+    "name_en": "Champagne Bomb",
+    "name_zh_tw": "香檳炸彈"
+  },
+  "token_10034_ray_sndbst": {
+    "name_jp": "サンドビースト",
+    "name_en": "Sandbeast",
+    "name_zh_tw": "沙地獸"
+  },
+  "token_10033_ela_grzmot": {
+    "name_jp": "GRZMOTマイン",
+    "name_en": "Grzmot Mine",
+    "name_zh_tw": "雷電地雷"
+  },
+  "token_10035_wisdel_wward": {
+    "name_jp": "レヴァナントの影",
+    "name_en": "Revenant's Shadow",
+    "name_zh_tw": "魂靈之影"
+  },
+  "token_10037_mitm_trshrb": {
+    "name_jp": "チェリー3号",
+    "name_en": "Cherry-3",
+    "name_zh_tw": "櫻桃三號"
+  },
+  "token_10036_lasher_mcbird": {
+    "name_jp": "カラクリ羽獣",
+    "name_en": "Clockwork Fowlbeast",
+    "name_zh_tw": "發條羽獸"
+  },
+  "token_10043_necras_skeltn": {
+    "name_jp": "悲嘆する下僕",
+    "name_en": "Servant of Lamentation",
+    "name_zh_tw": "悲歎的僕役"
+  },
+  "token_10044_wulfen_mine": {
+    "name_jp": "鉱石「キラー」",
+    "name_en": "Ore 'Killer'",
+    "name_zh_tw": "礦石“殺手”"
+  },
+  "token_10050_monstr_prosts": {
+    "name_jp": "再構成核",
+    "name_en": "Reconstruction",
+    "name_zh_tw": "重構體"
+  },
+  "token_10056_angel2_target": {
+    "name_jp": "配達先座標",
+    "name_en": "Delivery Coordinates",
+    "name_zh_tw": "投遞座標"
+  },
+  "token_10054_phatm2_encdool": {
+    "name_jp": "本能の召喚",
+    "name_en": "Blood's Whisper",
+    "name_zh_tw": "本能的召喚"
+  },
+  "token_10055_phatm2_mndclv": {
+    "name_jp": "彷徨の檻",
+    "name_en": "Cage of Chaos",
+    "name_zh_tw": "迷狂牢籠"
+  },
+  "token_10057_svash2_eagle1": {
+    "name_jp": "風雪の眼",
+    "name_en": "Eye of the Blizzard",
+    "name_zh_tw": "風雪之眼"
+  },
+  "token_10057_svash2_eagle2": {
+    "name_jp": "風雪の眼",
+    "name_en": "Eye of the Blizzard",
+    "name_zh_tw": "風雪之眼"
+  },
+  "token_10057_svash2_eagle3": {
+    "name_jp": "風雪の眼",
+    "name_en": "Eye of the Blizzard",
+    "name_zh_tw": "風雪之眼"
+  },
+  "token_10059_nasti_nstdef": {
+    "name_jp": "「品質検査員」",
+    "name_en": "'Quality Inspector'",
+    "name_zh_tw": "“品保專員”"
+  },
+  "token_10060_nasti_nstchr": {
+    "name_jp": "「現場監督」",
+    "name_en": "'Overseer'",
+    "name_zh_tw": "“監工專員”"
+  },
+  "token_10061_nasti_nstbld": {
+    "name_jp": "「緊急建設チーム」",
+    "name_en": "'Emergency Load-Bearing Squad'",
+    "name_zh_tw": "“緊急承重小組”"
+  },
+  "token_10064_wang_stone1": {
+    "name_jp": "碁石",
+    "name_en": "Stone",
+    "name_zh_tw": "棋子"
+  },
+  "token_10068_kalts2_mtship": {
+    "name_jp": "戦術アンカー",
+    "name_en": "Tactical Anchor Point",
+    "name_zh_tw": null
+  },
+  "token_10066_closur_ourbase": {
+    "name_jp": "指揮センター",
+    "name_en": "Command Center",
+    "name_zh_tw": null
+  },
+  "trap_001_crate": {
+    "name_jp": "障害物",
+    "name_en": "Roadblock",
+    "name_zh_tw": "障礙物"
+  },
+  "trap_002_emp": {
+    "name_jp": "EMP発生装置",
+    "name_en": "Stun Generator",
+    "name_zh_tw": "震撼裝置"
+  },
+  "trap_003_gate": {
+    "name_jp": "シャッター",
+    "name_en": "Gate",
+    "name_zh_tw": "閘門"
+  },
+  "trap_005_sensor": {
+    "name_jp": "探知機",
+    "name_en": "Detector",
+    "name_zh_tw": "偵測器"
+  },
+  "trap_006_antidr": {
+    "name_jp": "妨害装置",
+    "name_en": "Jammer",
+    "name_zh_tw": "干擾裝置"
+  },
+  "trap_007_ballis": {
+    "name_jp": "バリスタ",
+    "name_en": "Turret",
+    "name_zh_tw": "弩炮"
+  },
+  "trap_008_farm": {
+    "name_jp": "コマンドシステム",
+    "name_en": "Command Terminal",
+    "name_zh_tw": "指揮終端"
+  },
+  "trap_010_frosts": {
+    "name_jp": "源石氷晶",
+    "name_en": "Originium Ice Crystal",
+    "name_zh_tw": "源石冰晶"
+  },
+  "trap_011_ore": {
+    "name_jp": "源石祭壇",
+    "name_en": "Originium Altar",
+    "name_zh_tw": "源石祭壇"
+  },
+  "trap_012_mine": {
+    "name_jp": "妨害地雷",
+    "name_en": "Interference Mine",
+    "name_zh_tw": "干擾地雷"
+  },
+  "trap_013_blower": {
+    "name_jp": "源石気流発生装置",
+    "name_en": "Originium Flow Generator",
+    "name_zh_tw": "源石流發生裝置"
+  },
+  "trap_014_tower": {
+    "name_jp": "L-44「蓄音機」",
+    "name_en": "L-44 'Gramophone'",
+    "name_zh_tw": "L-44\"留聲機\""
+  },
+  "trap_015_tree": {
+    "name_jp": "おばけ茸",
+    "name_en": "Giant Mushroom",
+    "name_zh_tw": "巨蕈"
+  },
+  "trap_018_bomb": {
+    "name_jp": "ミスターランブル",
+    "name_en": "Mr. Boom",
+    "name_zh_tw": "轟隆隆先生"
+  },
+  "trap_019_electric": {
+    "name_jp": "ミェシュココイル",
+    "name_en": "Mieszko Coil",
+    "name_zh_tw": "梅什科線圈"
+  },
+  "trap_020_roadblock": {
+    "name_jp": "道路障害物",
+    "name_en": "Static Roadblock",
+    "name_zh_tw": "道路障礙物"
+  },
+  "trap_021_flame": {
+    "name_jp": "エネルギークリスタル",
+    "name_en": "Energy Aggregate",
+    "name_zh_tw": "能量聚合體"
+  },
+  "trap_022_frosts_friend": {
+    "name_jp": "フロストノヴァの源石氷晶",
+    "name_en": "FrostNova's Originium Ice Crystal",
+    "name_zh_tw": "霜星的源石冰晶"
+  },
+  "trap_023_ore_friend": {
+    "name_jp": "パトリオットの源石祭壇",
+    "name_en": "Patriot's Originium Altar",
+    "name_zh_tw": "愛國者的源石祭壇"
+  },
+  "trap_024_npcsld": {
+    "name_jp": "盾兵",
+    "name_en": "Shieldguard",
+    "name_zh_tw": "盾衛"
+  },
+  "trap_025_prison": {
+    "name_jp": "禁固装置",
+    "name_en": "Imprisonment Device",
+    "name_zh_tw": "禁錮裝置"
+  },
+  "trap_026_inverter": {
+    "name_jp": "改良型爆竹",
+    "name_en": "Two-Step Firecracker mk2",
+    "name_zh_tw": "改良型二踢腳"
+  },
+  "trap_027_stone": {
+    "name_jp": "礫岩",
+    "name_en": "Rubble",
+    "name_zh_tw": "碎石"
+  },
+  "trap_028_cannon": {
+    "name_jp": "衝撃防御モジュール",
+    "name_en": "Pulse Defense Module",
+    "name_zh_tw": "脈衝防禦模組"
+  },
+  "trap_029_poison": {
+    "name_jp": "催涙ガス制御弁",
+    "name_en": "Teargas Control Valve",
+    "name_zh_tw": "催淚瓦斯控制閥"
+  },
+  "trap_030_factory": {
+    "name_jp": "ドローン工場",
+    "name_en": "Drone Factory",
+    "name_zh_tw": "無人機工廠"
+  },
+  "trap_031_sleep": {
+    "name_jp": "スノーズントの安全クレーン",
+    "name_en": "Snowsant's Safe Escape Crane",
+    "name_zh_tw": "雪雉的安全起重機"
+  },
+  "trap_032_mound": {
+    "name_jp": "土石構造",
+    "name_en": "Dirt Mound",
+    "name_zh_tw": "土石結構"
+  },
+  "trap_033_sbomb": {
+    "name_jp": "高威力源石爆弾",
+    "name_en": "High-Energy Originium Bomb",
+    "name_zh_tw": "高能源石炸彈"
+  },
+  "trap_034_machst": {
+    "name_jp": "補強装置",
+    "name_en": "Reinforcement Device",
+    "name_zh_tw": "加固裝置"
+  },
+  "trap_035_emperor": {
+    "name_jp": "エンペラー",
+    "name_en": "Emperor",
+    "name_zh_tw": "大帝"
+  },
+  "trap_036_storm": {
+    "name_jp": "砂嵐",
+    "name_en": "Sandstorm",
+    "name_zh_tw": "沙塵暴"
+  },
+  "trap_037_airsup": {
+    "name_jp": "可動式戦術格納庫",
+    "name_en": "Mobile Tactical Hangar",
+    "name_zh_tw": "可移動戰術機庫"
+  },
+  "trap_038_dsbell": {
+    "name_jp": "応急治療施設",
+    "name_en": "Emergency Aid Building",
+    "name_zh_tw": "應急救治設施"
+  },
+  "trap_039_dstnta": {
+    "name_jp": "生まれしもの",
+    "name_en": "Offspring",
+    "name_zh_tw": "子代"
+  },
+  "trap_040_canoe": {
+    "name_jp": "特設ボート",
+    "name_en": "Custom Floating Platform",
+    "name_zh_tw": "特製水上平台"
+  },
+  "trap_041_fcanon": {
+    "name_jp": "カイト",
+    "name_en": "Kite",
+    "name_zh_tw": "風箏"
+  },
+  "trap_042_tidectrl": {
+    "name_jp": "潮高制御装置",
+    "name_en": "Tide Controller",
+    "name_zh_tw": "漲潮控制"
+  },
+  "trap_043_dupilr": {
+    "name_jp": "脆い石柱",
+    "name_en": "Tattered Pillar",
+    "name_zh_tw": "破碎支柱"
+  },
+  "trap_044_duruin": {
+    "name_jp": "瓦礫",
+    "name_en": "Battlefield Ruins",
+    "name_zh_tw": "戰場廢墟"
+  },
+  "trap_045_dublst": {
+    "name_jp": "爆破装置",
+    "name_en": "Demolition Device",
+    "name_zh_tw": "爆破裝置"
+  },
+  "trap_046_oxygen": {
+    "name_jp": "耐水蝕コーティング装置",
+    "name_en": "Erosion-Resistant Coating Application Device",
+    "name_zh_tw": "防水蝕鍍膜裝置"
+  },
+  "trap_048_neonlamp": {
+    "name_jp": "都市のネオン",
+    "name_en": "City Neon",
+    "name_zh_tw": "城市霓虹"
+  },
+  "trap_049_candle": {
+    "name_jp": "騎士の紋章",
+    "name_en": "Knight Crest",
+    "name_zh_tw": "騎士之徽"
+  },
+  "trap_050_blizzard": {
+    "name_jp": "猛吹雪",
+    "name_en": "Blizzard",
+    "name_zh_tw": "暴風雪"
+  },
+  "trap_051_vultres": {
+    "name_jp": "主なき財宝",
+    "name_en": "Unowned Treasure",
+    "name_zh_tw": "無主的財富"
+  },
+  "trap_052_slowfd": {
+    "name_jp": "壊れたスモークマシン",
+    "name_en": "Broken Fog Machine",
+    "name_zh_tw": "失修舞台霧機"
+  },
+  "trap_053_airbomb": {
+    "name_jp": "ガスボンベ",
+    "name_en": "Gas Tank P.",
+    "name_zh_tw": "便攜氣罐"
+  },
+  "trap_054_dancdol": {
+    "name_jp": "「司会アシスタント」",
+    "name_en": "'Host's Assistant'",
+    "name_zh_tw": "“報幕助手”"
+  },
+  "trap_055_tileblock": {
+    "name_jp": "封じられた地面",
+    "name_en": "Sealed Floor",
+    "name_zh_tw": "封印的地面"
+  },
+  "trap_057_wpnsts": {
+    "name_jp": "「ジェラート供給所」",
+    "name_en": "'Gelato Stop'",
+    "name_zh_tw": "“冰淇淋機”"
+  },
+  "trap_058_gunctrl": {
+    "name_jp": "ロンディニウム都市防衛副砲",
+    "name_en": "Londinium Secondary Defense Artillery",
+    "name_zh_tw": "倫蒂尼姆城防副炮"
+  },
+  "trap_059_peacokfool": {
+    "name_jp": "コンビクション",
+    "name_en": "Conviction",
+    "name_zh_tw": "斷罪者"
+  },
+  "trap_060_bouncy": {
+    "name_jp": "聖徒の御手",
+    "name_en": "Hand of the Saint",
+    "name_zh_tw": "聖徒之手"
+  },
+  "trap_061_creep": {
+    "name_jp": "溟痕",
+    "name_en": "Nethersea Brand",
+    "name_zh_tw": "溟痕"
+  },
+  "trap_064_magiccircle": {
+    "name_jp": "「レゾネーター」",
+    "name_en": "'Resonator'",
+    "name_zh_tw": "“諧振器”"
+  },
+  "trap_069_buffcard": {
+    "name_jp": "装備起動用バルブ",
+    "name_en": "Equipment Activation Valve",
+    "name_zh_tw": "戰備啟動閥"
+  },
+  "trap_070_supplycard": {
+    "name_jp": "準備エリア送信機",
+    "name_en": "Preparation Area Transmitter",
+    "name_zh_tw": "預備區發訊器"
+  },
+  "trap_071_recyclecard": {
+    "name_jp": "緊急召還情報ボックス",
+    "name_en": "Emergency Recall Box",
+    "name_zh_tw": "緊急召回情報箱"
+  },
+  "trap_072_revivecard": {
+    "name_jp": "休憩エリア送信機",
+    "name_en": "Recuperation Area Transmitter",
+    "name_zh_tw": "休整區發訊器"
+  },
+  "trap_073_btauntcard": {
+    "name_jp": "汚染晶石",
+    "name_en": "Contaminated Mineral",
+    "name_zh_tw": "污染晶石"
+  },
+  "trap_074_bbombcard": {
+    "name_jp": "集熱晶洞",
+    "name_en": "Heat Cluster",
+    "name_zh_tw": "聚熱晶簇"
+  },
+  "trap_082_salecard": {
+    "name_jp": "再配置送信機",
+    "name_en": "Reassignment Transmitter",
+    "name_zh_tw": "改派發訊器"
+  },
+  "trap_075_bgarmn": {
+    "name_jp": "R-31大型パワードスーツ",
+    "name_en": "R-31 Heavy Power Armor",
+    "name_zh_tw": "R-31重型動力裝甲"
+  },
+  "trap_076_bgarms": {
+    "name_jp": "R-31a大型パワードスーツ",
+    "name_en": "R-31a Heavy Power Armor",
+    "name_zh_tw": "R-31a重型動力裝甲"
+  },
+  "trap_077_rmtarmn": {
+    "name_jp": "R-11突撃型パワードスーツ",
+    "name_en": "R-11 Assault Power Armor",
+    "name_zh_tw": "R-11突擊動力裝甲"
+  },
+  "trap_078_rmtarms": {
+    "name_jp": "R-11a突撃型パワードスーツ",
+    "name_en": "R-11a Assault Power Armor",
+    "name_zh_tw": "R-11a突擊動力裝甲"
+  },
+  "trap_080_garage": {
+    "name_jp": "セルカースターター",
+    "name_en": "Self-Driving Cart Launchpoint",
+    "name_zh_tw": "自走車出發點"
+  },
+  "trap_081_turngear": {
+    "name_jp": "ターンテーブル",
+    "name_en": "Self-Driving Cart One-Way Road",
+    "name_zh_tw": "自走車單行道"
+  },
+  "trap_085_paras": {
+    "name_jp": "蛍光胞子",
+    "name_en": "Fluorescent Spores",
+    "name_zh_tw": "螢光孢子"
+  },
+  "trap_090_recodr": {
+    "name_jp": "実体プログラム",
+    "name_en": "Entitative Program",
+    "name_zh_tw": "實體程式"
+  },
+  "trap_091_brctrl": {
+    "name_jp": "実体プログラム制御",
+    "name_en": "Entitative Program Controller",
+    "name_zh_tw": "實體程式控制"
+  },
+  "char_230_savage": {
+    "name_jp": "サベージ",
+    "name_en": "Savage",
+    "name_zh_tw": "暴行"
+  },
+  "char_282_catap": {
+    "name_jp": "カタパルト",
+    "name_en": "Catapult",
+    "name_zh_tw": "空爆"
+  },
+  "char_283_midn": {
+    "name_jp": "ミッドナイト",
+    "name_en": "Midnight",
+    "name_zh_tw": "月見夜"
+  },
+  "char_137_brownb": {
+    "name_jp": "ビーハンター",
+    "name_en": "Beehunter",
+    "name_zh_tw": "獵蜂"
+  },
+  "char_347_jaksel": {
+    "name_jp": "ジャッキー",
+    "name_en": "Jackie",
+    "name_zh_tw": "傑克"
+  },
+  "char_164_nightm": {
+    "name_jp": "ナイトメア",
+    "name_en": "Nightmare",
+    "name_zh_tw": "夜魔"
+  },
+  "char_220_grani": {
+    "name_jp": "グラニ",
+    "name_en": "Grani",
+    "name_zh_tw": "格拉尼"
+  },
+  "char_263_skadi": {
+    "name_jp": "スカジ",
+    "name_en": "Skadi",
+    "name_zh_tw": "斯卡蒂"
+  },
+  "trap_065_normbox": {
+    "name_jp": "宝箱",
+    "name_en": "Treasure Chest",
+    "name_zh_tw": "寶箱"
+  },
+  "trap_066_rarebox": {
+    "name_jp": "トゲトゲ宝箱",
+    "name_en": "Spiked Treasure Chest",
+    "name_zh_tw": "尖刺寶箱"
+  },
+  "trap_068_badbox": {
+    "name_jp": "宝箱形恐魚",
+    "name_en": "Chest Seaborn",
+    "name_zh_tw": "箱形恐魚"
+  },
+  "trap_083_bunker": {
+    "name_jp": "掩体",
+    "name_en": "Barrier",
+    "name_zh_tw": "掩體"
+  },
+  "trap_084_aidkit": {
+    "name_jp": "救急バッグ",
+    "name_en": "First-aid Kit",
+    "name_zh_tw": "急救包"
+  },
+  "trap_079_allydonq": {
+    "name_jp": "猟潮の騎士",
+    "name_en": "Tide-Hunt Knight",
+    "name_zh_tw": "獵潮的騎士"
+  },
+  "trap_067_dice": {
+    "name_jp": "ダイス",
+    "name_en": "Dice",
+    "name_zh_tw": "骰子"
+  },
+  "trap_088_dice2": {
+    "name_jp": "8面ダイス",
+    "name_en": "8-Sided Dice",
+    "name_zh_tw": "8面骰子"
+  },
+  "trap_089_dice3": {
+    "name_jp": "12面ダイス",
+    "name_en": "12-Sided Dice",
+    "name_zh_tw": "12面骰子"
+  },
+  "trap_093_tbattbc": {
+    "name_jp": "鉗獣殻パウダー",
+    "name_en": "Gloompincer Shell Meal",
+    "name_zh_tw": "鉗獸殼粉"
+  },
+  "trap_094_tbpsnc": {
+    "name_jp": "ベーキングパウダー",
+    "name_en": "High-Efficiency Baking Powder",
+    "name_zh_tw": "高效泡打粉"
+  },
+  "trap_095_tbsmmc": {
+    "name_jp": "エッセンシャルオイル",
+    "name_en": "Fragrant Essential Oil",
+    "name_zh_tw": "芳香精油"
+  },
+  "trap_086_larva": {
+    "name_jp": "「渇欲の枯枝」 ",
+    "name_en": "'Twigs That Crave'",
+    "name_zh_tw": "“汲營枯枝”"
+  },
+  "trap_087_allady": {
+    "name_jp": "アラデルの衛護",
+    "name_en": "Allerdale's Guard",
+    "name_zh_tw": "阿勒黛的衛護"
+  },
+  "trap_092_vgctrl": {
+    "name_jp": "報復の爪痕",
+    "name_en": "Vengeful Mafioso",
+    "name_zh_tw": "復仇黑手"
+  },
+  "trap_098_mire": {
+    "name_jp": "沼地制御",
+    "name_en": "Mire Control",
+    "name_zh_tw": "沼澤控制"
+  },
+  "trap_099_mhflsb": {
+    "name_jp": "閃光爆弾",
+    "name_en": "Flash Grenade",
+    "name_zh_tw": "眩光手榴彈"
+  },
+  "trap_100_mhlbmb": {
+    "name_jp": "源石タル爆弾",
+    "name_en": "High-Energy Originium Barrel Bomb",
+    "name_zh_tw": "高能源石爆桶"
+  },
+  "trap_101_mhshok": {
+    "name_jp": "高電圧シビレ罠",
+    "name_en": "High-Voltage Shock Trap",
+    "name_zh_tw": "高壓脈衝詭雷"
+  },
+  "trap_102_mhwrbg": {
+    "name_jp": "滞空牽引ドローン",
+    "name_en": "Wiredrone",
+    "name_zh_tw": "滯空牽引無人機"
+  },
+  "trap_105_mhwrct": {
+    "name_jp": "滞空牽引ドローン",
+    "name_en": "Wiredrone",
+    "name_zh_tw": "滯空牽引無人機"
+  },
+  "trap_104_dplant": {
+    "name_jp": "改良型植物ホルモン",
+    "name_en": "Modified Phytohormone",
+    "name_zh_tw": "改性植物激素"
+  },
+  "trap_106_smtree": {
+    "name_jp": "積雪の銀樹",
+    "name_en": "Silvernwhite Bulwark",
+    "name_zh_tw": "積雪銀淞"
+  },
+  "trap_107_smpow": {
+    "name_jp": "空間安定化設備",
+    "name_en": "Dimensional Anchoring Pylon",
+    "name_zh_tw": "空間穩定設施"
+  },
+  "trap_108_smbox": {
+    "name_jp": "宝箱",
+    "name_en": "Treasure Chest",
+    "name_zh_tw": "寶箱"
+  },
+  "trap_109_smrbox": {
+    "name_jp": "トゲトゲ宝箱",
+    "name_en": "Spiked Treasure Chest",
+    "name_zh_tw": "尖刺寶箱"
+  },
+  "trap_110_smbbox": {
+    "name_jp": "巨殻のツル",
+    "name_en": "Testaceous Vinecreeps",
+    "name_zh_tw": "巨殼藤蔓"
+  },
+  "trap_700_cdabyss": {
+    "name_jp": "エーギル式振波計",
+    "name_en": "Ægirian Oscilloscope",
+    "name_zh_tw": "阿戈爾示波器"
+  },
+  "trap_701_cdabyssa": {
+    "name_jp": "エーギル式振波計",
+    "name_en": "Ægirian Oscilloscope",
+    "name_zh_tw": "阿戈爾示波器"
+  },
+  "trap_702_cdabyssb": {
+    "name_jp": "エーギル式振波計",
+    "name_en": "Ægirian Oscilloscope",
+    "name_zh_tw": "阿戈爾示波器"
+  },
+  "trap_703_cdcredit": {
+    "name_jp": "多機能補給デバイス",
+    "name_en": "Adaptive Supply Component",
+    "name_zh_tw": "自適應補給元件"
+  },
+  "trap_704_cdcredita": {
+    "name_jp": "多機能補給デバイス",
+    "name_en": "Adaptive Supply Component",
+    "name_zh_tw": "自適應補給元件"
+  },
+  "trap_705_cdcreditb": {
+    "name_jp": "多機能補給デバイス",
+    "name_en": "Adaptive Supply Component",
+    "name_zh_tw": "自適應補給元件"
+  },
+  "trap_706_cdshield": {
+    "name_jp": "コーティングデバイス",
+    "name_en": "Coating Device Conduction Valve",
+    "name_zh_tw": "鍍膜裝置導能閥"
+  },
+  "trap_707_cdshielda": {
+    "name_jp": "再稼働コンポーネント",
+    "name_en": "Redeployment Conduction Component",
+    "name_zh_tw": "重整導能組件"
+  },
+  "trap_708_cdshieldb": {
+    "name_jp": "コーティングデバイス",
+    "name_en": "Coating Device Conduction Valve",
+    "name_zh_tw": "鍍膜裝置導能閥"
+  },
+  "trap_709_cdbeacon": {
+    "name_jp": "ジャングル用追跡ビーコン",
+    "name_en": "Eunectes' Beacon",
+    "name_zh_tw": "叢林用示蹤信標"
+  },
+  "trap_710_cdbeacona": {
+    "name_jp": "遮断電波",
+    "name_en": "Block Wavelength",
+    "name_zh_tw": "阻斷波長"
+  },
+  "trap_711_cdbeaconb": {
+    "name_jp": "妨害電波",
+    "name_en": "Jam Wavelength",
+    "name_zh_tw": "干擾波長"
+  },
+  "trap_712_cdhvrk": {
+    "name_jp": "超過重絶縁セメント",
+    "name_en": "Heavy Insulated Concrete",
+    "name_zh_tw": "超重絕緣水泥"
+  },
+  "trap_713_cdflsb": {
+    "name_jp": "粗悪なスタングレネード",
+    "name_en": "Shoddy Flashbang",
+    "name_zh_tw": "劣質閃光彈"
+  },
+  "trap_400_xbfarm": {
+    "name_jp": "栽培ポット",
+    "name_en": "Portable Planting Trough",
+    "name_zh_tw": "可擕式種植槽"
+  },
+  "trap_404_xbfortress": {
+    "name_jp": "堅牢な台",
+    "name_en": "Firm Platform",
+    "name_zh_tw": "堅固築台"
+  },
+  "trap_405_xbroadblock": {
+    "name_jp": "都市様式障壁",
+    "name_en": "Urban Style Barrier",
+    "name_zh_tw": "都市風壁障"
+  },
+  "trap_406_xboverwatch": {
+    "name_jp": "監視塔",
+    "name_en": "Monitoring Tower",
+    "name_zh_tw": "監控塔"
+  },
+  "trap_408_xbbase": {
+    "name_jp": "基地",
+    "name_en": "Base",
+    "name_zh_tw": "基地"
+  },
+  "trap_409_xbwood": {
+    "name_jp": "雑木林",
+    "name_en": "Thickets",
+    "name_zh_tw": "雜木林"
+  },
+  "trap_410_xbstone": {
+    "name_jp": "巨大な岩",
+    "name_en": "Monoliths",
+    "name_zh_tw": "巨大岩石"
+  },
+  "trap_411_xbiron": {
+    "name_jp": "稀少鉱脈",
+    "name_en": "Strange Ore Vein",
+    "name_zh_tw": "奇異礦脈"
+  },
+  "trap_412_redtower": {
+    "name_jp": "可動式戦術塔",
+    "name_en": "Mobile Battle Tower",
+    "name_zh_tw": "移動戰塔"
+  },
+  "trap_413_hiddenstone": {
+    "name_jp": "遺跡の残骸",
+    "name_en": "Historical Remains",
+    "name_zh_tw": "遺跡殘骸"
+  },
+  "trap_414_vegetation": {
+    "name_jp": "茂み",
+    "name_en": "Bush",
+    "name_zh_tw": "灌木叢"
+  },
+  "trap_416_gtreasure": {
+    "name_jp": "埋もれた金属の箱",
+    "name_en": "Buried Metal Chest",
+    "name_zh_tw": "埋沒金屬箱"
+  },
+  "trap_422_streasure": {
+    "name_jp": "棘の生えた金属の箱",
+    "name_en": "Thorned Treasure Chest",
+    "name_zh_tw": "寶刺金屬箱"
+  },
+  "trap_423_bondtw": {
+    "name_jp": "捕縛網発射台",
+    "name_en": "Trap Net Launcher",
+    "name_zh_tw": "縛網發射台"
+  },
+  "trap_424_pushtw": {
+    "name_jp": "噴射式強制移動機",
+    "name_en": "Gas Jet Thrower",
+    "name_zh_tw": "噴拒器"
+  },
+  "trap_425_xbwall": {
+    "name_jp": "防御施設",
+    "name_en": "Fortification",
+    "name_zh_tw": "防禦工事"
+  },
+  "trap_426_xbmrcl": {
+    "name_jp": "モジュラー演算所",
+    "name_en": "Modular Computing Station",
+    "name_zh_tw": "模組演算設施"
+  },
+  "trap_427_xbprsh": {
+    "name_jp": "人材計画所",
+    "name_en": "Resource Planning Station",
+    "name_zh_tw": "資源規劃站"
+  },
+  "trap_428_xblrsh": {
+    "name_jp": "戦闘計画所",
+    "name_en": "Combat Readiness Station",
+    "name_zh_tw": "備勤啟動站"
+  },
+  "trap_429_xbescp": {
+    "name_jp": "越境通信所",
+    "name_en": "Transregional Communication Station",
+    "name_zh_tw": "跨地塊通訊站"
+  },
+  "trap_430_wdescp": {
+    "name_jp": "脱出地点",
+    "name_en": "Escape Route",
+    "name_zh_tw": "逃脫點"
+  },
+  "trap_431_xbgldn": {
+    "name_jp": "金床",
+    "name_en": "Mint",
+    "name_zh_tw": "冶鑄台"
+  },
+  "trap_401_xbfato": {
+    "name_jp": "木材採取基地",
+    "name_en": "Sawing Harvester Hub",
+    "name_zh_tw": "木材採集站"
+  },
+  "trap_438_xbfato2": {
+    "name_jp": "石材採取基地",
+    "name_en": "Quarrying Harvester Hub",
+    "name_zh_tw": "石材採集站"
+  },
+  "trap_439_xbfato3": {
+    "name_jp": "鉄鉱石採取基地",
+    "name_en": "Mining Harvester Hub",
+    "name_zh_tw": "鐵礦採集站"
+  },
+  "trap_403_wfactory": {
+    "name_jp": "カニカニポンプ",
+    "name_en": "Crabbie Pumpie",
+    "name_zh_tw": "蟹蟹抽水泵"
+  },
+  "trap_417_shielder": {
+    "name_jp": "シールドリモコン",
+    "name_en": "Remote Shield Generator",
+    "name_zh_tw": "護盾遙控器"
+  },
+  "trap_418_smokebomb": {
+    "name_jp": "安眠のお香",
+    "name_en": "Hypnotic Censer",
+    "name_zh_tw": "安眠迷香"
+  },
+  "trap_419_enhancer": {
+    "name_jp": "覚醒の秘薬",
+    "name_en": "Refreshing Potion",
+    "name_zh_tw": "醒神秘藥"
+  },
+  "trap_420_umbrella": {
+    "name_jp": "隠密支援用マシン",
+    "name_en": "Camouflage Device",
+    "name_zh_tw": "反偵察藏匿機"
+  },
+  "trap_421_repairman": {
+    "name_jp": "緊急修理車両",
+    "name_en": "Emergency Repair Vehicle",
+    "name_zh_tw": "應急修理車"
+  },
+  "trap_415_trademan": {
+    "name_jp": "連絡員",
+    "name_en": "Liaison",
+    "name_zh_tw": "聯絡員"
+  },
+  "trap_432_oldisin": {
+    "name_jp": "イシン",
+    "name_en": "Old Isin",
+    "name_zh_tw": "老伊辛"
+  },
+  "trap_433_sandsdr": {
+    "name_jp": "「サンドソルジャー」",
+    "name_en": "'Sand Soldier'",
+    "name_zh_tw": "“沙卒”"
+  },
+  "trap_434_klmantc": {
+    "name_jp": "殺し屋のマンティコア",
+    "name_en": "Manticore Killer",
+    "name_zh_tw": "曼提柯殺手"
+  },
+  "trap_435_trsrhuntr": {
+    "name_jp": "トレジャーハンター",
+    "name_en": "Treasure Hunter",
+    "name_zh_tw": "尋寶人"
+  },
+  "trap_437_poachr": {
+    "name_jp": "手練れのハンター",
+    "name_en": "Veteran Hunter",
+    "name_zh_tw": "老練獵手"
+  },
+  "trap_116_stdurk": {
+    "name_jp": "「過去の自分」",
+    "name_en": "'My Past Self'",
+    "name_zh_tw": "“過去的我”"
+  },
+  "trap_117_ltstat": {
+    "name_jp": "聖像",
+    "name_en": "Holy Statue",
+    "name_zh_tw": "聖像"
+  },
+  "trap_118_rockfl": {
+    "name_jp": "崩れた壁",
+    "name_en": "Crumbling Masonry",
+    "name_zh_tw": "塌落的牆垣"
+  },
+  "trap_119_rdrepair": {
+    "name_jp": "予備木材",
+    "name_en": "Spare Timber",
+    "name_zh_tw": "備用木材"
+  },
+  "trap_120_rdblock": {
+    "name_jp": "朽ちた木の柵",
+    "name_en": "Shabby Fence",
+    "name_zh_tw": "破舊的木籬"
+  },
+  "trap_111_wdfarm": {
+    "name_jp": "街の緊急用備蓄",
+    "name_en": "Roadside Emergency Reserves",
+    "name_zh_tw": "街頭應急儲備"
+  },
+  "trap_112_crsbow": {
+    "name_jp": "解雇者清算プログラム",
+    "name_en": "Post-Firing Debt Relief Program",
+    "name_zh_tw": "解雇者清債程式"
+  },
+  "trap_113_snflwr": {
+    "name_jp": "全自動送金機",
+    "name_en": "Full-Auto Debit Machine",
+    "name_zh_tw": "全自動劃帳器"
+  },
+  "trap_114_smkbmb": {
+    "name_jp": "毒ガスタンク",
+    "name_en": "Rupturing Canister",
+    "name_zh_tw": "爆裂毒氣罐"
+  },
+  "trap_115_gasctrl": {
+    "name_jp": "毒霧タワー制御装置",
+    "name_en": "Gas Controller",
+    "name_zh_tw": "毒霧塔控制"
+  },
+  "trap_121_gractrl": {
+    "name_jp": "重力",
+    "name_en": "Gravity",
+    "name_zh_tw": "重力"
+  },
+  "trap_714_cdaltar": {
+    "name_jp": "エネルギー摂動増幅器",
+    "name_en": "Energy Perturbation Amplifier",
+    "name_zh_tw": "能量擾動放大器"
+  },
+  "trap_715_cdaltara": {
+    "name_jp": "エネルギー摂動増幅器",
+    "name_en": "Energy Perturbation Amplifier",
+    "name_zh_tw": "能量擾動放大器"
+  },
+  "trap_716_cdaltarb": {
+    "name_jp": "エネルギー摂動増幅器",
+    "name_en": "Energy Perturbation Amplifier",
+    "name_zh_tw": "能量擾動放大器"
+  },
+  "trap_717_cddiff": {
+    "name_jp": "戦術装備整理箱",
+    "name_en": "Tactical Equipment Toolbox",
+    "name_zh_tw": "戰術裝備整理箱"
+  },
+  "trap_718_cddiffa": {
+    "name_jp": "戦術装備整理箱",
+    "name_en": "Tactical Equipment Toolbox",
+    "name_zh_tw": "戰術裝備整理箱"
+  },
+  "trap_719_cddiffb": {
+    "name_jp": "戦術装備整理箱",
+    "name_en": "Tactical Equipment Toolbox",
+    "name_zh_tw": "戰術裝備整理箱"
+  },
+  "trap_720_cdheal": {
+    "name_jp": "携帯式医療設備",
+    "name_en": "Portable First-aid Kit",
+    "name_zh_tw": "便攜式醫療設備"
+  },
+  "trap_721_cdheala": {
+    "name_jp": "携帯式医療設備",
+    "name_en": "Portable First-aid Kit",
+    "name_zh_tw": "便攜式醫療設備"
+  },
+  "trap_722_cdhealb": {
+    "name_jp": "携帯式医療設備",
+    "name_en": "Portable First-aid Kit",
+    "name_zh_tw": "便攜式醫療設備"
+  },
+  "trap_723_cdcvrt": {
+    "name_jp": "オーバーフロー変換機",
+    "name_en": "Energy Overflow Converter",
+    "name_zh_tw": "溢能回收轉化器"
+  },
+  "trap_724_cdcvrta": {
+    "name_jp": "オーバーフロー変換機",
+    "name_en": "Energy Overflow Converter",
+    "name_zh_tw": "溢能回收轉化器"
+  },
+  "trap_725_cdcvrtb": {
+    "name_jp": "オーバーフロー変換機",
+    "name_en": "Energy Overflow Converter",
+    "name_zh_tw": "溢能回收轉化器"
+  },
+  "trap_726_cdrone": {
+    "name_jp": "戦場サポートドローン",
+    "name_en": "Field Support Drone",
+    "name_zh_tw": "戰地援護無人機"
+  },
+  "trap_727_cdronea": {
+    "name_jp": "戦場サポートドローン",
+    "name_en": "Field Support Drone",
+    "name_zh_tw": "戰地援護無人機"
+  },
+  "trap_728_cdroneb": {
+    "name_jp": "戦場サポートドローン",
+    "name_en": "Field Support Drone",
+    "name_zh_tw": "戰地援護無人機"
+  },
+  "trap_729_cdkzmr": {
+    "name_jp": "競技記録アナライザー",
+    "name_en": "Competition Records Analyzer",
+    "name_zh_tw": "競技記錄分析儀"
+  },
+  "trap_733_cdkzmra": {
+    "name_jp": "競技記録アナライザー",
+    "name_en": "Competition Records Analyzer",
+    "name_zh_tw": "競技記錄分析儀"
+  },
+  "trap_734_cdkzmrb": {
+    "name_jp": "競技記録アナライザー",
+    "name_en": "Competition Records Analyzer",
+    "name_zh_tw": "競技記錄分析儀"
+  },
+  "trap_730_truamr": {
+    "name_jp": "「スイート・スーパーブレンド」",
+    "name_en": "'Supersweetie Superblend'",
+    "name_zh_tw": "“甜蜜狂攪”"
+  },
+  "trap_732_ltnova": {
+    "name_jp": "神経再生",
+    "name_en": "Neuronal Revival",
+    "name_zh_tw": "神經再生"
+  },
+  "trap_122_stmpq": {
+    "name_jp": "景観噴水",
+    "name_en": "Decorative Geyser",
+    "name_zh_tw": "景觀噴泉"
+  },
+  "trap_123_stmbot": {
+    "name_jp": "スチームサイダー",
+    "name_en": "Steam Soda Bottle",
+    "name_zh_tw": "水汽汽水瓶"
+  },
+  "trap_124_eradio": {
+    "name_jp": "廃熱噴出口",
+    "name_en": "Waste Heat Vent",
+    "name_zh_tw": "廢熱噴口"
+  },
+  "trap_125_bonore": {
+    "name_jp": "血の祭壇",
+    "name_en": "Bloodcalling Altar",
+    "name_zh_tw": "喚血祭壇"
+  },
+  "trap_126_outset": {
+    "name_jp": "爆弾積込み地点",
+    "name_en": "Bomb Loading Point",
+    "name_zh_tw": "炸彈載荷點"
+  },
+  "trap_127_bldore": {
+    "name_jp": "血誓の王座",
+    "name_en": "Throne of Blood",
+    "name_zh_tw": "瀝血王座"
+  },
+  "trap_128_toolore": {
+    "name_jp": "祭壇式レーダー",
+    "name_en": "Altar-type Radar",
+    "name_zh_tw": "祭壇式雷達"
+  },
+  "trap_129_tooltower": {
+    "name_jp": "R-45ポータブル「蓄音機」",
+    "name_en": "R-45 Portable 'Gramophone'",
+    "name_zh_tw": "R-45便攜式“留聲機”"
+  },
+  "trap_130_tooltree": {
+    "name_jp": "鑑賞用おばけ茸",
+    "name_en": "Ornamental Giant Mushroom",
+    "name_zh_tw": "景觀巨蕈"
+  },
+  "trap_131_toolgun": {
+    "name_jp": "フィールドデバイスLUD-99X",
+    "name_en": "Field Device LUD-99X",
+    "name_zh_tw": "戰場裝置LUD-99X"
+  },
+  "trap_132_toolinvert": {
+    "name_jp": "爆竹型データ収集装置",
+    "name_en": "Two-step Firecracker and Data-collector",
+    "name_zh_tw": "“二踢腳”型數據收集裝置"
+  },
+  "trap_133_toolgarage": {
+    "name_jp": "自走式探査車",
+    "name_en": "Self-Driving Recon Cart",
+    "name_zh_tw": "勘察用自走車"
+  },
+  "trap_134_condtr": {
+    "name_jp": "調律器",
+    "name_en": "Tuning Node",
+    "name_zh_tw": "調諧節點"
+  },
+  "trap_135_portlent": {
+    "name_jp": "湮滅の相",
+    "name_en": "Aspect of Annihilation",
+    "name_zh_tw": "湮滅之相"
+  },
+  "trap_136_portlexi": {
+    "name_jp": "創生の相",
+    "name_en": "Aspect of Creation",
+    "name_zh_tw": "創生之相"
+  },
+  "trap_137_winfire": {
+    "name_jp": "非常用ストーブ",
+    "name_en": "Emergency Heater",
+    "name_zh_tw": "緊急供暖器"
+  },
+  "trap_138_winstone": {
+    "name_jp": "火打ち石",
+    "name_en": "Flint",
+    "name_zh_tw": "點火石"
+  },
+  "trap_736_mercha": {
+    "name_jp": "充電式前線用スピーカー",
+    "name_en": "Chargeable Supervisory Speaker",
+    "name_zh_tw": "可充能督戰音響"
+  },
+  "trap_737_merchaa": {
+    "name_jp": "充電式前線用スピーカー",
+    "name_en": "Chargeable Supervisory Speaker",
+    "name_zh_tw": "可充能督戰音響"
+  },
+  "trap_738_merchab": {
+    "name_jp": "充電式前線用スピーカー",
+    "name_en": "Chargeable Supervisory Speaker",
+    "name_zh_tw": "可充能督戰音響"
+  },
+  "trap_739_sniper": {
+    "name_jp": "高性能空域制御器",
+    "name_en": "Smart Airspace Controller",
+    "name_zh_tw": "智慧空域控制機"
+  },
+  "trap_740_snipera": {
+    "name_jp": "高性能空域制御器",
+    "name_en": "Smart Airspace Controller",
+    "name_zh_tw": "智慧空域控制機"
+  },
+  "trap_741_sniperb": {
+    "name_jp": "高性能空域制御器",
+    "name_en": "Smart Airspace Controller",
+    "name_zh_tw": "智慧空域控制機"
+  },
+  "trap_742_gasbot": {
+    "name_jp": "急速冷却噴射台",
+    "name_en": "Quick-freezing Sprayer Platform",
+    "name_zh_tw": "速冷噴霧發射台"
+  },
+  "trap_743_gasbota": {
+    "name_jp": "急速冷却噴射台",
+    "name_en": "Quick-freezing Sprayer Platform",
+    "name_zh_tw": "速冷噴霧發射台"
+  },
+  "trap_744_gasbotb": {
+    "name_jp": "急速冷却噴射台",
+    "name_en": "Quick-freezing Sprayer Platform",
+    "name_zh_tw": "速冷噴霧發射台"
+  },
+  "trap_746_cdrhine": {
+    "name_jp": "最新学説共有端末",
+    "name_en": "Pinnacle Insights Port",
+    "name_zh_tw": "尖端研究成果共享終端"
+  },
+  "trap_747_cdrhinea": {
+    "name_jp": "最新学説共有端末",
+    "name_en": "Pinnacle Insights Port",
+    "name_zh_tw": "尖端研究成果共享終端"
+  },
+  "trap_748_cdrhineb": {
+    "name_jp": "最新学説共有端末",
+    "name_en": "Pinnacle Insights Port",
+    "name_zh_tw": "尖端研究成果共享終端"
+  },
+  "trap_749_cd1punch": {
+    "name_jp": "音波記録増幅器",
+    "name_en": "Sound Recording Amplifier",
+    "name_zh_tw": "聲波記錄擴音器"
+  },
+  "trap_750_cd1puncha": {
+    "name_jp": "音波記録増幅器",
+    "name_en": "Sound Recording Amplifier",
+    "name_zh_tw": "聲波記錄擴音器"
+  },
+  "trap_751_cd1punchb": {
+    "name_jp": "音波記録増幅器",
+    "name_en": "Sound Recording Amplifier",
+    "name_zh_tw": "聲波記錄擴音器"
+  },
+  "trap_752_cdcaster": {
+    "name_jp": "アーツ同調力場",
+    "name_en": "Arts Resonant Energy Field",
+    "name_zh_tw": "法術調和能量場"
+  },
+  "trap_753_cdcastera": {
+    "name_jp": "アーツ同調力場",
+    "name_en": "Arts Resonant Energy Field",
+    "name_zh_tw": "法術調和能量場"
+  },
+  "trap_754_cdcasterb": {
+    "name_jp": "アーツ同調力場",
+    "name_en": "Arts Resonant Energy Field",
+    "name_zh_tw": "法術調和能量場"
+  },
+  "trap_755_cdsoul": {
+    "name_jp": "ハウリングスピーカー",
+    "name_en": "Squeaking Sound",
+    "name_zh_tw": "嘯叫音響"
+  },
+  "trap_756_cdnest": {
+    "name_jp": "「ねばねばしたおまけ」",
+    "name_en": "'Sticky Prize'",
+    "name_zh_tw": "“黏黏的贈品”"
+  },
+  "trap_745_beer": {
+    "name_jp": "「ミード万歳！」",
+    "name_en": "'Long Live Mead!'",
+    "name_zh_tw": "“蜜釀萬歲！”"
+  },
+  "trap_139_dhtl": {
+    "name_jp": "水門",
+    "name_en": "Throttle Valve",
+    "name_zh_tw": "阻流閥"
+  },
+  "trap_140_dhsb": {
+    "name_jp": "給水ポンプ",
+    "name_en": "Pumping Station",
+    "name_zh_tw": "泵站"
+  },
+  "trap_146_dhdcr": {
+    "name_jp": "天杭",
+    "name_en": "Sky Pole",
+    "name_zh_tw": "天樁"
+  },
+  "trap_440_xbalis": {
+    "name_jp": "簡易弩台",
+    "name_en": "Basic Repeater Turret",
+    "name_zh_tw": "簡易弩台"
+  },
+  "trap_441_xbmgbird": {
+    "name_jp": "くちばしの中の珍品",
+    "name_en": "Fowlbeast's Return",
+    "name_zh_tw": "喙中奇物"
+  },
+  "trap_442_xbtrap": {
+    "name_jp": "砂地獄",
+    "name_en": "Occluded Quicksand Pit",
+    "name_zh_tw": "流沙黯坑"
+  },
+  "trap_443_xbtent": {
+    "name_jp": "作戦司令部",
+    "name_en": "Operations Station",
+    "name_zh_tw": "作戰中心"
+  },
+  "trap_444_xbexbi": {
+    "name_jp": "「記念」",
+    "name_en": "Lootmark",
+    "name_zh_tw": "“紀念”"
+  },
+  "trap_445_xbfence": {
+    "name_jp": "畜舎",
+    "name_en": "Corral",
+    "name_zh_tw": "獸欄"
+  },
+  "trap_446_xbfdtion": {
+    "name_jp": "砂漠の砦",
+    "name_en": "Headquarter of Sandbank",
+    "name_zh_tw": "風沙營壘"
+  },
+  "trap_447_xbmcv": {
+    "name_jp": "キャンピングカー",
+    "name_en": "Campervan\n",
+    "name_zh_tw": "曠野房車\n"
+  },
+  "trap_448_xbmire": {
+    "name_jp": "汚濁した泥沼",
+    "name_en": "Cursed Mire",
+    "name_zh_tw": "污濁泥沼"
+  },
+  "trap_449_xbspgun": {
+    "name_jp": "煙幕発射台",
+    "name_en": "Smoke Launcher",
+    "name_zh_tw": "煙霧發射台"
+  },
+  "trap_450_xbdrill": {
+    "name_jp": "透珀石採取基地",
+    "name_en": "Extracting Harvester Hub",
+    "name_zh_tw": "澄亮採集站"
+  },
+  "trap_451_xbflare": {
+    "name_jp": "ケミカルライト",
+    "name_en": "Glow Stick",
+    "name_zh_tw": "螢光棒"
+  },
+  "trap_452_xbcage": {
+    "name_jp": "捕獲カゴ",
+    "name_en": "Beast Trap",
+    "name_zh_tw": "捕獵籠"
+  },
+  "trap_453_xbbee": {
+    "name_jp": "金属探知機",
+    "name_en": "Prospector",
+    "name_zh_tw": "尋寶儀"
+  },
+  "trap_454_xbember": {
+    "name_jp": "激励剤",
+    "name_en": "Restanding Potion",
+    "name_zh_tw": "激勵劑"
+  },
+  "trap_455_xbistorm": {
+    "name_jp": "氷爆缶",
+    "name_en": "Ice Bomb",
+    "name_zh_tw": "冰爆罐"
+  },
+  "trap_456_xbfarmm": {
+    "name_jp": "栽培ボックス",
+    "name_en": "Planting Box Group\n",
+    "name_zh_tw": "種植箱集群\n"
+  },
+  "trap_457_xbfort": {
+    "name_jp": "臨時高台",
+    "name_en": "Battlement",
+    "name_zh_tw": "高台工事"
+  },
+  "trap_458_xbbarir": {
+    "name_jp": "反応障壁",
+    "name_en": "Reactive Barrier",
+    "name_zh_tw": "反應壁障"
+  },
+  "trap_459_xblight": {
+    "name_jp": "監視塔",
+    "name_en": "Watch Tower",
+    "name_zh_tw": "監視哨站"
+  },
+  "trap_460_xbdiam": {
+    "name_jp": "透珀石鉱脈",
+    "name_en": "Lighting Ore Vein",
+    "name_zh_tw": "澄亮礦脈"
+  },
+  "trap_461_xbhydr": {
+    "name_jp": "石の関門",
+    "name_en": "Olden Keystone",
+    "name_zh_tw": "機關石門"
+  },
+  "trap_462_xbsighta": {
+    "name_jp": "涼しげな泉",
+    "name_en": "Fountain",
+    "name_zh_tw": "靈動清泉"
+  },
+  "trap_463_xbsightb": {
+    "name_jp": "静かなる盆栽",
+    "name_en": "Potting",
+    "name_zh_tw": "靜謐盆栽"
+  },
+  "trap_464_xbsightc": {
+    "name_jp": "休憩用ベンチ",
+    "name_en": "Bench",
+    "name_zh_tw": "休閒長椅"
+  },
+  "trap_465_xbstation": {
+    "name_jp": "号令ポイント",
+    "name_en": "Command Point",
+    "name_zh_tw": "號令點"
+  },
+  "trap_466_tzumama": {
+    "name_jp": "ユーネクテス",
+    "name_en": "Eunectes",
+    "name_zh_tw": "森蚺"
+  },
+  "trap_467_ttuye": {
+    "name_jp": "トゥイエ",
+    "name_en": "Tuye",
+    "name_zh_tw": "圖耶"
+  },
+  "trap_468_tpriest": {
+    "name_jp": "大祭司",
+    "name_en": "High Priest",
+    "name_zh_tw": "大祭司"
+  },
+  "trap_469_tpasngr": {
+    "name_jp": "パッセンジャー",
+    "name_en": "Passenger",
+    "name_zh_tw": "異客"
+  },
+  "trap_470_tmantic": {
+    "name_jp": "マンティコア",
+    "name_en": "Manticore",
+    "name_zh_tw": "獅蠍"
+  },
+  "trap_471_tegmaus": {
+    "name_jp": "ペペ",
+    "name_en": "Pepe",
+    "name_zh_tw": "佩佩"
+  },
+  "trap_472_tfalco": {
+    "name_jp": "ケストレル",
+    "name_en": "Kestrel",
+    "name_zh_tw": "紅隼"
+  },
+  "trap_473_trmedic": {
+    "name_jp": "ロドスオペレーター",
+    "name_en": "Rhodes Island Staff Worker",
+    "name_zh_tw": "羅德島工作人員"
+  },
+  "trap_474_mailbox": {
+    "name_jp": "郵便ポスト",
+    "name_en": "Mail Box",
+    "name_zh_tw": "信使郵筒"
+  },
+  "trap_475_xbcbag": {
+    "name_jp": "捕獲カゴ",
+    "name_en": "Beast Cage",
+    "name_zh_tw": "獵獲籠"
+  },
+  "trap_476_mscskt": {
+    "name_jp": "情報ボックス",
+    "name_en": "Message Casket",
+    "name_zh_tw": "訊息匣"
+  },
+  "trap_477_xbspps": {
+    "name_jp": "眩暈のお香",
+    "name_en": "Overspeed Spice",
+    "name_zh_tw": "失衡異香"
+  },
+  "trap_478_xbcanoe": {
+    "name_jp": "特設ボート",
+    "name_en": "Custom Floating Platform",
+    "name_zh_tw": "特製水上平台"
+  },
+  "trap_479_xbbillb": {
+    "name_jp": "看板",
+    "name_en": "Billboard",
+    "name_zh_tw": "告示牌"
+  },
+  "trap_480_roadblockxb": {
+    "name_jp": "道路障害物",
+    "name_en": "Static Roadblock",
+    "name_zh_tw": "道路障礙物"
+  },
+  "trap_481_gtreasureb": {
+    "name_jp": "埋もれた金属の箱",
+    "name_en": "Buried Metal Chest",
+    "name_zh_tw": "埋沒金屬箱"
+  },
+  "trap_482_xbblure": {
+    "name_jp": "オリジムシ捕獲トラップ",
+    "name_en": "Slug Lure",
+    "name_zh_tw": "源石蟲引誘器"
+  },
+  "trap_483_xbtrophy": {
+    "name_jp": "「オリジムシハート」",
+    "name_en": "'Heart of a Slug'",
+    "name_zh_tw": "“源石蟲之心”"
+  },
+  "trap_484_xbcp": {
+    "name_jp": "チェックポイント",
+    "name_en": "Checkpoint",
+    "name_zh_tw": "檢查點"
+  },
+  "trap_485_xbrandprop": {
+    "name_jp": "ランダムボックス",
+    "name_en": "Random Item Box",
+    "name_zh_tw": "隨機道具盒"
+  },
+  "trap_143_rnfcar": {
+    "name_jp": "バリケード補強装置",
+    "name_en": "Block Reinforcement Device",
+    "name_zh_tw": "封阻加固裝置"
+  },
+  "trap_144_ads": {
+    "name_jp": "仮設掩体装置",
+    "name_en": "Temporary Cover",
+    "name_zh_tw": "臨時掩護裝置"
+  },
+  "trap_145_edd": {
+    "name_jp": "トラップ設置装置",
+    "name_en": "Mine Deployer",
+    "name_zh_tw": "詭雷布設裝置"
+  },
+  "trap_163_foolcrate": {
+    "name_jp": "障害物",
+    "name_en": "Roadblock",
+    "name_zh_tw": "障礙物"
+  },
+  "trap_147_spblls": {
+    "name_jp": "巫術バリスタ",
+    "name_en": "Witchcraft Ballista",
+    "name_zh_tw": "巫術弩炮"
+  },
+  "trap_148_amblls": {
+    "name_jp": "幽影の扉",
+    "name_en": "Umbral Door",
+    "name_zh_tw": "幽影門扉"
+  },
+  "trap_151_muruinw": {
+    "name_jp": "競技用格納式高台",
+    "name_en": "Foldable Bastion",
+    "name_zh_tw": "折疊式堡壘模組"
+  },
+  "trap_152_muruino": {
+    "name_jp": "競技用格納式防壁",
+    "name_en": "Foldable Auxiliary Apparatus",
+    "name_zh_tw": "折疊式輔助器械"
+  },
+  "trap_165_muftbl": {
+    "name_jp": "サッカーボール",
+    "name_en": "Football",
+    "name_zh_tw": "足球"
+  },
+  "trap_167_muruinf": {
+    "name_jp": "競技用格納式整備車",
+    "name_en": "Foldable Maintenance Vehicle",
+    "name_zh_tw": "折疊式維護車"
+  },
+  "trap_169_muruinb": {
+    "name_jp": "競技用格納式支援所",
+    "name_en": "Foldable Logistics Hub",
+    "name_zh_tw": "折疊式後勤站"
+  },
+  "trap_179_muctrl": {
+    "name_jp": "協心競技制御装置",
+    "name_en": "Icebreaker Games Control",
+    "name_zh_tw": "促融共競控制"
+  },
+  "trap_158_lrsteam": {
+    "name_jp": "チャールズ・リンチ",
+    "name_en": "Charles Lynch",
+    "name_zh_tw": "查爾斯·林奇"
+  },
+  "trap_159_lrcore": {
+    "name_jp": "コア増幅器",
+    "name_en": "Core Amplifier",
+    "name_zh_tw": "核心增幅器"
+  },
+  "trap_160_lrlgun": {
+    "name_jp": "奔流発生装置",
+    "name_en": "Torrent Beam Activator",
+    "name_zh_tw": "洪流束激發器"
+  },
+  "trap_161_lrcage": {
+    "name_jp": "枯朽の祭壇",
+    "name_en": "Withered Altar",
+    "name_zh_tw": "枯朽祭壇"
+  },
+  "trap_162_lrctrl": {
+    "name_jp": "第十四章ギミックコントローラー",
+    "name_en": "EP14 Mechanics Controller",
+    "name_zh_tw": "十四章機制控制器"
+  },
+  "trap_164_lrsiege": {
+    "name_jp": "奮い立つ栄光",
+    "name_en": "Light of Glory",
+    "name_zh_tw": "振奮榮光"
+  },
+  "trap_155_aegiret": {
+    "name_jp": "航路ビーコン",
+    "name_en": "Waterway Beacon",
+    "name_zh_tw": "航道信標"
+  },
+  "trap_156_dsshell": {
+    "name_jp": "増殖甲羅",
+    "name_en": "Excrescent Carapace",
+    "name_zh_tw": "贅生甲殼"
+  },
+  "trap_157_bounc2": {
+    "name_jp": "リトル・ハンディ",
+    "name_en": "'Little Handy'",
+    "name_zh_tw": "小幫手"
+  },
+  "trap_757_skzbox": {
+    "name_jp": "宝箱",
+    "name_en": "Treasure Chest",
+    "name_zh_tw": "寶箱"
+  },
+  "trap_758_skzmbx": {
+    "name_jp": "アイドリングメカ",
+    "name_en": "Idle Exquisicart",
+    "name_zh_tw": "停滯巧械"
+  },
+  "trap_759_skzwyx": {
+    "name_jp": "瀕死の羽獣",
+    "name_en": "Dying Fowlbeast",
+    "name_zh_tw": "垂死羽獸"
+  },
+  "trap_762_skztxy": {
+    "name_jp": "「黒き王冠の聖賢」テレジア",
+    "name_en": "Theresa, Black-crowned Sage",
+    "name_zh_tw": "特蕾西婭，黑冠聖賢"
+  },
+  "trap_765_bmoney": {
+    "name_jp": "決定的な証拠",
+    "name_en": "Indisputable Evidence",
+    "name_zh_tw": "無可置疑的罪證"
+  },
+  "trap_766_duelwal": {
+    "name_jp": "隘路の衝突",
+    "name_en": "Face to Face",
+    "name_zh_tw": "狹路相逢"
+  },
+  "trap_767_duelcdt": {
+    "name_jp": "隘路の衝突",
+    "name_en": "Face to Face",
+    "name_zh_tw": "狹路相逢"
+  },
+  "trap_181_sgray": {
+    "name_jp": "結晶除去装置",
+    "name_en": "Decrystallizing Totem",
+    "name_zh_tw": "結晶消除樁"
+  },
+  "trap_182_sglink": {
+    "name_jp": "純粋結晶",
+    "name_en": "Pure Crystal",
+    "name_zh_tw": "純淨結晶"
+  },
+  "trap_768_godch": {
+    "name_jp": "保全人員協力協定",
+    "name_en": "Security Talent Agreement",
+    "name_zh_tw": "保全人才合作協議"
+  },
+  "trap_769_godcha": {
+    "name_jp": "緊急派遣規約",
+    "name_en": "Expedited Licensing Terms",
+    "name_zh_tw": "加急許可條款"
+  },
+  "trap_770_godchb": {
+    "name_jp": "臨時任命規約",
+    "name_en": "Interim Appointment Terms",
+    "name_zh_tw": "臨時任命條款"
+  },
+  "trap_771_bqrnge": {
+    "name_jp": "科学研究用望遠鏡",
+    "name_en": "Royal Academy of Sciences Telescope",
+    "name_zh_tw": "皇家科學院望遠鏡"
+  },
+  "trap_772_bqrngea": {
+    "name_jp": "プロ仕様モニターモジュール",
+    "name_en": "Professional Display Module",
+    "name_zh_tw": "專業顯示模組"
+  },
+  "trap_773_bqrngeb": {
+    "name_jp": "フレキシブル設置モジュール",
+    "name_en": "Agile Installation Module",
+    "name_zh_tw": "靈活架設模組"
+  },
+  "trap_774_bqmlee": {
+    "name_jp": "登雲具",
+    "name_en": "Cloudstepper",
+    "name_zh_tw": "攀雲機"
+  },
+  "trap_775_bqmleea": {
+    "name_jp": "補強＆拡容改造",
+    "name_en": "Reinforcement Expansion Modification",
+    "name_zh_tw": "加固擴存改裝"
+  },
+  "trap_776_bqmleeb": {
+    "name_jp": "遠距離＆効率化改造",
+    "name_en": "Long-Expansion Modification",
+    "name_zh_tw": "長距增運改裝"
+  },
+  "trap_493_xbabal": {
+    "name_jp": "狩猟用発射台",
+    "name_en": "Hunting Net Launcher",
+    "name_zh_tw": "追獵發射台"
+  },
+  "trap_494_xbasky": {
+    "name_jp": "ナズナモドキの花",
+    "name_en": "Thale Calyx",
+    "name_zh_tw": "擬南盞"
+  },
+  "trap_499_xbaask": {
+    "name_jp": "珍しいナズナモドキの花",
+    "name_en": "Rare Thale Calyx",
+    "name_zh_tw": "稀有·擬南盞"
+  },
+  "trap_495_xbasmi": {
+    "name_jp": "香草の粉",
+    "name_en": "Spicy Pollen",
+    "name_zh_tw": "草香粉"
+  },
+  "trap_496_xbaasm": {
+    "name_jp": "珍しい香草の粉",
+    "name_en": "Rare Spicy Pollen",
+    "name_zh_tw": "稀有·草香粉"
+  },
+  "trap_497_xbarok": {
+    "name_jp": "ロックハンマー",
+    "name_en": "Rock Hammer",
+    "name_zh_tw": "岩錘"
+  },
+  "trap_498_xbaaro": {
+    "name_jp": "珍しいロックハンマー",
+    "name_en": "Rare Rock Hammer",
+    "name_zh_tw": "稀有·岩錘"
+  },
+  "trap_488_xbtwod": {
+    "name_jp": "全自動伐採基地",
+    "name_en": "Auto Sawing Hub",
+    "name_zh_tw": "全自動切木站"
+  },
+  "trap_489_xbtrok": {
+    "name_jp": "全自動採石基地",
+    "name_en": "Auto Quarry Hub",
+    "name_zh_tw": "全自動掘石站"
+  },
+  "trap_490_xbtiro": {
+    "name_jp": "全自動採鉱基地",
+    "name_en": "Auto Mining Hub",
+    "name_zh_tw": "全自動採鐵站"
+  },
+  "trap_487_xblfen": {
+    "name_jp": "大型畜舎",
+    "name_en": "Large Corral",
+    "name_zh_tw": "大型獸欄"
+  },
+  "trap_491_xbtwal": {
+    "name_jp": "虚影障壁",
+    "name_en": "Phantomic Barrier",
+    "name_zh_tw": "虛影壁障"
+  },
+  "trap_492_xbamai": {
+    "name_jp": "狩猟ボックス",
+    "name_en": "Discovery Casket",
+    "name_zh_tw": "狩聞匣"
+  },
+  "trap_508_xbabat": {
+    "name_jp": "作戦補給品",
+    "name_en": "Operation Kit",
+    "name_zh_tw": "行動套裝"
+  },
+  "trap_500_xbaflu": {
+    "name_jp": "ケミカルライト発射装置",
+    "name_en": "Glow Stick Launcher",
+    "name_zh_tw": "螢光棒彈射裝置"
+  },
+  "trap_501_xbaarm": {
+    "name_jp": "外骨格",
+    "name_en": "Exoskeleton",
+    "name_zh_tw": "外骨骼"
+  },
+  "trap_502_xbaice": {
+    "name_jp": "氷瀑噴射缶",
+    "name_en": "Ice Blaster",
+    "name_zh_tw": "冰瀑噴射罐"
+  },
+  "trap_503_xbabla": {
+    "name_jp": "壊死損傷発射装置",
+    "name_en": "Necrosis Transmitter",
+    "name_zh_tw": "凋亡發射器"
+  },
+  "trap_504_xbaess": {
+    "name_jp": "樽詰め香液",
+    "name_en": "Barreled Perfume",
+    "name_zh_tw": "桶裝液香"
+  },
+  "trap_505_xbawea": {
+    "name_jp": "パラソルマシン",
+    "name_en": "Omni Umbrella",
+    "name_zh_tw": "庇護製造器"
+  },
+  "trap_506_xbadiv": {
+    "name_jp": "猛獣のエサ",
+    "name_en": "Hunting Rations",
+    "name_zh_tw": "馴獸口糧"
+  },
+  "trap_507_xbabut": {
+    "name_jp": "狩猟用発射台",
+    "name_en": "Neural Chain",
+    "name_zh_tw": "感知鏈接器"
+  },
+  "trap_509_xbf1g": {
+    "name_jp": "既製品の木材採取基地",
+    "name_en": "Deluxe Sawing Harvester Hub",
+    "name_zh_tw": "木材採集站·採購"
+  },
+  "trap_510_xbf2g": {
+    "name_jp": "既製品の石材採取基地",
+    "name_en": "Deluxe Quarrying Harvester Hub",
+    "name_zh_tw": "石材採集站·採購"
+  },
+  "trap_511_xbf3g": {
+    "name_jp": "既製品の鉄鉱石採取基地",
+    "name_en": "Deluxe Mining Harvester Hub",
+    "name_zh_tw": "鐵礦採集站·採購"
+  },
+  "trap_512_xbwfg": {
+    "name_jp": "既製品のカニカニポンプ",
+    "name_en": "Deluxe Crabbie Pumpie",
+    "name_zh_tw": "蟹蟹抽水泵·採購"
+  },
+  "trap_171_trpot": {
+    "name_jp": "大鍋",
+    "name_en": "Really Big Pot",
+    "name_zh_tw": "很大的鍋"
+  },
+  "trap_172_trbox": {
+    "name_jp": "「宝箱」",
+    "name_en": "'Treasure Chest'",
+    "name_zh_tw": "“寶箱”"
+  },
+  "trap_178_trrbox": {
+    "name_jp": "「宝箱」",
+    "name_en": "'Treasure Chest'",
+    "name_zh_tw": "“寶箱”"
+  },
+  "trap_184_vtarsn": {
+    "name_jp": "軍事工場指令基地",
+    "name_en": "Munitions Factory Command Center",
+    "name_zh_tw": "軍工廠指令平台"
+  },
+  "trap_186_cnvfwks": {
+    "name_jp": "花火打上装置",
+    "name_en": "Firework Launcher",
+    "name_zh_tw": "煙火發射器"
+  },
+  "trap_1000_acarm000": {
+    "name_jp": "小盾",
+    "name_en": "Small Shield",
+    "name_zh_tw": "小盾"
+  },
+  "trap_1001_acarm001": {
+    "name_jp": "短剣",
+    "name_en": "Dirk",
+    "name_zh_tw": "短劍"
+  },
+  "trap_1002_acarm002": {
+    "name_jp": "ラッキーコイン",
+    "name_en": "Lucky Coin",
+    "name_zh_tw": "幸運幣"
+  },
+  "trap_1003_acarm003": {
+    "name_jp": "氷",
+    "name_en": "Chunk of Ice",
+    "name_zh_tw": "冰塊"
+  },
+  "trap_1004_acarm004": {
+    "name_jp": "レーション",
+    "name_en": "Hardtack",
+    "name_zh_tw": "壓縮餅乾"
+  },
+  "trap_1005_acarm005": {
+    "name_jp": "ビーコン",
+    "name_en": "Transmitter",
+    "name_zh_tw": "信標"
+  },
+  "trap_1006_acarm006": {
+    "name_jp": "源岩ナイフ",
+    "name_en": "Orirock Dagger",
+    "name_zh_tw": "源岩匕首"
+  },
+  "trap_1007_acarm007": {
+    "name_jp": "源石溶剤",
+    "name_en": "Originium Solvent",
+    "name_zh_tw": "源石溶劑"
+  },
+  "trap_1008_acarm008": {
+    "name_jp": "レーザー発射機",
+    "name_en": "Laser Sighter",
+    "name_zh_tw": "鐳射發射器"
+  },
+  "trap_1009_acarm009": {
+    "name_jp": "カランド貿易ファイル",
+    "name_en": "Karlan Trade File",
+    "name_zh_tw": "喀蘭貿易文件"
+  },
+  "trap_1010_acarm010": {
+    "name_jp": "カジミエーシュファイル",
+    "name_en": "Kazimierz File",
+    "name_zh_tw": "卡西米爾文件"
+  },
+  "trap_1011_acarm011": {
+    "name_jp": "アビサルハンターファイル",
+    "name_en": "Abyssal Hunter File",
+    "name_zh_tw": "深海獵人文件"
+  },
+  "trap_1012_acarm012": {
+    "name_jp": "渋茶",
+    "name_en": "Strong Tea",
+    "name_zh_tw": "濃茶"
+  },
+  "trap_1013_acarm013": {
+    "name_jp": "警報器",
+    "name_en": "Buzzer",
+    "name_zh_tw": "蜂鳴器"
+  },
+  "trap_1014_acarm014": {
+    "name_jp": "倹約家の人形",
+    "name_en": "Budget-Savvy Doll",
+    "name_zh_tw": "精打細算玩偶"
+  },
+  "trap_1015_acarm015": {
+    "name_jp": "守銭奴の人形",
+    "name_en": "Money-Grubbing Doll",
+    "name_zh_tw": "見錢眼開玩偶"
+  },
+  "trap_1016_acarm016": {
+    "name_jp": "予備隊員昇進許可",
+    "name_en": "Promotion Permit",
+    "name_zh_tw": "預備進階許可"
+  },
+  "trap_1017_acarm017": {
+    "name_jp": "戦場分析装置",
+    "name_en": "Battlefield Analyzer",
+    "name_zh_tw": "戰場分析儀"
+  },
+  "trap_1018_acarm018": {
+    "name_jp": "スタングレネード",
+    "name_en": "Stun Grenade",
+    "name_zh_tw": "震撼彈"
+  },
+  "trap_1019_acarm019": {
+    "name_jp": "制式重装シールド",
+    "name_en": "Standard Defender Shield",
+    "name_zh_tw": "制式重裝盾"
+  },
+  "trap_1020_acarm020": {
+    "name_jp": "制式狙撃ゴーグル",
+    "name_en": "Standard Sniper Scope",
+    "name_zh_tw": "制式狙擊鏡"
+  },
+  "trap_1021_acarm021": {
+    "name_jp": "制式術師ロッド",
+    "name_en": "Standard Caster Wand",
+    "name_zh_tw": "制式術師杖"
+  },
+  "trap_1022_acarm022": {
+    "name_jp": "携帯式アーツバリア",
+    "name_en": "Pocket Arts Circle",
+    "name_zh_tw": "口袋法陣"
+  },
+  "trap_1023_acarm023": {
+    "name_jp": "競技アーケードマシン",
+    "name_en": "Coin-Operated Machine",
+    "name_zh_tw": "競技投幣機"
+  },
+  "trap_1024_acarm024": {
+    "name_jp": "職人のハンマー",
+    "name_en": "Engineer's Hammer",
+    "name_zh_tw": "工匠錘"
+  },
+  "trap_1025_acarm025": {
+    "name_jp": "眠れる眷属",
+    "name_en": "Dormant Heir",
+    "name_zh_tw": "休眠子裔"
+  },
+  "trap_1026_acarm026": {
+    "name_jp": "術師ドローン",
+    "name_en": "Caster Drone",
+    "name_zh_tw": "術師無人機"
+  },
+  "trap_1027_acarm027": {
+    "name_jp": "カジミエーシュのオブジェ",
+    "name_en": "Kazimierz Model",
+    "name_zh_tw": "卡西米爾模型"
+  },
+  "trap_1028_acarm028": {
+    "name_jp": "カランド貿易のオブジェ",
+    "name_en": "Karlan Trade Model",
+    "name_zh_tw": "喀蘭貿易模型"
+  },
+  "trap_1029_acarm029": {
+    "name_jp": "アビサルハンターのオブジェ",
+    "name_en": "Abyssal Hunter Model",
+    "name_zh_tw": "深海獵人模型"
+  },
+  "trap_1030_acarm030": {
+    "name_jp": "エリート重装セット",
+    "name_en": "Elite Defender Set",
+    "name_zh_tw": "精英重裝套組"
+  },
+  "trap_1031_acarm031": {
+    "name_jp": "エリート狙撃セット",
+    "name_en": "Elite Sniper Set",
+    "name_zh_tw": "精英狙擊套組"
+  },
+  "trap_1032_acarm032": {
+    "name_jp": "エリート術師セット",
+    "name_en": "Elite Caster Set",
+    "name_zh_tw": "精英術師套組"
+  },
+  "trap_1033_acarm033": {
+    "name_jp": "ゴリアテの兜",
+    "name_en": "Goliath Helmet",
+    "name_zh_tw": "歌利亞頭盔"
+  },
+  "trap_1034_acarm034": {
+    "name_jp": "M3アーマー",
+    "name_en": "M3 Armor",
+    "name_zh_tw": "M3護甲"
+  },
+  "trap_1035_acarm035": {
+    "name_jp": "M3クロー",
+    "name_en": "M3 Claw",
+    "name_zh_tw": "M3利爪"
+  },
+  "trap_1036_acarm036": {
+    "name_jp": "携帯式射出装置",
+    "name_en": "Portable Launcher",
+    "name_zh_tw": "便攜彈射器"
+  },
+  "trap_1037_acarm037": {
+    "name_jp": "有限加速マシン",
+    "name_en": "Miniature Accelerator",
+    "name_zh_tw": "有限加速器"
+  },
+  "trap_1038_acarm038": {
+    "name_jp": "万能ロボットアーム",
+    "name_en": "Multi-Purpose Robotic Arm",
+    "name_zh_tw": "全能機械臂"
+  },
+  "trap_1039_acarm039": {
+    "name_jp": "ドクターのホログラム",
+    "name_en": "Doctor Hologram",
+    "name_zh_tw": "博士投影"
+  },
+  "trap_1080_acspell001": {
+    "name_jp": "アーツ：治療",
+    "name_en": "Arts: Recovery",
+    "name_zh_tw": "法術：恢復"
+  },
+  "trap_1081_acspell002": {
+    "name_jp": "アーツ：剛力",
+    "name_en": "Arts: Strength",
+    "name_zh_tw": "法術：力量"
+  },
+  "trap_1082_acspell003": {
+    "name_jp": "アーツ：伝動",
+    "name_en": "Arts: Transmission",
+    "name_zh_tw": "法術：傳動"
+  },
+  "trap_1083_acspell004": {
+    "name_jp": "アーツ：貪欲",
+    "name_en": "Arts: Greed",
+    "name_zh_tw": "法術：貪婪"
+  },
+  "trap_1084_acspell005": {
+    "name_jp": "アーツ：充足",
+    "name_en": "Arts: Satisfaction",
+    "name_zh_tw": "法術：滿足"
+  },
+  "trap_1085_acspell006": {
+    "name_jp": "アーツ：防壁",
+    "name_en": "Arts: Shield",
+    "name_zh_tw": "法術：護盾"
+  },
+  "trap_1086_acspell007": {
+    "name_jp": "アーツ：昇進",
+    "name_en": "Arts: Role Model",
+    "name_zh_tw": "法術：榜樣"
+  },
+  "trap_1087_acspell008": {
+    "name_jp": "アーツ：護身",
+    "name_en": "Arts: Barrier",
+    "name_zh_tw": "法術：屏障"
+  },
+  "trap_1088_acspell009": {
+    "name_jp": "アーツ：伝心",
+    "name_en": "Arts: Familiar Face",
+    "name_zh_tw": "法術：熟人"
+  },
+  "trap_1089_acspell010": {
+    "name_jp": "アーツ：同行",
+    "name_en": "Arts: Peer",
+    "name_zh_tw": "法術：同行"
+  },
+  "trap_1090_acspell011": {
+    "name_jp": "アーツ：向上",
+    "name_en": "Arts: Boost",
+    "name_zh_tw": "法術：提升"
+  },
+  "trap_1091_acspell012": {
+    "name_jp": "アーツ：緩速",
+    "name_en": "Arts: Slow",
+    "name_zh_tw": "法術：遲緩"
+  },
+  "trap_1093_acspell014": {
+    "name_jp": "アーツ：全力",
+    "name_en": "Arts: All-Out",
+    "name_zh_tw": "法術：全力"
+  },
+  "trap_1094_acspell015": {
+    "name_jp": "アーツ：血税",
+    "name_en": "Arts: Blood Tax",
+    "name_zh_tw": "法術：血稅"
+  },
+  "trap_1095_acspell016": {
+    "name_jp": "アーツ：奇兵",
+    "name_en": "Arts: Infiltration",
+    "name_zh_tw": "法術：破襲"
+  },
+  "trap_1096_acshopup": {
+    "name_jp": "補給船操舵手",
+    "name_en": "Barge Captain",
+    "name_zh_tw": "駁船操作員"
+  },
+  "trap_1097_acshopre": {
+    "name_jp": "物資調達器",
+    "name_en": "Supply Distributor",
+    "name_zh_tw": "補給調配器"
+  },
+  "trap_1098_acshopfr": {
+    "name_jp": "物資保管器",
+    "name_en": "Supply Retainer",
+    "name_zh_tw": "補給留存器"
+  },
+  "trap_1099_acspell017": {
+    "name_jp": "昇進配分許可証",
+    "name_en": "Advanced Deployment Permit",
+    "name_zh_tw": "晉升調配特許"
+  },
+  "trap_777_giacan": {
+    "name_jp": "「蓄音機」の台座",
+    "name_en": "Gramophone Pedestal",
+    "name_zh_tw": "“留聲機”底座"
+  },
+  "trap_778_giatow": {
+    "name_jp": "L-44「蓄音機」",
+    "name_en": "L-44 'Gramophone'",
+    "name_zh_tw": "L-44\"留聲機\""
+  },
+  "trap_187_arcgacha": {
+    "name_jp": "カプセルマシン",
+    "name_en": "Gacha Machine",
+    "name_zh_tw": "扭蛋機"
+  },
+  "trap_188_arcsum1": {
+    "name_jp": "道端の電話ボックス",
+    "name_en": "Street Telephone Booth",
+    "name_zh_tw": "街邊電話亭"
+  },
+  "trap_189_arcsum2": {
+    "name_jp": "軍営の電話ボックス",
+    "name_en": "Camp Telephone Booth",
+    "name_zh_tw": "軍營電話亭"
+  },
+  "trap_190_arcsum3": {
+    "name_jp": "次元超越電話ボックス",
+    "name_en": "Timey-Wimey Telephone Booth",
+    "name_zh_tw": "超時空電話亭"
+  },
+  "trap_191_arcexpd": {
+    "name_jp": "注文用電話機",
+    "name_en": "Menu Telephone",
+    "name_zh_tw": "復古電話機"
+  },
+  "trap_192_archook": {
+    "name_jp": "アーム",
+    "name_en": "Hook",
+    "name_zh_tw": "鉤爪"
+  },
+  "trap_193_arctoll": {
+    "name_jp": "得点集計所",
+    "name_en": "Scoring Station",
+    "name_zh_tw": "大戰記分站"
+  },
+  "trap_194_arcsoda": {
+    "name_jp": "コカ・ラーラ",
+    "name_en": "Quenchy Cola",
+    "name_zh_tw": "口渴樂樂"
+  },
+  "trap_196_cnnon": {
+    "name_jp": "ソルトキャノン",
+    "name_en": "Saltheap Cannon",
+    "name_zh_tw": "鹽坨子炮"
+  },
+  "trap_197_muulwr": {
+    "name_jp": "防具支給員",
+    "name_en": "Protective Gear Giver",
+    "name_zh_tw": "護具分發員"
+  },
+  "trap_198_muulas": {
+    "name_jp": "花火セット",
+    "name_en": "Chaotic Fireworks",
+    "name_zh_tw": "混亂煙火箱"
+  },
+  "trap_199_muulrg": {
+    "name_jp": "ニャンスターエナジー",
+    "name_en": "Beastmode Energy Drink",
+    "name_zh_tw": "猛獸能量飲料"
+  },
+  "trap_200_muulcl": {
+    "name_jp": "サイダー噴射機",
+    "name_en": "Soda Dispenser",
+    "name_zh_tw": "噴射汽水機"
+  },
+  "trap_201_muulco": {
+    "name_jp": "競技応援団",
+    "name_en": "Cheerleader",
+    "name_zh_tw": "賽場啦啦隊"
+  },
+  "trap_203_mufrprn": {
+    "name_jp": "ガラクタのなだれ",
+    "name_en": "Collapsed Junk Pile",
+    "name_zh_tw": "坍塌的雜物堆"
+  },
+  "trap_205_mufrfm": {
+    "name_jp": "作業員倉庫",
+    "name_en": "Construction Workshop",
+    "name_zh_tw": "建築工具間"
+  },
+  "trap_206_mufrbk": {
+    "name_jp": "仮設休憩室",
+    "name_en": "Recuperation Pod",
+    "name_zh_tw": "臨時休息艙"
+  },
+  "trap_207_mufrwl": {
+    "name_jp": "油圧式高台",
+    "name_en": "Hydraulic Platform",
+    "name_zh_tw": "液壓式高台 "
+  },
+  "trap_208_mufrst": {
+    "name_jp": "コンクリ防壁",
+    "name_en": "Concrete Roadblock",
+    "name_zh_tw": "混凝土路障 "
+  },
+  "trap_209_mufrbs": {
+    "name_jp": "携帯式健康器",
+    "name_en": "Portable Exercise Rack",
+    "name_zh_tw": "便攜健身架"
+  },
+  "trap_210_arcgrg": {
+    "name_jp": "水陸両用埠頭",
+    "name_en": "Amphibious Dock",
+    "name_zh_tw": "兩棲碼頭"
+  },
+  "trap_211_cjgtow": {
+    "name_jp": "竈台",
+    "name_en": "Stove",
+    "name_zh_tw": "火灶"
+  },
+  "trap_212_cjbtow": {
+    "name_jp": "破棄された竈台",
+    "name_en": "Derelict Stove",
+    "name_zh_tw": "廢棄火灶"
+  },
+  "trap_218_fttree": {
+    "name_jp": "茂み",
+    "name_en": "Thicket",
+    "name_zh_tw": "樹叢"
+  },
+  "trap_219_fttreant": {
+    "name_jp": "盾と壁",
+    "name_en": "Shield and Wall",
+    "name_zh_tw": "盾與牆"
+  },
+  "trap_221_ftshad": {
+    "name_jp": "抜け殻",
+    "name_en": "Empty Shell",
+    "name_zh_tw": "空殼"
+  },
+  "trap_222_rgdysm": {
+    "name_jp": "彫鬼",
+    "name_en": "Statuegeist",
+    "name_zh_tw": "雕倀"
+  },
+  "trap_223_dynbox": {
+    "name_jp": "お宝ひょうたん",
+    "name_en": "Magic Gourd",
+    "name_zh_tw": "寶葫蘆"
+  },
+  "trap_224_dyrbox": {
+    "name_jp": "鉄のひょうたん",
+    "name_en": "Iron Gourd",
+    "name_zh_tw": "鐵葫蘆"
+  },
+  "trap_225_dysbox": {
+    "name_jp": "奇妙なひょうたん",
+    "name_en": "Strange Gourd",
+    "name_zh_tw": "怪葫蘆"
+  },
+  "trap_238_dydfst": {
+    "name_jp": "明燭台",
+    "name_en": "Candle Stand",
+    "name_zh_tw": "明燭台"
+  },
+  "trap_239_dyffgd": {
+    "name_jp": "隘路の衝突",
+    "name_en": "Face to Face",
+    "name_zh_tw": "狹路相逢"
+  },
+  "trap_240_dyffdd": {
+    "name_jp": "隘路の衝突",
+    "name_en": "Face to Face",
+    "name_zh_tw": "狹路相逢"
+  },
+  "trap_241_dyldlz": {
+    "name_jp": "聚宝斎",
+    "name_en": "Chamber of Treasures",
+    "name_zh_tw": "聚寶齋"
+  },
+  "trap_227_mpweak": {
+    "name_jp": "弱体化ノード",
+    "name_en": "Weakening Node",
+    "name_zh_tw": "弱化節點"
+  },
+  "trap_228_mptxs": {
+    "name_jp": "テレシス",
+    "name_en": "Theresis",
+    "name_zh_tw": "特雷西斯"
+  },
+  "trap_780_supspt": {
+    "name_jp": "天工夜行セット",
+    "name_en": "Nightwalker's Gear",
+    "name_zh_tw": "天工夜行套裝"
+  },
+  "trap_781_supspta": {
+    "name_jp": "夜行笠モジュール",
+    "name_en": "Nightwalker's Cloak Module",
+    "name_zh_tw": "夜行斗篷模組"
+  },
+  "trap_782_supsptb": {
+    "name_jp": "夜行鉤爪モジュール",
+    "name_en": "Nightwalker's Hook Module",
+    "name_zh_tw": "夜行鉤爪模組"
+  },
+  "trap_213_dqore": {
+    "name_jp": "源石祭壇",
+    "name_en": "Originium Altar",
+    "name_zh_tw": "源石祭壇"
+  },
+  "trap_214_dqballis": {
+    "name_jp": "バリスタ",
+    "name_en": "Turret",
+    "name_zh_tw": "弩炮"
+  },
+  "trap_215_dqcrsbow": {
+    "name_jp": "解雇者清算プログラム",
+    "name_en": "Post-Firing Debt Relief Program",
+    "name_zh_tw": "解雇者清債程式"
+  },
+  "trap_216_dqelec": {
+    "name_jp": "ミェシュココイル",
+    "name_en": "Mieszko Coil",
+    "name_zh_tw": "梅什科線圈"
+  },
+  "trap_237_hlnpcb": {
+    "name_jp": "聖堂保育士ごっこ",
+    "name_en": "Shrine Nurturer Cosplayer",
+    "name_zh_tw": "聖堂保育員扮演者"
+  },
+  "trap_249_mjcsdw": {
+    "name_jp": "「月影の繭」",
+    "name_en": "'Moonlight Cocoon'",
+    "name_zh_tw": "“月影之繭”"
+  },
+  "trap_783_tnkspk": {
+    "name_jp": "カウンターアーマーセット",
+    "name_en": "Counter Armor Set",
+    "name_zh_tw": "反制裝甲套組"
+  },
+  "trap_784_tnkspka": {
+    "name_jp": "鍼治療キットパーツ",
+    "name_en": "Microspike Addon",
+    "name_zh_tw": "微型尖刺配件"
+  },
+  "trap_785_tnkspkb": {
+    "name_jp": "バイタルモニターパーツ",
+    "name_en": "Life Support Monitor Addon",
+    "name_zh_tw": "維生監測配件"
+  },
+  "trap_786_fxdtwr": {
+    "name_jp": "「パーフェクトサポーター」",
+    "name_en": "'Unwavering Assistant'",
+    "name_zh_tw": "“絕對助手”"
+  },
+  "trap_252_pckstp": {
+    "name_jp": "天命襲来",
+    "name_en": "Fate Striker",
+    "name_zh_tw": "天命來襲"
+  },
+  "trap_253_boxnma": {
+    "name_jp": "モヤモヤナクナール",
+    "name_en": "Stress-Relief Helper",
+    "name_zh_tw": "壓力舒緩幫手"
+  },
+  "trap_254_boxmac": {
+    "name_jp": "イライラナクナール",
+    "name_en": "Zero-Stress Helper",
+    "name_zh_tw": "壓力歸零幫手"
+  },
+  "trap_255_pckzhn": {
+    "name_jp": "「斬」",
+    "name_en": "'Zan'",
+    "name_zh_tw": "“斬”"
+  },
+  "trap_270_spawnp": {
+    "name_jp": "隠された坑道",
+    "name_en": "Hidden Tunnel",
+    "name_zh_tw": "隱蔽礦道"
+  },
+  "trap_1506_lhhe": {
+    "name_jp": "河川",
+    "name_en": "River",
+    "name_zh_tw": "河流"
+  },
+  "trap_1509_lhbot": {
+    "name_jp": "探査装置",
+    "name_en": "Surveyor",
+    "name_zh_tw": "勘探器"
+  },
+  "trap_1510_lhplt": {
+    "name_jp": "源石クラスター",
+    "name_en": "Originium Formation",
+    "name_zh_tw": "源石晶簇"
+  },
+  "trap_1511_lhfac": {
+    "name_jp": "クラスター安定化装置",
+    "name_en": "Formation Stabilizer",
+    "name_zh_tw": "晶簇穩定器"
+  },
+  "trap_1512_lhfarm": {
+    "name_jp": "源石回収炉",
+    "name_en": "Originium Recycler",
+    "name_zh_tw": "源石回收爐"
+  },
+  "trap_1513_lhshop": {
+    "name_jp": "鍛冶車",
+    "name_en": "Foundry Car",
+    "name_zh_tw": "冶鑄車"
+  },
+  "trap_1514_lhpad": {
+    "name_jp": "農地",
+    "name_en": "Farmland",
+    "name_zh_tw": "田地"
+  },
+  "trap_1515_lhfacp": {
+    "name_jp": "汚染された回収炉",
+    "name_en": "Polluted Recycler",
+    "name_zh_tw": "被汙染的回收爐"
+  },
+  "trap_1517_lhcol": {
+    "name_jp": "書物庫",
+    "name_en": "Archive",
+    "name_zh_tw": "藏書館"
+  },
+  "trap_1518_lhdoor": {
+    "name_jp": "改良型巫術祭壇",
+    "name_en": "Improved Witchcraft Altar",
+    "name_zh_tw": "改良巫術祭壇"
+  },
+  "trap_1519_lhrift": {
+    "name_jp": "巫術の集落",
+    "name_en": "Witchcraft Village",
+    "name_zh_tw": "巫術村落"
+  },
+  "trap_1520_lhcolb": {
+    "name_jp": "大図書館",
+    "name_en": "Great Library",
+    "name_zh_tw": "大圖書館"
+  },
+  "trap_1522_lhvlg": {
+    "name_jp": "先遣偵察機",
+    "name_en": "Advance Detector",
+    "name_zh_tw": "先遣偵測器"
+  },
+  "trap_1523_lhtown": {
+    "name_jp": "偵察センター",
+    "name_en": "Sensor Hub",
+    "name_zh_tw": "偵測中心"
+  },
+  "trap_1524_lhport": {
+    "name_jp": "クレーン",
+    "name_en": "Loader",
+    "name_zh_tw": "裝卸機"
+  },
+  "trap_1525_lhswer": {
+    "name_jp": "漁師の集落",
+    "name_en": "Waterside Village",
+    "name_zh_tw": "水產村落"
+  },
+  "trap_1526_lharen": {
+    "name_jp": "衝突ケージ",
+    "name_en": "Impact Fence",
+    "name_zh_tw": "衝突圍欄"
+  },
+  "trap_1530_lhcamp": {
+    "name_jp": "荒野の集落",
+    "name_en": "Wilderness Village",
+    "name_zh_tw": "荒野村落"
+  },
+  "trap_1531_lhcampa": {
+    "name_jp": "狩人の集落",
+    "name_en": "Hunting Village",
+    "name_zh_tw": "獵戶村落"
+  },
+  "trap_1532_lhcampb": {
+    "name_jp": "山奥の集落",
+    "name_en": "Hill Village",
+    "name_zh_tw": "山地村落"
+  },
+  "trap_1533_lhcampc": {
+    "name_jp": "牧場の集落",
+    "name_en": "Pasture Village",
+    "name_zh_tw": "牧場村落"
+  },
+  "trap_1534_lheqp": {
+    "name_jp": "プラグイン補給地点",
+    "name_en": "Plug-in Supply Depot",
+    "name_zh_tw": "擴充補給點"
+  },
+  "trap_1535_lhupgd": {
+    "name_jp": "プラグイン強化地点",
+    "name_en": "Plug-in Upgrade Depot",
+    "name_zh_tw": "擴充強化點"
+  },
+  "trap_1536_lhbat": {
+    "name_jp": "吸血の悪地",
+    "name_en": "Cursed Bloodground",
+    "name_zh_tw": "噬血詛地"
+  },
+  "trap_1537_lhside": {
+    "name_jp": "基地局",
+    "name_en": "Base Station",
+    "name_zh_tw": "訊號基站"
+  },
+  "trap_1538_lhblod": {
+    "name_jp": "血裔の胞体",
+    "name_en": "Bloodborn Cytoplasm",
+    "name_zh_tw": "血裔胞體"
+  },
+  "trap_1539_lhflwr": {
+    "name_jp": "精霊実験室",
+    "name_en": "Fae Lab",
+    "name_zh_tw": "精怪實驗室"
+  },
+  "trap_1540_lhpad2": {
+    "name_jp": "温室",
+    "name_en": "Greenhouse Shed",
+    "name_zh_tw": "溫室棚架"
+  },
+  "trap_1040_acarm040": {
+    "name_jp": "炎国の短刀",
+    "name_en": "Yanese Dagger",
+    "name_zh_tw": "炎國短刀"
+  },
+  "trap_1041_acarm041": {
+    "name_jp": "ヴィクトリアの鉄鎚",
+    "name_en": "Victorian Hammer",
+    "name_zh_tw": "維式重鎚"
+  },
+  "trap_1042_acarm042": {
+    "name_jp": "ヴィクトリアの鉄鎚・灼熱",
+    "name_en": "Burning Victorian Hammer",
+    "name_zh_tw": "灼燃維式重鎚"
+  },
+  "trap_1043_acarm043": {
+    "name_jp": "ヴィクトリアの鉄鎚・堅牢",
+    "name_en": "Durable Victorian Hammer",
+    "name_zh_tw": "堅固維式重鎚"
+  },
+  "trap_1044_acarm044": {
+    "name_jp": "ヴィクトリアの鉄鎚・加速",
+    "name_en": "Speedy Victorian Hammer",
+    "name_zh_tw": "加速維式重鎚"
+  },
+  "trap_1045_acarm045": {
+    "name_jp": "ヴィクトリアの鉄鎚・戦慄",
+    "name_en": "Frightening Victorian Hammer",
+    "name_zh_tw": "戰慄維式重鎚"
+  },
+  "trap_1046_acarm046": {
+    "name_jp": "エーギルのいかり",
+    "name_en": "Ægirian Blade",
+    "name_zh_tw": "阿戈爾重刃"
+  },
+  "trap_1047_acarm047": {
+    "name_jp": "堅守の盾",
+    "name_en": "Durable Shield",
+    "name_zh_tw": "堅守盾牌"
+  },
+  "trap_1048_acarm048": {
+    "name_jp": "秘術法陣",
+    "name_en": "Arcane Arts Circle",
+    "name_zh_tw": "奧術法陣"
+  },
+  "trap_1049_acarm049": {
+    "name_jp": "ゴリアテの兜",
+    "name_en": "Goliath Helmet",
+    "name_zh_tw": "歌利亞頭盔"
+  },
+  "trap_1050_acarm050": {
+    "name_jp": "サルゴンの渋茶",
+    "name_en": "Sargonian Teaspresso",
+    "name_zh_tw": "薩爾貢濃茶"
+  },
+  "trap_1051_acarm051": {
+    "name_jp": "速攻用レーション",
+    "name_en": "Quick Combat Rations",
+    "name_zh_tw": "迅捷作戰糧"
+  },
+  "trap_1052_acarm052": {
+    "name_jp": "有限加速マシン",
+    "name_en": "Miniature Accelerator",
+    "name_zh_tw": "有限加速器"
+  },
+  "trap_1053_acarm053": {
+    "name_jp": "レーザー発射機",
+    "name_en": "Laser Sighter",
+    "name_zh_tw": "鐳射發射器"
+  },
+  "trap_1054_acarm054": {
+    "name_jp": "警報器",
+    "name_en": "Buzzer",
+    "name_zh_tw": "蜂鳴器"
+  },
+  "trap_1055_acarm055": {
+    "name_jp": "迷彩ヘルメット",
+    "name_en": "Disguise Outfit",
+    "name_zh_tw": "偽裝服"
+  },
+  "trap_1056_acarm056": {
+    "name_jp": "不屈の射出装置",
+    "name_en": "Tough Launcher",
+    "name_zh_tw": "不屈彈射器"
+  },
+  "trap_1057_acarm057": {
+    "name_jp": "ラテラーノのクリップ",
+    "name_en": "Lateran Clip",
+    "name_zh_tw": "拉特蘭橋夾"
+  },
+  "trap_1058_acarm058": {
+    "name_jp": "催涙ガス",
+    "name_en": "Teargas Can",
+    "name_zh_tw": "催淚瓦斯"
+  },
+  "trap_1059_acarm059": {
+    "name_jp": "濃縮気付け薬",
+    "name_en": "Concentrated Smelling Salts",
+    "name_zh_tw": "濃縮嗅鹽"
+  },
+  "trap_1060_acarm060": {
+    "name_jp": "ライオットシールド",
+    "name_en": "Riot Shield",
+    "name_zh_tw": "防暴盾"
+  },
+  "trap_1061_acarm061": {
+    "name_jp": "シールドドローン",
+    "name_en": "Protection Drone",
+    "name_zh_tw": "護盾無人機"
+  },
+  "trap_1062_acarm062": {
+    "name_jp": "イェラグの不融氷",
+    "name_en": "Kjeragi Nevermeltice",
+    "name_zh_tw": "謝拉格不融冰"
+  },
+  "trap_1063_acarm063": {
+    "name_jp": "精密な狙撃スコープ",
+    "name_en": "Precision Scope",
+    "name_zh_tw": "精準狙擊鏡"
+  },
+  "trap_1064_acarm064": {
+    "name_jp": "強襲用グレネード",
+    "name_en": "Raid Grenade",
+    "name_zh_tw": "突襲手榴彈"
+  },
+  "trap_1065_acarm065": {
+    "name_jp": "眠れる眷属",
+    "name_en": "Dormant Heir",
+    "name_zh_tw": "休眠子裔"
+  },
+  "trap_1066_acarm066": {
+    "name_jp": "盟約のコイン",
+    "name_en": "Alliance Coin",
+    "name_zh_tw": "盟約之幣"
+  },
+  "trap_1067_acarm067": {
+    "name_jp": "デュアルロボットアーム",
+    "name_en": "Bimodule Robotic Arm",
+    "name_zh_tw": "雙模機械臂"
+  },
+  "trap_1068_acarm068": {
+    "name_jp": "M3コクーンアーマー",
+    "name_en": "M3 Cocoon Shell",
+    "name_zh_tw": "M3繭甲"
+  },
+  "trap_1069_acarm069": {
+    "name_jp": "擬態物質",
+    "name_en": "Mimic Matter",
+    "name_zh_tw": "擬態物質"
+  },
+  "trap_1070_acarm070": {
+    "name_jp": "人事部の書類",
+    "name_en": "HR File",
+    "name_zh_tw": "人事部文件"
+  },
+  "trap_1071_acarm071": {
+    "name_jp": "ドクターのホログラム",
+    "name_en": "Doctor Hologram",
+    "name_zh_tw": "博士投影"
+  },
+  "trap_1072_acarm072": {
+    "name_jp": "変異細胞",
+    "name_en": "Mutated Cells",
+    "name_zh_tw": "突變細胞"
+  },
+  "trap_1073_acarm073": {
+    "name_jp": "変形同位体",
+    "name_en": "Damazti Isomorph",
+    "name_zh_tw": "變形同構體"
+  },
+  "trap_1074_acarm074": {
+    "name_jp": "プロデュース戦略",
+    "name_en": "Commercial Packaging Plan",
+    "name_zh_tw": "商業包裝方案"
+  },
+  "trap_1075_acarm075": {
+    "name_jp": "呼出モジュール",
+    "name_en": "Dispatch Module",
+    "name_zh_tw": "傳呼模組"
+  },
+  "trap_1076_acarm076": {
+    "name_jp": "銃騎士の威光",
+    "name_en": "Gun-Knight's Might",
+    "name_zh_tw": "銃騎之威"
+  },
+  "trap_1077_acarm077": {
+    "name_jp": "天師の祭器",
+    "name_en": "Tianshi's Cauldron",
+    "name_zh_tw": "天師古鼎"
+  },
+  "trap_1078_acarm078": {
+    "name_jp": "海溝の実験体",
+    "name_en": "Trench Test Subject",
+    "name_zh_tw": "海溝實驗體"
+  },
+  "trap_1079_acarm079": {
+    "name_jp": "スチームハート",
+    "name_en": "Steam Heart",
+    "name_zh_tw": "蒸汽之心"
+  },
+  "trap_1102_acarm102": {
+    "name_jp": "イェラガンドの涙",
+    "name_en": "Kjeragandr's Tears",
+    "name_zh_tw": "耶拉岡德之淚"
+  },
+  "trap_1103_acarm103": {
+    "name_jp": "黄砂のコンパス",
+    "name_en": "Desert Compass",
+    "name_zh_tw": "黃沙羅盤"
+  },
+  "trap_1104_aclasert": {
+    "name_jp": "「ダブルリッズ」",
+    "name_en": "'Double Lids'",
+    "name_zh_tw": "“雙眼皮”"
+  },
+  "trap_1105_accrate": {
+    "name_jp": "バリケード",
+    "name_en": "Barricade",
+    "name_zh_tw": "阻隔工事"
+  },
+  "trap_1106_achplat": {
+    "name_jp": "射撃台",
+    "name_en": "Ranged Tile",
+    "name_zh_tw": "射擊台"
+  },
+  "trap_1108_acdisney": {
+    "name_jp": "「謎の客人」",
+    "name_en": "'Mystery Customer'",
+    "name_zh_tw": "“神秘顧客”"
+  },
+  "trap_1109_acarm109": {
+    "name_jp": "ビーコン",
+    "name_en": "Transmitter",
+    "name_zh_tw": "信標"
+  },
+  "trap_1110_accopy": {
+    "name_jp": "絵巻",
+    "name_en": "Dusk's Scroll",
+    "name_zh_tw": "畫卷"
+  },
+  "trap_1111_acchal": {
+    "name_jp": "教鞭",
+    "name_en": "Pointing Stick",
+    "name_zh_tw": "教鞭"
+  },
+  "trap_1112_acblzd": {
+    "name_jp": "盟約吹雪",
+    "name_en": "Alliance Chill Gust",
+    "name_zh_tw": "盟約寒風"
+  },
+  "trap_258_rgcssm": {
+    "name_jp": "いにしえの彫像器鬼",
+    "name_en": "Ancient Statuegeist",
+    "name_zh_tw": "古雕倀"
+  },
+  "trap_257_muulct": {
+    "name_jp": "夢幻の鏡",
+    "name_en": "Illusion Reflector",
+    "name_zh_tw": "迷幻反射鏡"
+  },
+  "trap_259_murjet": {
+    "name_jp": "手動推進機",
+    "name_en": "Manual Booster",
+    "name_zh_tw": "全手動推進器"
+  },
+  "trap_260_murbas": {
+    "name_jp": "基礎フロート",
+    "name_en": "Basic Floater",
+    "name_zh_tw": "基礎浮板"
+  },
+  "trap_261_murmag": {
+    "name_jp": "重力フロート",
+    "name_en": "Gravity Floater",
+    "name_zh_tw": "引力浮板"
+  },
+  "trap_262_murtre": {
+    "name_jp": "物資フロート",
+    "name_en": "Supplies Floater",
+    "name_zh_tw": "物資浮板"
+  },
+  "trap_278_dyfgdd": {
+    "name_jp": "隘路の衝突",
+    "name_en": "Face to Face",
+    "name_zh_tw": "狹路相逢"
+  },
+  "trap_264_xdplat": {
+    "name_jp": "イスビット高台",
+    "name_en": "Isbit High Ground",
+    "name_zh_tw": "伊斯貝塔高台"
+  },
+  "trap_265_xdice1": {
+    "name_jp": "巫女像",
+    "name_en": "Saintess Statue",
+    "name_zh_tw": "聖女像"
+  },
+  "trap_267_xdmac1": {
+    "name_jp": "雪崩発生装置",
+    "name_en": "Avalanche Trigger System",
+    "name_zh_tw": "雪崩觸發裝置"
+  },
+  "trap_268_xdmac2": {
+    "name_jp": "雪面固定装置",
+    "name_en": "Snow Retention System",
+    "name_zh_tw": "積雪固定裝置"
+  },
+  "trap_269_xdmac3": {
+    "name_jp": "落雪防護装置",
+    "name_en": "Avalanche Control System",
+    "name_zh_tw": "落雪防護裝置"
+  },
+  "trap_279_pirene": {
+    "name_jp": "憩いの池",
+    "name_en": "Fountain",
+    "name_zh_tw": "噴泉水池"
+  },
+  "trap_787_supctl": {
+    "name_jp": "寒冷弾発射装置",
+    "name_en": "Ice Blast Machine",
+    "name_zh_tw": "冷爆機"
+  },
+  "trap_788_supctla": {
+    "name_jp": "冷気拡散モジュール",
+    "name_en": "Thermal Conduction Module",
+    "name_zh_tw": "低溫傳導模組"
+  },
+  "trap_789_supctlb": {
+    "name_jp": "氷結波動モジュール",
+    "name_en": "Ice Wave Module",
+    "name_zh_tw": "冰浪脈衝模組"
+  },
+  "trap_328_newlamp": {
+    "name_jp": "都市のネオン",
+    "name_en": "City Neon",
+    "name_zh_tw": "城市霓虹"
+  },
+  "trap_286_tjgsd": {
+    "name_jp": "書刀",
+    "name_en": "Writing Knife",
+    "name_zh_tw": "書刀"
+  },
+  "trap_288_sunmao": {
+    "name_jp": "鎮歳柱",
+    "name_en": "Suppression Pillar",
+    "name_zh_tw": "鎮歲柱"
+  },
+  "trap_1113_acarm113": {
+    "name_jp": "倹約家の人形",
+    "name_en": "Budget-Savvy Doll",
+    "name_zh_tw": "精打細算玩偶"
+  },
+  "trap_1114_acarm114": {
+    "name_jp": "簡易通信機",
+    "name_en": "Simple Communicator",
+    "name_zh_tw": "簡易通訊機"
+  },
+  "trap_1115_acarm115": {
+    "name_jp": "緊急派遣券",
+    "name_en": "Emergency Dispatch Ticket",
+    "name_zh_tw": "緊急調度券"
+  },
+  "trap_1116_acarm116": {
+    "name_jp": "守銭奴の人形",
+    "name_en": "Money-Grubbing Doll",
+    "name_zh_tw": "見錢眼開玩偶"
+  },
+  "trap_1117_acarm117": {
+    "name_jp": "ペガサスの槍",
+    "name_en": "Pegasian Lance",
+    "name_zh_tw": "天馬之槍"
+  },
+  "trap_1118_acarm118": {
+    "name_jp": "ペガサスの兜",
+    "name_en": "Pegasian Helm",
+    "name_zh_tw": "天馬之盔"
+  },
+  "trap_1119_acarm119": {
+    "name_jp": "カジミエーシュの競技旗",
+    "name_en": "Kazimierz Knightclub Pennant",
+    "name_zh_tw": "卡西米爾競技旗"
+  },
+  "trap_1120_acarm120": {
+    "name_jp": "騎士の戒律",
+    "name_en": "Chivalric Commandments",
+    "name_zh_tw": "騎士戒律"
+  },
+  "trap_1121_acarm121": {
+    "name_jp": "シラクーザの正装",
+    "name_en": "Siracusan Formalwear",
+    "name_zh_tw": "敘拉古正裝"
+  },
+  "trap_1122_acarm122": {
+    "name_jp": "ファミリーのバッジ",
+    "name_en": "Famiglia Insignia",
+    "name_zh_tw": "家族徽章"
+  },
+  "trap_1123_acarm123": {
+    "name_jp": "騎士の貯金箱",
+    "name_en": "Knightly Savings",
+    "name_zh_tw": "騎士儲蓄罐"
+  },
+  "trap_1124_acarm124": {
+    "name_jp": "ネームタグ",
+    "name_en": "Identification Device",
+    "name_zh_tw": "隨身身分牌"
+  },
+  "trap_1125_acarm125": {
+    "name_jp": "源石溶剤",
+    "name_en": "Originium Solvent",
+    "name_zh_tw": "源石溶劑"
+  },
+  "trap_329_rift": {
+    "name_jp": "漏洩マーカー",
+    "name_en": "Leak Marker",
+    "name_zh_tw": null
+  },
+  "char_1001_amiya2": {
+    "name_jp": "アーミヤ",
+    "name_en": "Amiya",
+    "name_zh_tw": "阿米婭"
+  },
+  "char_1037_amiya3": {
+    "name_jp": "アーミヤ",
+    "name_en": "Amiya",
+    "name_zh_tw": "阿米婭"
+  }
+}

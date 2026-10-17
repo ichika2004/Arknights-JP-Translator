@@ -1,0 +1,10 @@
+# Python 3.11; validated source-level only, install/test on Windows.
+PySide6>=6.7,<7
+mss>=9,<11
+numpy>=1.26,<3
+opencv-python>=4.8,<5
+paddlepaddle>=3.0,<4
+paddleocr>=3.0,<4
+rapidfuzz>=3.0,<4
+# Database regeneration only (scripts/add_cn_fallback.py):
+opencc-python-reimplemented>=0.1.7,<1

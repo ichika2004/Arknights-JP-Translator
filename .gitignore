@@ -1,0 +1,37 @@
+# Python / environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+# Generated and experimental data
+output/
+dataset/
+reference_images/
+archive/
+models/
+.cache/
+*.log
+*.sqlite3
+ocr_result.txt
+*.before_cn_fallback.json
+data/raw/
+data/generated/*report.json
+data/generated/missing_tw_skills.json
+data/generated/portrait_index.json
+data/generated/prts_image_manifest.json
+# Local game capture images
+001302.png
+001539.png
+battle.png
+operator.png
+test_jp.png
+# Build artifacts
+build/
+dist/
+*.spec
+# IDE
+.vscode/
+.idea/
