@@ -17,6 +17,20 @@ import numpy as np
 from .phase10_core import load_names, lookup, scene_score, normalize
 from difflib import SequenceMatcher
 
+def get_bundled_model_dir(model_name: str):
+    """打包版本使用 EXE 旁的模型；開發版本維持原設定。"""
+    if not getattr(sys, "frozen", False):
+        return None
+
+    exe_dir = Path(sys.executable).resolve().parent
+    model_dir = exe_dir / "models" / model_name
+
+    if not model_dir.is_dir():
+        raise FileNotFoundError(
+            f"找不到 OCR 模型：{model_dir}"
+        )
+
+    return str(model_dir)
 
 def emit(data):
     sys.stdout.write('OCR_JSON=' + json.dumps(data, ensure_ascii=True) + '\n')
@@ -188,8 +202,20 @@ def main():
         names=load_names(root/'data'/'generated'/'character_names.json')
         skill_db=load_skill_names(root/'data'/'generated'/'skill_database.json')
         t=time.perf_counter()
-        detector=TextDetection(model_name='PP-OCRv6_medium_det',device='cpu',enable_mkldnn=False,cpu_threads=2)
-        recognizer=TextRecognition(model_name='PP-OCRv6_medium_rec',device='cpu',enable_mkldnn=False,cpu_threads=2)
+        detector = TextDetection(
+                model_name='PP-OCRv6_medium_det',
+                model_dir=get_bundled_model_dir('PP-OCRv6_medium_det'),
+                device='cpu',
+                enable_mkldnn=False,
+                cpu_threads=2
+            )
+        recognizer = TextRecognition(
+                model_name='PP-OCRv6_medium_rec',
+                model_dir=get_bundled_model_dir('PP-OCRv6_medium_rec'),
+                device='cpu',
+                enable_mkldnn=False,
+                cpu_threads=2
+            )
         emit({'ready':True,'init_seconds':round(time.perf_counter()-t,2),'indexed_names':len(names)})
     except Exception as exc:
         emit({'error':'init: '+repr(exc)})

@@ -75,7 +75,11 @@ class AutoDetectPanel(SkillPanel):
             self.proc.kill()
             self.proc.waitForFinished(1500)
         self.status.setText('初始化文字偵測與辨識模型…')
-        self.proc.start(sys.executable,['-u','-m','arknights_translator.auto_detection_worker'])
+        if getattr(sys, 'frozen', False):
+            # sys.executable points to our bundled .exe, not python.exe.
+            self.proc.start(sys.executable, ['--ocr-worker'])
+        else:
+            self.proc.start(sys.executable, ['-u', '-m', 'arknights_translator.auto_detection_worker'])
 
     def toggle(self,enabled):
         if enabled and self.ready:

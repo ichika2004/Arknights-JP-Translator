@@ -1,39 +1,9 @@
-<<<<<<< HEAD
-# Python / environments
-=======
+
 # Python
->>>>>>> origin/main
 __pycache__/
 *.py[cod]
 .venv/
 venv/
-<<<<<<< HEAD
-.env
-.env.*
-!.env.example
-# Generated and experimental data
-output/
-dataset/
-reference_images/
-archive/
-models/
-.cache/
-*.log
-*.sqlite3
-ocr_result.txt
-*.before_cn_fallback.json
-data/raw/
-data/generated/*report.json
-data/generated/missing_tw_skills.json
-data/generated/portrait_index.json
-data/generated/prts_image_manifest.json
-# Local game capture images
-001302.png
-001539.png
-battle.png
-operator.png
-test_jp.png
-=======
 
 # Environment and secrets
 .env
@@ -43,21 +13,29 @@ config.local.json
 
 # OCR models and cache
 models/
+.paddlex/
 .cache/
 *.sqlite3
+data/raw/
 
->>>>>>> origin/main
 # Build artifacts
 build/
 dist/
 *.spec
-<<<<<<< HEAD
-# IDE
-.vscode/
-.idea/
-=======
+
+# Release files
+*.zip
 
 # IDE
 .vscode/
 .idea/
->>>>>>> origin/main
+
+# Reference assets
+reference_images/*
+!reference_images/.gitkeep
+
+# Screenshots and output
+samples/
+output/
+ocr_result.txt
+worker_debug.txt
