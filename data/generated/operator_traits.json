@@ -1,0 +1,3941 @@
+{
+  "char_285_medic2": {
+    "trait_tw": "",
+    "talents_tw": [
+      "部署後立即恢復全場友方單位200點生命"
+    ]
+  },
+  "char_286_cast3": {
+    "trait_tw": "",
+    "talents_tw": [
+      "部署後10秒內所有友方【近戰位】單位的攻擊力和防禦力+10%"
+    ]
+  },
+  "char_376_therex": {
+    "trait_tw": "",
+    "talents_tw": [
+      "部署經過3秒後，對周圍8格內的所有敵人造成相當於攻擊力300%的物理傷害，並令其獲得8秒10%的<$ba.fragile>脆弱</>效果，之後自身強制退出戰場"
+    ]
+  },
+  "char_4000_jnight": {
+    "trait_tw": "",
+    "talents_tw": [
+      "部署後10秒內攻擊範圍內所有友方遠程位單位更不容易被攻擊且敵方空中單位獲得10%的<$ba.fragile>脆弱</>效果"
+    ]
+  },
+  "char_4077_palico": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊後會延時引爆，隨機觸發下列效果之一： 造成200%的物理傷害；目標<$ba.sleep>沉睡</>1秒；目標<$ba.stun>暈眩</>0.1秒；什麼都沒有發生！觸發3次傷害效果後天賦失效"
+    ]
+  },
+  "char_4091_ulika": {
+    "trait_tw": "不攻擊，持續恢復範圍內所有友軍<@ba.kw>生命</>（每秒恢復相當於自身攻擊力10%的生命），自身不受<$ba.inspire>鼓舞</>影響，且不受<@ba.kw>部署數量</>限制，但再部署時間極長",
+    "talents_tw": [
+      "不容易受到攻擊，部署一段時間後，使攻擊範圍內其它單位<$ba.stun>暈眩</>5秒"
+    ]
+  },
+  "char_4093_frston": {
+    "trait_tw": "",
+    "talents_tw": [
+      "部署後10秒內周圍八格的所有友方單位獲得50點<$ba.dmgresistance>傷害減免</>"
+    ]
+  },
+  "char_4136_phonor": {
+    "trait_tw": "",
+    "talents_tw": [
+      "部署後40秒內攻擊附帶45點凋亡損傷，並使攻擊範圍內的所有敵人受到3%的<$ba.magicfragile>【法術脆弱】</>和<$ba.elementfragile>【元素脆弱】</>"
+    ]
+  },
+  "char_4188_confes": {
+    "trait_tw": "",
+    "talents_tw": [
+      "首次阻擋敵人時立即獲得2點部署費用，並使該敵人<$ba.sleep>沉睡</>5秒"
+    ]
+  },
+  "char_502_nblade": {
+    "trait_tw": "",
+    "talents_tw": [
+      "再部署時間-30秒"
+    ]
+  },
+  "char_500_noirc": {
+    "trait_tw": "",
+    "talents_tw": [
+      "生命上限和防禦力各+12%"
+    ]
+  },
+  "char_503_rang": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊飛行目標時，攻擊力+50%"
+    ]
+  },
+  "char_501_durin": {
+    "trait_tw": "",
+    "talents_tw": [
+      "獲得50%的法術閃避"
+    ]
+  },
+  "char_009_12fce": {
+    "trait_tw": "",
+    "talents_tw": [
+      "獲得50%的物理閃避"
+    ]
+  },
+  "char_123_fang": {
+    "trait_tw": "",
+    "talents_tw": [
+      "自身部署費用-1"
+    ]
+  },
+  "char_240_wyvern": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊力+4%"
+    ]
+  },
+  "char_192_falco": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊力+4%"
+    ]
+  },
+  "char_208_melan": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊力+4%"
+    ]
+  },
+  "char_281_popka": {
+    "trait_tw": "",
+    "talents_tw": [
+      "生命上限+3%，攻擊力+3%"
+    ]
+  },
+  "char_209_ardign": {
+    "trait_tw": "",
+    "talents_tw": [
+      "生命上限+6%"
+    ]
+  },
+  "char_122_beagle": {
+    "trait_tw": "",
+    "talents_tw": [
+      "防禦力+5%"
+    ]
+  },
+  "char_284_spot": {
+    "trait_tw": "",
+    "talents_tw": [
+      "治療友方單位後為其提供持續3秒的10%物理閃避"
+    ]
+  },
+  "char_124_kroos": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊時，10%機率當次攻擊的攻擊力提升至150%"
+    ]
+  },
+  "char_211_adnach": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊速度+4，優先攻擊使用遠程武器的敵人"
+    ]
+  },
+  "char_121_lava": {
+    "trait_tw": "",
+    "talents_tw": [
+      "部署後立即獲得15點技力"
+    ]
+  },
+  "char_120_hibisc": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊力+4%"
+    ]
+  },
+  "char_212_ansel": {
+    "trait_tw": "",
+    "talents_tw": [
+      "有7%的機率額外治療一名友方單位"
+    ]
+  },
+  "char_210_stward": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊力+3%，優先攻擊防禦力最高的敵人"
+    ]
+  },
+  "char_278_orchid": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊速度+5"
+    ]
+  },
+  "char_141_nights": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊使目標法術抗性-10%，持續1秒"
+    ]
+  },
+  "char_604_ccast": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊速度+5"
+    ]
+  },
+  "char_109_fmout": {
+    "trait_tw": "",
+    "talents_tw": [
+      "部署後隨機永久獲得下列一項增益：攻擊力+7%；攻擊速度+7；生命上限+12%"
+    ]
+  },
+  "char_253_greyy": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊時對攻擊目標造成0.4秒的<$ba.sluggish>停頓</>"
+    ]
+  },
+  "char_4051_akkord": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊範圍內至少有1名其他友方幹員時，攻擊力+8%"
+    ]
+  },
+  "char_328_cammou": {
+    "trait_tw": "操作<@ba.kw>浮游單元</>造成<@ba.kw>法術傷害</>\n單元攻擊同一敵人傷害提升（最高造成幹員110%攻擊力的傷害）",
+    "talents_tw": [
+      "自身與浮游單元的攻擊速度+6"
+    ]
+  },
+  "char_469_indigo": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊時有12%的機率使目標<$ba.root>束縛</>4秒，不以束縛狀態的敵人為攻擊目標"
+    ]
+  },
+  "char_4004_pudd": {
+    "trait_tw": "攻擊造成<@ba.kw>法術傷害</>，且會在<@ba.kw>{attack@max_target}</>個敵人間跳躍，每次跳躍傷害降低15%並造成短暫<$ba.sluggish>停頓</>（精英2後更新）",
+    "talents_tw": [
+      "攻擊力+8%"
+    ]
+  },
+  "char_235_jesica": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊速度+6"
+    ]
+  },
+  "char_126_shotst": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊空中目標時，攻擊力提升至120%"
+    ]
+  },
+  "char_190_clour": {
+    "trait_tw": "",
+    "talents_tw": [
+      "自身的技力自然回復速度+0.15/秒"
+    ]
+  },
+  "char_133_mm": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊力+4%，攻擊速度+4"
+    ]
+  },
+  "char_603_csnipe": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊力+4%"
+    ]
+  },
+  "char_118_yuki": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊間隔略微增大，但攻擊力+20%"
+    ]
+  },
+  "char_440_pinecn": {
+    "trait_tw": "",
+    "talents_tw": [
+      "部署後60秒內技力自然回復速度+0.2/秒"
+    ]
+  },
+  "char_302_glaze": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊原本攻擊範圍以外的目標時，有25%的機率使其<$ba.stun>暈眩</>2秒"
+    ]
+  },
+  "char_366_acdrop": {
+    "trait_tw": "",
+    "talents_tw": [
+      "每次攻擊至少造成20%攻擊力的傷害（當敵人在正前方兩格時提升至30%）"
+    ]
+  },
+  "char_4062_totter": {
+    "trait_tw": "",
+    "talents_tw": [
+      "可以攻擊<$ba.invisible>隱匿</>敵人，並且攻擊範圍內存在<$ba.invisible>隱匿</>敵人時，攻擊力+4%"
+    ]
+  },
+  "char_4100_caper": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊時，25%機率當次攻擊的攻擊力提升至130%"
+    ]
+  },
+  "char_198_blackd": {
+    "trait_tw": "",
+    "talents_tw": [
+      "阻擋兩個及以上的敵人時，防禦力+8%"
+    ]
+  },
+  "char_149_scave": {
+    "trait_tw": "",
+    "talents_tw": [
+      "當周圍四格內沒有其他友方單位時，攻擊力和防禦力各+5%"
+    ]
+  },
+  "char_600_cpione": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊力+4%"
+    ]
+  },
+  "char_290_vigna": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊時，10%機率當次攻擊的攻擊力+50%。技能中這個機率提高到30%"
+    ]
+  },
+  "char_151_myrtle": {
+    "trait_tw": "",
+    "talents_tw": [
+      "在場時，所有【先鋒】幹員每秒回復25點生命"
+    ]
+  },
+  "char_452_bstalk": {
+    "trait_tw": "",
+    "talents_tw": [
+      "可以在戰術點召喚磐蟹協助作戰，其被擊敗後會在20秒後自動刷新"
+    ]
+  },
+  "char_4208_wintim": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊速度+5，自身受到傷害後失去該效果"
+    ]
+  },
+  "char_130_doberm": {
+    "trait_tw": "",
+    "talents_tw": [
+      "在場時，所有三星幹員的攻擊力+5%"
+    ]
+  },
+  "char_289_gyuki": {
+    "trait_tw": "",
+    "talents_tw": [
+      "防禦力-20%，但最大生命值+20%"
+    ]
+  },
+  "char_159_peacok": {
+    "trait_tw": "",
+    "talents_tw": [
+      "部署費用-2，再部署時間-8秒，但部署後<$ba.stun>暈眩</>10秒"
+    ]
+  },
+  "char_601_cguard": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊力+4%"
+    ]
+  },
+  "char_193_frostl": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊範圍擴大，但攻擊間隔略微增大"
+    ]
+  },
+  "char_127_estell": {
+    "trait_tw": "",
+    "talents_tw": [
+      "周圍8格內有敵人倒下時，恢復自身最大生命值7%的生命"
+    ]
+  },
+  "char_185_frncat": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊時有10%的機率連續攻擊兩次"
+    ]
+  },
+  "char_301_cutter": {
+    "trait_tw": "",
+    "talents_tw": [
+      "造成傷害時有12%的機率額外回復1點技力"
+    ]
+  },
+  "char_337_utage": {
+    "trait_tw": "不成為其他角色的治療目標，每次攻擊到敵人後回復自身<@ba.kw>{value}</>生命（精英1後更新）",
+    "talents_tw": [
+      "在場時，自身獲得最高+50攻擊速度的<$ba.berserk>堅忍</>（損失50%生命值時達到最大加成）"
+    ]
+  },
+  "char_271_spikes": {
+    "trait_tw": "",
+    "talents_tw": [
+      "優先攻擊【無人機】單位"
+    ]
+  },
+  "char_4067_lolxh": {
+    "trait_tw": "",
+    "talents_tw": [
+      "造成致命傷害時使敵人保留1點生命並使其<$ba.dying>重傷</>（擊殺者技力+1）；羅小黑不攻擊<$ba.dying>重傷</>單位"
+    ]
+  },
+  "char_4063_quartz": {
+    "trait_tw": "",
+    "talents_tw": [
+      "生命值+4%，攻擊力+4%"
+    ]
+  },
+  "char_491_humus": {
+    "trait_tw": "無法被友方角色治療，攻擊造成<@ba.kw>群體傷害</>，每攻擊到一個敵人回復自身<@ba.kw>{value}</>生命，最大生效數等於阻擋數",
+    "talents_tw": [
+      "超出自身生命上限的生命值可轉化為<$ba.barrier>屏障</>；最多不超過自身最大生命值的60%"
+    ]
+  },
+  "char_445_wscoot": {
+    "trait_tw": "通常不攻擊且阻擋數為0，技能未開啟時<@ba.kw>{max_stack_cnt}</>秒內攻擊力逐漸提升至最高<@ba.kw>+{atk:0%}</>且技能結束時重置攻擊力",
+    "talents_tw": [
+      "特性攻擊力提升至最高時，每次攻擊額外追加一次25%攻擊力的攻擊"
+    ]
+  },
+  "char_237_gravel": {
+    "trait_tw": "",
+    "talents_tw": [
+      "自身部署費用-1"
+    ]
+  },
+  "char_607_cspec": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊力+4%"
+    ]
+  },
+  "char_272_strong": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊【感染生物】時，攻擊力提升至125%"
+    ]
+  },
+  "char_236_rope": {
+    "trait_tw": "",
+    "talents_tw": [
+      "獲得15%的物理閃避"
+    ]
+  },
+  "char_117_myrrh": {
+    "trait_tw": "",
+    "talents_tw": [
+      "部署後立刻恢復全體友方單位的生命值，恢復量為末藥攻擊力的100%"
+    ]
+  },
+  "char_187_ccheal": {
+    "trait_tw": "",
+    "talents_tw": [
+      "部署後全體友方【醫療】職業幹員攻擊力+5%，防禦力+50，持續15秒"
+    ]
+  },
+  "char_298_susuro": {
+    "trait_tw": "",
+    "talents_tw": [
+      "編入隊伍時，所有初始費用不超過10的幹員受到的治療效果提升10%"
+    ]
+  },
+  "char_605_cmedic": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊力+4%"
+    ]
+  },
+  "char_181_flower": {
+    "trait_tw": "",
+    "talents_tw": [
+      "在戰場時全體友方單位每秒恢復相當於調香師攻擊力3%的生命"
+    ]
+  },
+  "char_385_finlpp": {
+    "trait_tw": "擁有較大治療範圍，但在治療較遠目標時治療量變為<@ba.kw>{heal_scale:0%}</>",
+    "talents_tw": [
+      "在治療目標後使其獲得2秒<$ba.buffres>抵抗</>"
+    ]
+  },
+  "char_4041_chnut": {
+    "trait_tw": "恢復友方單位生命，並回復相當於攻擊力<@ba.kw>{ep_heal_ratio:0%}</>的<$ba.dt.element>元素損傷</>（可以回復未受傷友方單位的<$ba.dt.element>元素損傷</>）",
+    "talents_tw": [
+      "治療地面單位，<$ba.dt.element>元素損傷</>回復量提高10%"
+    ]
+  },
+  "char_199_yak": {
+    "trait_tw": "",
+    "talents_tw": [
+      "法術抗性+7"
+    ]
+  },
+  "char_150_snakek": {
+    "trait_tw": "",
+    "talents_tw": [
+      "防禦力+6%"
+    ]
+  },
+  "char_381_bubble": {
+    "trait_tw": "",
+    "talents_tw": [
+      "敵人攻擊泡泡後，攻擊力下降5%，持續5秒"
+    ]
+  },
+  "char_602_cdfend": {
+    "trait_tw": "",
+    "talents_tw": [
+      "防禦力+5%"
+    ]
+  },
+  "char_4130_luton": {
+    "trait_tw": "",
+    "talents_tw": [
+      "自身阻擋的敵方單位被擊殺時，回復自身12%的生命"
+    ]
+  },
+  "char_196_sunbr": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊時，10%機率當次攻擊的攻擊力提升至150%，並<$ba.stun>暈眩</>敵人0.5秒"
+    ]
+  },
+  "char_260_durnar": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊力+4%，防禦力+4%"
+    ]
+  },
+  "char_110_deepcl": {
+    "trait_tw": "",
+    "talents_tw": [
+      "可以使用兩個觸手召喚物來協助作戰"
+    ]
+  },
+  "char_183_skgoat": {
+    "trait_tw": "",
+    "talents_tw": [
+      "略微延長特性<$ba.sluggish>停頓</>的持續時間"
+    ]
+  },
+  "char_258_podego": {
+    "trait_tw": "",
+    "talents_tw": [
+      "在場時，所有【輔助】幹員攻擊力+5%"
+    ]
+  },
+  "char_606_csuppo": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊速度+5"
+    ]
+  },
+  "char_484_robrta": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攜帶2個造型儀（最多部署3個），使一名近戰位上的單位防禦力+10%並獲得1層<$ba.shield>護盾</>（持續15秒，防禦加成不疊加）"
+    ]
+  },
+  "char_616_pithst": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊同時附帶18%攻擊力的<$ba.dt.neural2>神經損傷</>（優先）、<$ba.dt.burning2>灼燃損傷</>、<$ba.dt.apoptosis2>凋亡損傷</>；優先攻擊未處於損傷爆發的目標",
+      "在【衛戍協議】中，隸屬於盟約【調和】"
+    ]
+  },
+  "char_355_ethan": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊時有25%的機率使目標<$ba.root>束縛</>2秒"
+    ]
+  },
+  "char_277_sqrrel": {
+    "trait_tw": "",
+    "talents_tw": [
+      "法術抗性+7"
+    ]
+  },
+  "char_4107_vrdant": {
+    "trait_tw": "受到致命傷時不撤退，切換成<替身>作戰（替身阻擋數為0），持續20秒後自身再次替換<替身>",
+    "talents_tw": [
+      "<替身>每秒回復2%生命值"
+    ]
+  },
+  "char_4165_ctrail": {
+    "trait_tw": "",
+    "talents_tw": [
+      "在地面時防禦力+5%，<$ba.liftoff>起飛</>後攻擊敵人時，攻擊力提升至105%"
+    ]
+  },
+  "char_128_plosis": {
+    "trait_tw": "",
+    "talents_tw": [
+      "在場時所有友方單位的技力自然回復速度+0.15/秒（同類效果取最高）"
+    ]
+  },
+  "char_275_breeze": {
+    "trait_tw": "",
+    "talents_tw": [
+      "技能開啟時，所有【醫療】幹員獲得<$ba.buffres>抵抗</>"
+    ]
+  },
+  "char_4163_rosesa": {
+    "trait_tw": "",
+    "talents_tw": [
+      "自身攻擊力-5%，但攻擊範圍內的友方幹員受到的治療效果提升5%"
+    ]
+  },
+  "char_115_headbr": {
+    "trait_tw": "",
+    "talents_tw": [
+      "自身部署費用-1"
+    ]
+  },
+  "char_102_texas": {
+    "trait_tw": "",
+    "talents_tw": [
+      "編入隊伍後，額外獲得1點初始部署費用"
+    ]
+  },
+  "char_349_chiave": {
+    "trait_tw": "",
+    "talents_tw": [
+      "在場時，所有【支援機械】幹員的再部署時間-60%；場上每有一名【支援機械】幹員，自身的攻擊力和防禦力+7%"
+    ]
+  },
+  "char_488_buildr": {
+    "trait_tw": "",
+    "talents_tw": [
+      "在戰場停留30秒後，生命上限+8%"
+    ]
+  },
+  "char_513_apionr": {
+    "trait_tw": "",
+    "talents_tw": [
+      "部署後第2次開啟技能之前，技力自然回復速度+0.6/秒"
+    ]
+  },
+  "char_4023_rfalcn": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊時有15%的機率使攻擊力提升至140%",
+      "在【沙洲遺聞】中，技能開啟時，將自身攜帶的資源送至背包"
+    ]
+  },
+  "char_4199_makiri": {
+    "trait_tw": "",
+    "talents_tw": [
+      "在戰場停留30秒後，僅一次使場上與待部署區的所有重裝和輔助幹員攻擊力+5%"
+    ]
+  },
+  "char_261_sddrag": {
+    "trait_tw": "",
+    "talents_tw": [
+      "法術抗性+10"
+    ]
+  },
+  "char_496_wildmn": {
+    "trait_tw": "",
+    "talents_tw": [
+      "首次部署後，所有未部署的【近衛】幹員的部署費用-1"
+    ]
+  },
+  "char_1036_fang2": {
+    "trait_tw": "",
+    "talents_tw": [
+      "自身初次部署費用-2；撤退後使下一名幹員部署費用-1"
+    ]
+  },
+  "char_401_elysm": {
+    "trait_tw": "",
+    "talents_tw": [
+      "在場時，所有【狙擊】幹員的部署費用-1，且技能開啟時所有【狙擊】幹員的攻擊速度+10"
+    ]
+  },
+  "char_4119_wanqin": {
+    "trait_tw": "",
+    "talents_tw": [
+      "周圍8格的幹員最大生命值+3%，若部署方向與萬頃相同，改為+5%"
+    ]
+  },
+  "char_476_blkngt": {
+    "trait_tw": "",
+    "talents_tw": [
+      "可以在戰術點召喚眠獸協助作戰，其被擊敗後會在20秒後自動刷新"
+    ]
+  },
+  "char_4147_mitm": {
+    "trait_tw": "",
+    "talents_tw": [
+      "可以在戰術點召喚櫻桃三號協助作戰，其被擊敗後會在20秒後自動重置，並在周圍四格生成殘骸"
+    ]
+  },
+  "char_497_ctable": {
+    "trait_tw": "",
+    "talents_tw": [
+      "未阻擋敵人時攻擊速度+6，阻擋敵人時攻擊力+6%"
+    ]
+  },
+  "char_4017_puzzle": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊命中生命值為滿的敵人時攻擊力提升至110%，並額外回復1點技力"
+    ]
+  },
+  "char_4144_chilc": {
+    "trait_tw": "",
+    "talents_tw": [
+      "部署後，使自身及攻擊範圍內的友方單位不會受到來自自然環境的傷害和<$ba.dt.element>元素損傷</>，持續35秒"
+    ]
+  },
+  "char_4052_surfer": {
+    "trait_tw": "",
+    "talents_tw": [
+      "部署時，若周圍4格沒有其他幹員，獲得1點部署費用"
+    ]
+  },
+  "char_308_swire": {
+    "trait_tw": "",
+    "talents_tw": [
+      "在場時周圍8格內的近戰友方單位攻擊力+3%"
+    ]
+  },
+  "char_265_sophia": {
+    "trait_tw": "",
+    "talents_tw": [
+      "在場時阻擋數大於等於3的友方近戰單位攻速+2，防禦+4%"
+    ]
+  },
+  "char_4106_bryota": {
+    "trait_tw": "",
+    "talents_tw": [
+      "未阻擋敵人時使周圍8格內近戰幹員防禦力+4%，阻擋敵人時自身防禦力+4%"
+    ]
+  },
+  "char_4125_rdoc": {
+    "trait_tw": "",
+    "talents_tw": [
+      "自身生命上限+3%，攻擊無視目標30的防禦力",
+      "治療友方單位生命時，超過目標生命上限的治療量可轉化為不斷快速衰減的<$ba.barrier>屏障</>"
+    ]
+  },
+  "char_106_franka": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊時有10%的機率無視目標的防禦"
+    ]
+  },
+  "char_131_flameb": {
+    "trait_tw": "",
+    "talents_tw": [
+      "每擊殺一名敵人後自身的生命上限提高20，最多可以疊加30次"
+    ]
+  },
+  "char_154_morgan": {
+    "trait_tw": "",
+    "talents_tw": [
+      "在場時，自身獲得最高+40%攻擊力的<$ba.berserk>堅忍</>（損失70%生命值時達最大加成）",
+      "在【驚霆無聲】中，部署不消耗部署位"
+    ]
+  },
+  "char_508_aguard": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊力+10%，獲得20%的物理閃避"
+    ]
+  },
+  "char_4142_laios": {
+    "trait_tw": "",
+    "talents_tw": [
+      "擊倒敵人後，萊歐斯攻擊所有同名敵人時無視其20%防禦力"
+    ]
+  },
+  "char_155_tiger": {
+    "trait_tw": "",
+    "talents_tw": [
+      "有15%的機率閃避敵人的近戰物理攻擊，成功閃避後自身下一次攻擊攻擊力+80%"
+    ]
+  },
+  "char_415_flint": {
+    "trait_tw": "",
+    "talents_tw": [
+      "對未被自身阻擋的敵人造成的傷害提升20%"
+    ]
+  },
+  "char_157_dagda": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊時有30%機率使當次攻擊力提升至130%，自身在場時，【格拉斯哥幫】幹員周圍4格內每有一個敵人倒下，攻擊力提升額外提升5%（最高提升至190%）",
+      "在【淬火塵霾】中，生命值+20%，每次攻擊治療自身相當於造成傷害20%的生命值"
+    ]
+  },
+  "char_140_whitew": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊使目標的特殊能力失效，持續1秒"
+    ]
+  },
+  "char_294_ayer": {
+    "trait_tw": "",
+    "talents_tw": [
+      "自身與周圍8格友方幹員攻速+4"
+    ]
+  },
+  "char_194_leto": {
+    "trait_tw": "",
+    "talents_tw": [
+      "開啟技能時，【烏薩斯學生自治團】幹員攻擊速度+10，持續至技能結束"
+    ]
+  },
+  "char_4083_chimes": {
+    "trait_tw": "",
+    "talents_tw": [
+      "生命上限+5%，生命值高於50%時獲得+15%攻擊力的<$ba.strong>精力充沛</>"
+    ]
+  },
+  "char_252_bibeak": {
+    "trait_tw": "",
+    "talents_tw": [
+      "每擊殺一名敵人後獲得+4攻擊速度（最多疊加5次）"
+    ]
+  },
+  "char_459_tachak": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊距離+1，再部署時間+20秒"
+    ]
+  },
+  "char_143_ghost": {
+    "trait_tw": "",
+    "talents_tw": [
+      "生命上限+10%"
+    ]
+  },
+  "char_356_broca": {
+    "trait_tw": "",
+    "talents_tw": [
+      "阻擋兩個以上的敵人時，攻擊力和防禦力+6%"
+    ]
+  },
+  "char_4126_fuze": {
+    "trait_tw": "",
+    "talents_tw": [
+      "獲得17%的遠程物理抵擋"
+    ]
+  },
+  "char_4166_varkis": {
+    "trait_tw": "",
+    "talents_tw": [
+      "在場時，所有【米諾斯】幹員攻擊生命比例不高於自身的敵人時攻擊力提升至107%"
+    ]
+  },
+  "char_274_astesi": {
+    "trait_tw": "",
+    "talents_tw": [
+      "每在場上停留20秒，攻擊速度+3，最多可以疊加5次"
+    ]
+  },
+  "char_333_sidero": {
+    "trait_tw": "",
+    "talents_tw": [
+      "擊殺7個敵人後獲得攻擊速度+15和<$ba.buffres>抵抗</>"
+    ]
+  },
+  "char_475_akafyu": {
+    "trait_tw": "不成為其他角色的治療目標，每次攻擊到敵人後回復自身<@ba.kw>{value}</>生命（精英1後更新）",
+    "talents_tw": [
+      "在場時，自身獲得最高+50攻擊速度的<$ba.berserk>堅忍</>（損失50%生命值時達到最大加成）"
+    ]
+  },
+  "char_1030_noirc2": {
+    "trait_tw": "不成為其他角色的治療目標，每次攻擊到敵人後回復自身<@ba.kw>{value}</>生命（精英1後更新）",
+    "talents_tw": [
+      "在場時，自身獲得最高+30攻擊速度和最高+30%防禦力的<$ba.berserk>堅忍</>（損失50%生命值時達到最大加成）",
+      "非技能期間，連續攻擊5次後自身獲得攻擊力+3%（最多3層）"
+    ]
+  },
+  "char_421_crow": {
+    "trait_tw": "無法被友方角色治療，攻擊造成<@ba.kw>群體傷害</>，每攻擊到一個敵人回復自身<@ba.kw>{value}</>生命，最大生效數等於阻擋數",
+    "talents_tw": [
+      "每擊殺一個敵人+2攻速，最多疊加8次"
+    ]
+  },
+  "char_4066_highmo": {
+    "trait_tw": "無法被友方角色治療，攻擊造成<@ba.kw>群體傷害</>，每攻擊到一個敵人回復自身<@ba.kw>{value}</>生命，最大生效數等於阻擋數",
+    "talents_tw": [
+      "每攻擊到一個敵人回復自身18<$ba.dt.element>元素損傷</>，最大生效數等於阻擋數",
+      "在【水月與深藍之樹】中，攻擊速度+10，阻擋數+1"
+    ]
+  },
+  "char_486_takila": {
+    "trait_tw": "通常不攻擊且阻擋數為0，技能未開啟時<@ba.kw>{max_stack_cnt}</>秒內攻擊力逐漸提升至最高<@ba.kw>+{atk:0%}</>且技能結束時重置攻擊力",
+    "talents_tw": [
+      "技能未開啟時每次受到攻擊時對目標造成相當於龍舌蘭攻擊力10%的法術傷害"
+    ]
+  },
+  "char_4131_odda": {
+    "trait_tw": "攻擊使目標周圍的其他敵人受到相當於攻擊力<@ba.kw>{attack@atk_scale_2:0%}</>的<@ba.kw>群體</>物理傷害",
+    "talents_tw": [
+      "累計造成45次物理傷害後，攻擊力+9%"
+    ]
+  },
+  "char_4187_graceb": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊力+5%，擊倒過處於<$ba.dt.neural2>神經損傷</>爆發期間的敵人後改為攻擊力+10%"
+    ]
+  },
+  "char_4185_amoris": {
+    "trait_tw": "攻擊使目標周圍的其他敵人受到相當於攻擊力<@ba.kw>{attack@atk_scale_2:0%}</>的<@ba.kw>群體</>物理傷害",
+    "talents_tw": [
+      "祐天寺若麥可以進行<$ba.permanentatk>持續攻擊</>；攻擊時10%機率使敵人獲得3%<$ba.fragile>脆弱</>，持續1.2秒",
+      "在場時每秒使<$ba.fever>Fever</>+3"
+    ]
+  },
+  "char_394_hadiya": {
+    "trait_tw": "",
+    "talents_tw": [
+      "透過部署、開啟技能、使用<$ba.alter>裝備應變</>消耗費用後，攻擊力+2%，使攻擊範圍內的敵人<$ba.stun>暈眩</>2秒（攻擊力最多提升3次）"
+    ]
+  },
+  "char_129_bluep": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊使目標中毒，在3秒內每秒受到30點法術傷害"
+    ]
+  },
+  "char_204_platnm": {
+    "trait_tw": "",
+    "talents_tw": [
+      "距離上次攻擊的間隔越長，下次攻擊的攻擊力就越高（最長2.5秒，攻擊力140%）"
+    ]
+  },
+  "char_367_swllow": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊速度+6"
+    ]
+  },
+  "char_511_asnipe": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊時有15%的機率攻擊力提升至200%"
+    ]
+  },
+  "char_365_aprl": {
+    "trait_tw": "",
+    "talents_tw": [
+      "自身再部署時間-15秒"
+    ]
+  },
+  "char_1021_kroos2": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊時，10%機率當次攻擊的攻擊力提升至150%，並使敵人<$ba.stun>暈眩</>0.2秒"
+    ]
+  },
+  "char_498_inside": {
+    "trait_tw": "",
+    "talents_tw": [
+      "在場停留20秒後，自身彈藥類技能彈藥上限+2"
+    ]
+  },
+  "char_219_meteo": {
+    "trait_tw": "",
+    "talents_tw": [
+      "普通攻擊和技能釋放時，15%機率當次攻擊的攻擊力+60%"
+    ]
+  },
+  "char_379_sesa": {
+    "trait_tw": "",
+    "talents_tw": [
+      "在場時所有被阻擋的敵方單位受到的物理傷害提高7%"
+    ]
+  },
+  "char_4078_bdhkgt": {
+    "trait_tw": "",
+    "talents_tw": [
+      "首次部署時，攻擊力+8%，費用-1"
+    ]
+  },
+  "char_279_excu": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊時無視目標80的防禦力"
+    ]
+  },
+  "char_346_aosta": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊使未被阻擋的敵人流血，每秒受到相當於奧斯塔攻擊力12%的法術傷害（不受特性影響），持續3秒"
+    ]
+  },
+  "char_4203_kichi": {
+    "trait_tw": "",
+    "talents_tw": [
+      "上場後每擊倒過一種敵人，自身造成的傷害+6%，最多疊加2次"
+    ]
+  },
+  "char_4213_skybx": {
+    "trait_tw": "",
+    "talents_tw": [
+      "對每個敵人首次造成傷害後，使目標的特殊能力失效，持續4秒"
+    ]
+  },
+  "char_002_amiya": {
+    "trait_tw": "",
+    "talents_tw": [
+      "？？？？？"
+    ]
+  },
+  "char_405_absin": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊生命值低於40%的敵人傷害提高12%"
+    ]
+  },
+  "char_411_tomimi": {
+    "trait_tw": "",
+    "talents_tw": [
+      "技能開啟時，攻擊範圍縮小，攻擊變為物理傷害（只攻擊地面敵人），攻擊力+50%"
+    ]
+  },
+  "char_466_qanik": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊範圍內的所有空中單位獲得10%的<$ba.magicfragile>【法術脆弱】</>效果"
+    ]
+  },
+  "char_166_skfire": {
+    "trait_tw": "",
+    "talents_tw": [
+      "在場時，所有被阻擋的敵人受到法術傷害時提升7%"
+    ]
+  },
+  "char_509_acast": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊無視目標15法術抗性"
+    ]
+  },
+  "char_306_leizi": {
+    "trait_tw": "攻擊造成<@ba.kw>法術傷害</>，且會在<@ba.kw>{attack@max_target}</>個敵人間跳躍，每次跳躍傷害降低15%並造成短暫<$ba.sluggish>停頓</>（精英2後更新）",
+    "talents_tw": [
+      "攻擊未被阻擋的敵人時攻擊力提升至110%"
+    ]
+  },
+  "char_135_halo": {
+    "trait_tw": "攻擊造成<@ba.kw>法術傷害</>，且會在<@ba.kw>{attack@chain.max_target}</>個敵人間跳躍，每次跳躍傷害降低15%並造成短暫<$ba.sluggish>停頓</>（精英2後更新）",
+    "talents_tw": [
+      "每在場上停留15秒，攻擊速度+3，最多可以疊加5次"
+    ]
+  },
+  "char_344_beewax": {
+    "trait_tw": "",
+    "talents_tw": [
+      "技能未開啟時，每秒恢復2.5%的最大生命"
+    ]
+  },
+  "char_373_lionhd": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊範圍內每有一個敵人，自身攻擊力+3%（最多可疊加5層）"
+    ]
+  },
+  "char_341_sntlla": {
+    "trait_tw": "",
+    "talents_tw": [
+      "在戰場停留20秒後，攻擊力+10%且獲得<$ba.buffres>抵抗</>"
+    ]
+  },
+  "char_4031_liesel": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊濺射範圍內有大於或等於3個敵人時，使當次攻擊造成的傷害提升至110%"
+    ]
+  },
+  "char_388_mint": {
+    "trait_tw": "",
+    "talents_tw": [
+      "技能未開啟時，周圍四格友方單位的防禦力+5%"
+    ]
+  },
+  "char_338_iris": {
+    "trait_tw": "",
+    "talents_tw": [
+      "儲存的攻擊能量造成的傷害提升至115%"
+    ]
+  },
+  "char_297_hamoni": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊被阻擋的敵人造成傷害提升12%"
+    ]
+  },
+  "char_4110_delphn": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊生命值高於80%的敵人時造成的傷害提高10%",
+      "在【惡兆湍流】中，攻擊【薩卡茲】敵人時攻擊力提升至120%，且可額外儲存一個僅用於攻擊【薩卡茲】敵人的攻擊能量"
+    ]
+  },
+  "char_1011_lava2": {
+    "trait_tw": "",
+    "talents_tw": [
+      "首次部署後立即獲得15點技力，每次部署時使在場術師幹員技力+2，在場時其餘友方術師幹員初始技力+2"
+    ]
+  },
+  "char_489_serum": {
+    "trait_tw": "",
+    "talents_tw": [
+      "4秒內沒有主動攻擊過，技力自然回復速度+0.2/秒"
+    ]
+  },
+  "char_446_aroma": {
+    "trait_tw": "",
+    "talents_tw": [
+      "對每個敵人首次進行攻擊時攻擊力提升至105%，並使目標<$ba.levitate>浮空</>2.5秒"
+    ]
+  },
+  "char_4013_kjera": {
+    "trait_tw": "操作<@ba.kw>浮游單元</>造成<@ba.kw>法術傷害</>\n單元攻擊同一敵人傷害提升（最高造成幹員110%攻擊力的傷害）",
+    "talents_tw": [
+      "攻擊力+5%，攻擊範圍內存在2格以上的地面地形時，改為攻擊力+11%"
+    ]
+  },
+  "char_4040_rockr": {
+    "trait_tw": "操作<@ba.kw>浮游單元</>造成<@ba.kw>法術傷害</>\n單元攻擊同一敵人傷害提升（最高造成幹員110%攻擊力的傷害）",
+    "talents_tw": [
+      "每在場上停留15秒，攻擊力+2%，最多可以疊加3次"
+    ]
+  },
+  "char_4054_malist": {
+    "trait_tw": "操作<@ba.kw>浮游單元</>造成<@ba.kw>法術傷害</>\n單元攻擊同一敵人傷害提升（最高造成幹員110%攻擊力的傷害）",
+    "talents_tw": [
+      "攻擊時，10％機率當次攻擊的攻擊力提升至150％"
+    ]
+  },
+  "char_499_kaitou": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊範圍內存在處於<$ba.dt.apoptosis2>凋亡損傷</>爆發期間的敵方單位時，攻擊力+10%"
+    ]
+  },
+  "char_4081_warmy": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊範圍內的敵人<$ba.dt.burning2>灼燃損傷</>爆發開始時立即受到相當於攻擊力200%的元素傷害"
+    ]
+  },
+  "char_4198_christ": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊範圍內的敵人觸發<$ba.palsy>麻痺</>時立即受到相當於攻擊力80%的元素傷害"
+    ]
+  },
+  "char_4164_tecno": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊範圍內的地面敵人被擊倒時原地生成一個木偶舞者（最多存在2個），木偶舞者攻擊造成法術傷害"
+    ]
+  },
+  "char_242_otter": {
+    "trait_tw": "",
+    "talents_tw": [
+      "可以使用3個機械水獺召喚物。被機械水獺阻擋的敵人攻擊速度-10"
+    ]
+  },
+  "char_336_folivo": {
+    "trait_tw": "",
+    "talents_tw": [
+      "可以使用3個移動攝影車。攝影車周圍8格內敵人的<$ba.invisible>隱匿</>效果失效"
+    ]
+  },
+  "char_4140_lasher": {
+    "trait_tw": "",
+    "talents_tw": [
+      "可以使用3個發條羽獸召喚物。發條羽獸和衡沙對機械敵人傷害提升10%"
+    ]
+  },
+  "char_108_silent": {
+    "trait_tw": "",
+    "talents_tw": [
+      "在場時，所有友方【醫療】職業幹員攻速+6"
+    ]
+  },
+  "char_171_bldsk": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊範圍內有敵人倒下時，為自身和範圍內隨機一名友方單位回復1點技力"
+    ]
+  },
+  "char_345_folnic": {
+    "trait_tw": "",
+    "talents_tw": [
+      "擁有<$ba.buffres>抵抗</>"
+    ]
+  },
+  "char_510_amedic": {
+    "trait_tw": "",
+    "talents_tw": [
+      "治療目標時使其獲得+2技力"
+    ]
+  },
+  "char_4196_reckpr": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊範圍內的幹員開啟技能時自身回復1點技力，且攻擊速度+8，持續8秒"
+    ]
+  },
+  "char_348_ceylon": {
+    "trait_tw": "擁有較大治療範圍，但在治療較遠目標時治療量變為<@ba.kw>{heal_scale:0%}</>",
+    "talents_tw": [
+      "攻擊力+3%，當場地中存在水地形時改為攻擊力+9%"
+    ]
+  },
+  "char_436_whispr": {
+    "trait_tw": "擁有較大治療範圍，但在治療較遠目標時治療量變為<@ba.kw>{heal_scale:0%}</>",
+    "talents_tw": [
+      "攻擊範圍內擁有<$ba.buffres>抵抗</>的友方單位每秒恢復相當於絮雨攻擊力3%的生命（不受特性影響）"
+    ]
+  },
+  "char_4173_nowell": {
+    "trait_tw": "擁有較大治療範圍，但在治療較遠目標時治療量變為<@ba.kw>{heal_scale:0%}</>",
+    "talents_tw": [
+      "治療處於異常狀態中的友方幹員時治療量提升至110%"
+    ]
+  },
+  "char_402_tuye": {
+    "trait_tw": "",
+    "talents_tw": [
+      "4秒內未進行治療後，下次治療時的治療量提升至攻擊力的130%"
+    ]
+  },
+  "char_473_mberry": {
+    "trait_tw": "恢復友方單位生命，並回復相當於攻擊力<@ba.kw>{ep_heal_ratio:0%}</>的<$ba.dt.element>元素損傷</>（可以回復未受傷友方單位的<$ba.dt.element>元素損傷</>）",
+    "talents_tw": [
+      "場上存在桑葚和另外至少一名【醫療】幹員時，所有【醫療】幹員的攻擊力+6%"
+    ]
+  },
+  "char_449_glider": {
+    "trait_tw": "恢復友方單位生命，並回復相當於攻擊力<@ba.kw>{ep_heal_ratio:0%}</>的<$ba.dt.element>元素損傷</>（可以回復未受傷友方單位的<$ba.dt.element>元素損傷</>）",
+    "talents_tw": [
+      "攻擊範圍內的遠程幹員最大生命值+5%"
+    ]
+  },
+  "char_4114_harold": {
+    "trait_tw": "恢復友方單位生命，並回復相當於攻擊力<@ba.kw>{ep_heal_ratio:0%}</>的<$ba.dt.element>元素損傷</>（可以回復未受傷友方單位的<$ba.dt.element>元素損傷</>）",
+    "talents_tw": [
+      "攻擊範圍內元素損傷累計超過一半的目標受到的<$ba.dt.element>元素損傷</>降低12%"
+    ]
+  },
+  "char_1024_hbisc2": {
+    "trait_tw": "攻擊造成<@ba.kw>法術傷害</>，攻擊敵人時為攻擊範圍內一名友方幹員治療相當於<@ba.kw>{scale:0%}</>傷害的生命值",
+    "talents_tw": [
+      "攻擊敵人時對目標施加6%的<$ba.magicfragile>【法術脆弱】</>，持續5秒"
+    ]
+  },
+  "char_494_vendla": {
+    "trait_tw": "攻擊造成<@ba.kw>法術傷害</>，攻擊敵人時為攻擊範圍內一名友方幹員治療相當於<@ba.kw>{scale:0%}</>傷害的生命值",
+    "talents_tw": [
+      "攻擊範圍內生命上限最高的友方角色受到的治療效果提升8%"
+    ]
+  },
+  "char_4071_peper": {
+    "trait_tw": "恢復友方單位生命，且會在<@ba.kw>3</>個友方單位間跳躍，每次跳躍治療量降低25%",
+    "talents_tw": [
+      "治療時，若目標生命少於40%則為其額外恢復80點生命"
+    ]
+  },
+  "char_4139_papyrs": {
+    "trait_tw": "恢復友方單位生命，且會在<@ba.kw>3</>個友方單位間跳躍，每次跳躍治療量降低25%",
+    "talents_tw": [
+      "治療會為目標幹員附加相當於自身5%攻擊力的<$ba.barrier>屏障</>，持續8秒"
+    ]
+  },
+  "char_4224_turdus": {
+    "trait_tw": "恢復友方單位生命，且會在<@ba.kw>3</>個友方單位間跳躍，每次跳躍治療量降低25%",
+    "talents_tw": [
+      "受到自身的跳躍治療時，治療量提升至110%，並額外進行一次不衰減的治療跳躍"
+    ]
+  },
+  "char_4222_taraxa": {
+    "trait_tw": "恢復友方單位生命，並且可以<$ba.liftoff>起飛</>",
+    "talents_tw": [
+      "攻擊範圍內飛行的友方單位獲得3%的<$ba.protect>庇護</>，阻擋數+1"
+    ]
+  },
+  "char_148_nearl": {
+    "trait_tw": "",
+    "talents_tw": [
+      "自身醫療效果提高10%"
+    ]
+  },
+  "char_226_hmau": {
+    "trait_tw": "",
+    "talents_tw": [
+      "防禦力+6%"
+    ]
+  },
+  "char_4109_baslin": {
+    "trait_tw": "",
+    "talents_tw": [
+      "法術抗性+6，周圍8格有友方幹員時，法術抗性額外+2"
+    ]
+  },
+  "char_4143_sensi": {
+    "trait_tw": "",
+    "talents_tw": [
+      "防禦力+5%，自身治療量提升5%"
+    ]
+  },
+  "char_144_red": {
+    "trait_tw": "",
+    "talents_tw": [
+      "每次攻擊至少造成20%攻擊力的傷害"
+    ]
+  },
+  "char_243_waaifu": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊時有20%的機率攻擊力提升至125%，並將目標稍微擊退"
+    ]
+  },
+  "char_214_kafka": {
+    "trait_tw": "",
+    "talents_tw": [
+      "被動技能觸發期間阻擋數降至0且獲得<$ba.camou>迷彩</>"
+    ]
+  },
+  "char_455_nothin": {
+    "trait_tw": "",
+    "talents_tw": [
+      "如果4秒內沒有主動攻擊過，下一次攻擊的攻擊力提升至125%並<$ba.stun>暈眩</>目標3秒"
+    ]
+  },
+  "char_4155_talr": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊未被自身阻擋的敵人時，自身造成的傷害+10%"
+    ]
+  },
+  "char_107_liskam": {
+    "trait_tw": "",
+    "talents_tw": [
+      "受到攻擊時，回復自己和周圍一格內隨機一名友方角色1點技力",
+      "法術抗性+10"
+    ]
+  },
+  "char_4137_udflow": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊使目標在3秒內每秒受到40點法術傷害（對【海怪】敵人傷害加倍）"
+    ]
+  },
+  "char_201_moeshd": {
+    "trait_tw": "",
+    "talents_tw": [
+      "有10%的機率抵擋物理和法術傷害。周圍四格內的友方單位獲得一半該效果"
+    ]
+  },
+  "char_325_bison": {
+    "trait_tw": "",
+    "talents_tw": [
+      "在場時自身防禦力+25，自己身後的如果是【先鋒】或【近衛】幹員也能享受到相同效果"
+    ]
+  },
+  "char_163_hpsts": {
+    "trait_tw": "",
+    "talents_tw": [
+      "技能開啟時，每秒恢復最大生命值4%的生命"
+    ]
+  },
+  "char_4207_branch": {
+    "trait_tw": "",
+    "talents_tw": [
+      "技能結束時恢復自身40%最大生命值"
+    ]
+  },
+  "char_378_asbest": {
+    "trait_tw": "",
+    "talents_tw": [
+      "法術抗性+5，受到敵人的法術普通攻擊時獲得1點技力"
+    ]
+  },
+  "char_512_aprot": {
+    "trait_tw": "",
+    "talents_tw": [
+      "在【傀影與猩紅孤鑽】中，攻擊速度+10"
+    ]
+  },
+  "char_4025_aprot2": {
+    "trait_tw": "",
+    "talents_tw": [
+      "在【傀影與猩紅孤鑽】中，攻擊速度+10",
+      "攻擊時有20%的機率使目標法術抗性-25%，持續3秒"
+    ]
+  },
+  "char_4047_pianst": {
+    "trait_tw": "",
+    "talents_tw": [
+      "法術抗性+5，每次受到法術攻擊時對目標造成相當於車爾尼攻擊力50%的法術傷害"
+    ]
+  },
+  "char_457_blitz": {
+    "trait_tw": "",
+    "talents_tw": [
+      "優先攻擊<$ba.stun>暈眩</>的敵人且攻擊<$ba.stun>暈眩</>敵人時攻擊力提升至130%",
+      "身側或身後存在高台時獲得25%的物理抵擋"
+    ]
+  },
+  "char_304_zebra": {
+    "trait_tw": "",
+    "talents_tw": [
+      "自身和周圍8格內的高台幹員獲得10%的物理閃避"
+    ]
+  },
+  "char_431_ashlok": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊力+4%，周身四格為地面時改為攻擊力+8%"
+    ]
+  },
+  "char_493_firwhl": {
+    "trait_tw": "",
+    "talents_tw": [
+      "未阻擋敵人時攻擊力+6%，阻擋敵人時防禦力+6%"
+    ]
+  },
+  "char_422_aurora": {
+    "trait_tw": "",
+    "talents_tw": [
+      "未開啟技能且技力小於或等於最大值一半時，停止攻擊並每秒恢復1.5%最大生命值"
+    ]
+  },
+  "char_464_cement": {
+    "trait_tw": "",
+    "talents_tw": [
+      "自身獲得6%的物理減傷；在戰場停留35秒後效果翻倍"
+    ]
+  },
+  "char_4148_philae": {
+    "trait_tw": "",
+    "talents_tw": [
+      "受到的元素損傷-5%，受到凋亡損傷時回復1點技力"
+    ]
+  },
+  "char_145_prove": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊時，20%機率當次攻擊的攻擊力提升至140%。當敵人在正前方一格時，該機率提升到50%"
+    ]
+  },
+  "char_4006_melnte": {
+    "trait_tw": "",
+    "talents_tw": [
+      "首次釋放技能後，後續技能期間造成的傷害提升10%"
+    ]
+  },
+  "char_158_milu": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊使用遠程武器的敵人時，攻擊力提升至120%"
+    ]
+  },
+  "char_218_cuttle": {
+    "trait_tw": "",
+    "talents_tw": [
+      "編入隊伍時，所有【深海獵人】幹員攻擊速度+6"
+    ]
+  },
+  "char_4014_lunacu": {
+    "trait_tw": "",
+    "talents_tw": [
+      "未開啟技能時，獲得<$ba.camou>迷彩</>"
+    ]
+  },
+  "char_363_toddi": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊【薩卡茲】敵人時，攻擊力提升至130%"
+    ]
+  },
+  "char_4043_erato": {
+    "trait_tw": "",
+    "talents_tw": [
+      "自身可以攻擊<$ba.sleep>沉睡</>的敵人"
+    ]
+  },
+  "char_4221_ju": {
+    "trait_tw": "",
+    "talents_tw": [
+      "造成致命傷害時使敵人保留1點生命並使其<$ba.dying>重傷</>（擊殺者技力+1）；矩不攻擊<$ba.dying>重傷</>單位"
+    ]
+  },
+  "char_1027_greyy2": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊時有25%的機率對攻擊目標造成2秒的<$ba.sluggish>停頓</>"
+    ]
+  },
+  "char_4104_coldst": {
+    "trait_tw": "攻擊時需要消耗子彈且攻擊力提升至<@ba.kw>{atk_scale:0%}</>，不攻擊時會緩慢地裝填子彈（最多{value}發，精英1後更新）",
+    "talents_tw": [
+      "如果2秒內沒有主動攻擊過，下次攻擊造成相當於攻擊力120%的物理傷害"
+    ]
+  },
+  "char_4211_snhunt": {
+    "trait_tw": "攻擊時需要消耗子彈且攻擊力提升至<@ba.kw>{atk_scale:0%}</>，不攻擊時會緩慢地裝填子彈（最多{value}發，精英1後更新）",
+    "talents_tw": [
+      "開啟技能時，派出裂雲獸進行攻擊，造成相當於攻擊力150%的物理傷害和2秒<$ba.cold>寒冷</>"
+    ]
+  },
+  "char_4177_brigid": {
+    "trait_tw": "持有<@ba.kw>迴旋投射物</>時才能夠攻擊（投射物需要時間回收）",
+    "talents_tw": [
+      "造成20次傷害後，獲得15%物理閃避"
+    ]
+  },
+  "char_4015_spuria": {
+    "trait_tw": "",
+    "talents_tw": [
+      "每次攻擊時有30%機率觸發下列效果之一：攻擊變為二連擊；目標<$ba.stun>暈眩</>0.5秒；攻擊無視目標防禦力的60%"
+    ]
+  },
+  "char_173_slchan": {
+    "trait_tw": "",
+    "talents_tw": [
+      "未阻擋敵人時，攻擊力和防禦力各+6%"
+    ]
+  },
+  "char_383_snsant": {
+    "trait_tw": "",
+    "talents_tw": [
+      "在拖拽【感染生物】時，使其失去特殊能力4秒"
+    ]
+  },
+  "char_4105_almond": {
+    "trait_tw": "",
+    "talents_tw": [
+      "每場戰鬥中首次釋放技能結束後立即回復4點技力"
+    ]
+  },
+  "char_174_slbell": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊範圍內的敵人生命少於40%時，令其獲得15%的<$ba.fragile>脆弱</>效果",
+      "攻擊時同時攻擊兩個目標"
+    ]
+  },
+  "char_254_vodfox": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊範圍內的敵人生命少於40%時，令其獲得10%的<$ba.fragile>脆弱</>效果"
+    ]
+  },
+  "char_4079_haini": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊範圍內的非精英和領袖敵人獲得8%的<$ba.fragile>脆弱</>效果"
+    ]
+  },
+  "char_195_glassb": {
+    "trait_tw": "",
+    "talents_tw": [
+      "防禦力-35%，但攻擊速度+18"
+    ]
+  },
+  "char_326_glacus": {
+    "trait_tw": "",
+    "talents_tw": [
+      "優先攻擊【無人機】單位，且攻擊【無人機】時攻擊力提升至125%"
+    ]
+  },
+  "char_4032_provs": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊速度+6，置入戰場後這個效果會同樣賦予給一名隨機【卡西米爾】幹員"
+    ]
+  },
+  "char_4122_grabds": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊速度+6，若目標為【野生動物】則特性的<$ba.sluggish>停頓</>時間略微延長"
+    ]
+  },
+  "char_433_windft": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攜帶2個僅對術師和輔助幹員生效的可靠電池（最多部署2個），使裝備者攻擊力+5%（持續20秒）"
+    ]
+  },
+  "char_4162_cathy": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攜帶2個支援裝置（最多部署2個），使一名幹員獲得相當於凱瑟琳生命上限10%的<$ba.barrier>屏障</>（若目標最近5秒內未受攻擊，則每秒補充相當於凱瑟琳生命上限6%的<$ba.barrier>屏障</>，不超過初始上限），裝置效果不疊加",
+      "-"
+    ]
+  },
+  "char_4178_alanna": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攜帶2個支援裝置（最多部署2個），使一名幹員攻擊敵人時無視其40點防禦力（持續30秒），裝置效果不疊加"
+    ]
+  },
+  "char_101_sora": {
+    "trait_tw": "不攻擊，持續恢復範圍內所有友軍<@ba.kw>生命</>（每秒相當於自身攻擊力<@ba.kw>{attack@atk_to_hp_recovery_ratio:0%}</>的生命），自身不受<$ba.inspire>鼓舞</>影響",
+    "talents_tw": [
+      "技能結束後，50%機率立即回復25%的最大技力"
+    ]
+  },
+  "char_4045_heidi": {
+    "trait_tw": "不攻擊，持續恢復範圍內所有友軍<@ba.kw>生命</>（每秒相當於自身攻擊力<@ba.kw>{attack@atk_to_hp_recovery_ratio:0%}</>的生命），自身不受<$ba.inspire>鼓舞</>影響",
+    "talents_tw": [
+      "裝備技能1時，攻擊範圍內友方單位攻擊力+2%；裝備技能2時，攻擊範圍內友方單位防禦力+2%",
+      "在【破碎日冕】中，攻擊範圍內所有友方幹員技力自然回復速度+0.5/秒"
+    ]
+  },
+  "char_4184_dolris": {
+    "trait_tw": "不攻擊，持續恢復範圍內所有友軍<@ba.kw>生命</>（每秒相當於自身攻擊力<@ba.kw>{atk_to_hp_recovery_ratio:0%}</>的生命），自身不受<$ba.inspire>鼓舞</>影響",
+    "talents_tw": [
+      "技能未開啟時每5秒治療攻擊範圍內生命最低的友方單位相當於攻擊力15%的生命；技能期間優先選擇豐川祥子作為治療目標",
+      "治療<$ba.mujica>Ave Mujica</>成員時使<$ba.fever>Fever</>+2"
+    ]
+  },
+  "char_343_tknogi": {
+    "trait_tw": "攻擊造成<@ba.kw>法術傷害</>，技能開啟後改為治療友方單位（治療量相當於<@ba.kw>{heal_scale:0%}</>攻擊力）",
+    "talents_tw": [
+      "攻擊範圍內的友軍生命少於40%時，使其獲得12%的<$ba.protect>庇護</>"
+    ]
+  },
+  "char_4019_ncdeer": {
+    "trait_tw": "攻擊造成<@ba.kw>法術傷害</>，技能開啟後改為治療友方單位（治療量相當於<@ba.kw>{heal_scale:0%}</>攻擊力）",
+    "talents_tw": [
+      "攻擊範圍內的友軍生命少於40%時，使其獲得8%的<$ba.protect>庇護</>"
+    ]
+  },
+  "char_492_quercu": {
+    "trait_tw": "攻擊造成<@ba.kw>法術傷害</>，技能開啟後改為治療友方單位（治療量相當於<@ba.kw>{heal_scale:0%}</>攻擊力）",
+    "talents_tw": [
+      "攻擊範圍內的友軍生命大於70%時，使其獲得8%的<$ba.protect>庇護</>"
+    ]
+  },
+  "char_4172_xingzh": {
+    "trait_tw": "攻擊造成<@ba.kw>法術傷害</>，技能開啟後改為治療友方單位（治療量相當於<@ba.kw>{heal_scale:0%}</>攻擊力）",
+    "talents_tw": [
+      "使攻擊範圍內除自己外2名友軍獲得7%的<$ba.protect>庇護</>"
+    ]
+  },
+  "char_1022_flwr2": {
+    "trait_tw": "攻擊造成<@ba.kw>法術傷害</>，技能開啟後改為治療友方單位（治療量相當於<@ba.kw>{heal_scale:0%}</>攻擊力）",
+    "talents_tw": [
+      "使攻擊範圍內除自身外目前生命比例小於等於自身的友軍獲得8%的<$ba.protect>庇護</>"
+    ]
+  },
+  "char_4102_threye": {
+    "trait_tw": "",
+    "talents_tw": [
+      "在【探索者的銀淞止境】中，攻擊附帶相當於15%攻擊力的<$ba.dt.apoptosis2>凋亡損傷</>",
+      "攻擊力+6%，攻擊速度+6"
+    ]
+  },
+  "char_487_bobb": {
+    "trait_tw": "",
+    "talents_tw": [
+      "對每個敵人首次攻擊時，使其在接下來的5秒內每秒受到相當於攻擊力10%的<$ba.dt.burning2>灼燃損傷</>"
+    ]
+  },
+  "char_4223_botany": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊範圍內有敵人<$ba.dt.erosion2>侵蝕損傷</>爆發時攻擊速度+4，最多可疊加3層"
+    ]
+  },
+  "char_215_mantic": {
+    "trait_tw": "",
+    "talents_tw": [
+      "平時處於<$ba.invisible>隱匿</>狀態，攻擊時會解除<$ba.invisible>隱匿</>狀態，且當次攻擊的攻擊力+25%。停止攻擊6秒後，重新進入<$ba.invisible>隱匿</>狀態"
+    ]
+  },
+  "char_478_kirara": {
+    "trait_tw": "",
+    "talents_tw": [
+      "每秒回復1%生命值，周圍8格沒有友方幹員時，改為每秒回復2%生命值"
+    ]
+  },
+  "char_4186_tmoris": {
+    "trait_tw": "",
+    "talents_tw": [
+      "被八幡海鈴傷害的敵人有15%機率被<$ba.sluggish>停頓</>3秒",
+      "造成<$ba.sluggish>停頓</>、<$ba.fear>恐懼</>時使<$ba.fever>Fever</>+2；\n在場時，<$ba.mujica>Ave Mujica</>成員對處於<$ba.sluggish>停頓</>、<$ba.fear>恐懼</>的敵人造成的傷害增加3%"
+    ]
+  },
+  "char_241_panda": {
+    "trait_tw": "",
+    "talents_tw": [
+      "獲得20%的物理閃避"
+    ]
+  },
+  "char_4036_forcer": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊重量大於等於3的敵人時無視目標90的防禦力"
+    ]
+  },
+  "char_451_robin": {
+    "trait_tw": "",
+    "talents_tw": [
+      "可以使用4個\"夾子\"陷阱（最多擁有6個），踩上去的第一個敵人會觸發其效果"
+    ]
+  },
+  "char_458_rfrost": {
+    "trait_tw": "",
+    "talents_tw": [
+      "可以使用4個迎賓踏墊（最多擁有6個），踩上去的第一個敵人會觸發其效果"
+    ]
+  },
+  "char_4171_wulfen": {
+    "trait_tw": "",
+    "talents_tw": [
+      "可以使用1個礦石“殺手”（最多擁有2個），礦石“殺手”被部署後準備一段時間可以主動引爆"
+    ]
+  },
+  "char_369_bena": {
+    "trait_tw": "受到致命傷時不撤退，切換成<替身>作戰（替身阻擋數為0），持續20秒後自身再次替換<替身>",
+    "talents_tw": [
+      "<替身>攻擊造成法術傷害"
+    ]
+  },
+  "char_4016_kazema": {
+    "trait_tw": "受到致命傷時不撤退，切換成<替身>作戰（替身阻擋數為0），持續20秒後自身再次替換<替身>",
+    "talents_tw": [
+      "<替身>出現時對其周圍8格內所有敵方單位造成相當於其攻擊力150%的法術傷害"
+    ]
+  },
+  "char_4124_iana": {
+    "trait_tw": "受到致命傷時不撤退，切換成<替身>作戰（替身阻擋數為0），持續20秒後自身再次替換<替身>",
+    "talents_tw": [
+      "部署時原地釋放全息幻影，該幻影不會攻擊，受到攻擊時使攻擊幻影的敵人在6秒內隱匿效果失效，並立即切換為<替身>作戰"
+    ]
+  },
+  "char_4183_mortis": {
+    "trait_tw": "受到致命傷時不撤退，切換成<替身>作戰（替身阻擋數為0），持續20秒後自身再次替換<替身>",
+    "talents_tw": [
+      "若葉睦和<替身>受到物理和法術傷害的30%轉化為一半的<$ba.dt.apoptosis>凋亡損傷</>；<替身>不攻擊，防禦力+5%",
+      "自身受到一次傷害或損傷時使<$ba.fever>Fever</>+1"
+    ]
+  },
+  "char_4151_tinman": {
+    "trait_tw": "",
+    "talents_tw": [
+      "在【薩卡茲的無終奇語】中，被招募時希望消耗-1",
+      "使自身煉金單元影響範圍內地面敵人受到的持續傷害提高20%"
+    ]
+  },
+  "char_4191_tippi": {
+    "trait_tw": "",
+    "talents_tw": [
+      "若最近13秒內未受攻擊，閃避下一次物理或法術攻擊"
+    ]
+  },
+  "char_103_angel": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊速度+6",
+      "攻擊力+6%，生命上限+10%。置入戰場後這個效果會同樣賦予給一名隨機友方單位"
+    ]
+  },
+  "char_332_archet": {
+    "trait_tw": "",
+    "talents_tw": [
+      "在場時所有【狙擊】幹員的攻擊回復技能每3秒回復1點技力",
+      "部署後立即獲得一層<$ba.shield>護盾</>，護盾破裂後獲得7點技力"
+    ]
+  },
+  "char_456_ash": {
+    "trait_tw": "",
+    "talents_tw": [
+      "部署後立即對攻擊範圍內一個敵人投擲閃光彈，使其和周圍敵人<$ba.stun>暈眩</>3秒",
+      "首次部署時部署費用-3，部署後立即獲得17技力"
+    ]
+  },
+  "char_611_acnipe": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊時有25%的機率攻擊力提升至150%",
+      "自身未進行攻擊時，技力回復速度+0.2/秒"
+    ]
+  },
+  "char_340_shwaz": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊時，20%機率當次攻擊的攻擊力提升至130%",
+      "場上存在黑和另外至少一名【狙擊】幹員時，所有【狙擊】幹員的攻擊力+8%"
+    ]
+  },
+  "char_4055_bgsnow": {
+    "trait_tw": "",
+    "talents_tw": [
+      "可使用一個持續15秒的“打字機”，“打字機”擁有和自己一樣的技能，擁有獨立的再部署時間",
+      "“打字機”的攻擊會使命中目標的防禦力下降18%，持續4秒；若“打字機”放在鴻雪周圍四格則效果提升至23%"
+    ]
+  },
+  "char_430_fartth": {
+    "trait_tw": "",
+    "talents_tw": [
+      "最近10秒內未受傷害時，攻擊力+10%",
+      "技能開啟時不容易成為敵人的目標，且攻擊無視目標的物理閃避"
+    ]
+  },
+  "char_4193_lemuen": {
+    "trait_tw": "",
+    "talents_tw": [
+      "精英或領袖敵人在拉特蘭幹員的攻擊範圍內停留超過10秒後被通緝，蕾繆安可以攻擊到所有被通緝的目標",
+      "在場20秒後，攻擊力+10%，自身彈藥類技能彈藥上限+1"
+    ]
+  },
+  "char_113_cqbw": {
+    "trait_tw": "",
+    "talents_tw": [
+      "在戰場停留10秒後獲得40%的物理和法術閃避，且不容易成為敵人的攻擊目標",
+      "攻擊範圍內的敵人在被<$ba.stun>暈眩</>時受到的物理傷害+18%"
+    ]
+  },
+  "char_300_phenxi": {
+    "trait_tw": "",
+    "talents_tw": [
+      "自身生命會不斷流失（該效果不會使生命降至0）；生命值高於50%時獲得+15%攻擊力的<$ba.strong>精力充沛</>；高於80%效果翻倍",
+      "技能持續期間外，攻擊速度+27"
+    ]
+  },
+  "char_197_poca": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊重量較重（重量等級大於等於3）的敵人時，無視其防禦力的40%",
+      "編入隊伍時，所有【烏薩斯學生自治團】幹員攻擊力+8%"
+    ]
+  },
+  "char_2012_typhon": {
+    "trait_tw": "",
+    "talents_tw": [
+      "連續攻擊時逐漸無視敵人的防禦力，最高無視其防禦力的40%（每次攻擊提升5%的無視防禦比例），3秒內未攻擊則失去加成",
+      "技能期間對每個敵人首次造成傷害時，攻擊力提升至160%並使目標<$ba.sluggish>停頓</>3秒"
+    ]
+  },
+  "char_391_rosmon": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊無視目標90防禦力",
+      "部署後隨機選擇一名在場的【術師】幹員，自身和其的攻擊力+8%"
+    ]
+  },
+  "char_1035_wisdel": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊時為主目標附著殘影，殘影受到維什戴爾的餘震影響時有15%機率爆炸，對周圍所有敵人造成120%攻擊力的物理傷害並使其<$ba.stun>暈眩</>0.5秒",
+      "部署後立刻在攻擊範圍內召喚一個魂靈之影，在魂靈之影周圍時獲得<$ba.camou>迷彩</>"
+    ]
+  },
+  "char_1013_chen2": {
+    "trait_tw": "",
+    "talents_tw": [
+      "在場時自身彈藥類技能攻擊時15%機率不消耗對應彈藥（同類效果取最高）",
+      "攻擊速度+8，當場地中存在水地形時改為攻擊速度+12"
+    ]
+  },
+  "char_4117_ray": {
+    "trait_tw": "攻擊時需要消耗子彈且攻擊力提升至<@ba.kw>{atk_scale:0%}</>，不攻擊時會緩慢地裝填子彈（最多{value}發，精英1後更新）",
+    "talents_tw": [
+      "可以在攻擊範圍內部署沙地獸於15秒內偵察一片區域延伸攻擊範圍，自身優先攻擊該區域內的目標且對其造成的物理傷害提高10%",
+      "攻擊相同目標時每次攻擊提高自身攻擊力8%，最多3層"
+    ]
+  },
+  "char_4138_narant": {
+    "trait_tw": "持有<@ba.kw>迴旋投射物</>時才能夠攻擊（投射物需要時間回收）",
+    "talents_tw": [
+      "在場時，每次攻擊到敵人<$ba.steal>偷取</>其15點攻擊力（最高150點）與10點防禦力（最高100點）",
+      "獲得35%的物理與法術閃避，周圍8格內敵人的物理與法術命中率-20%"
+    ]
+  },
+  "char_112_siege": {
+    "trait_tw": "",
+    "talents_tw": [
+      "所有【先鋒】職業幹員的攻擊力和防禦力各+4%",
+      "周圍四格內有敵人倒下時獲得1點技力"
+    ]
+  },
+  "char_222_bpipe": {
+    "trait_tw": "",
+    "talents_tw": [
+      "每次攻擊有25%的機率攻擊力提升至110%，且額外攻擊一個目標",
+      "編入隊伍時所有【先鋒】幹員的初始技力+6"
+    ]
+  },
+  "char_362_saga": {
+    "trait_tw": "",
+    "talents_tw": [
+      "造成致命傷害時使敵人保留1點生命並使其<$ba.dying>重傷</>（擊殺者技力+1）；嵯峨不攻擊<$ba.dying>重傷</>單位",
+      "生命值低於40%時，僅一次獲得70%物理閃避和每秒回復5%的最大生命，持續15秒"
+    ]
+  },
+  "char_4026_vulpis": {
+    "trait_tw": "",
+    "talents_tw": [
+      "對每個敵人造成首次傷害後，10秒內忍冬對該敵人造成傷害時，額外造成攻擊力 20%的法術傷害",
+      "在場時，部署費用的自然回復速度+10%，若4秒內自身未受到傷害，則每秒恢復4%的最大生命值"
+    ]
+  },
+  "char_479_sleach": {
+    "trait_tw": "",
+    "talents_tw": [
+      "部署時自身持有軍旗；軍旗周圍8格的幹員攻擊速度+5，敵人的攻擊速度-5",
+      "部署後，下一名部署的幹員費用-2"
+    ]
+  },
+  "char_420_flamtl": {
+    "trait_tw": "",
+    "talents_tw": [
+      "觸發閃避時，下次攻擊變為二連擊",
+      "在場時，所有【卡西米爾】勢力的幹員獲得22%的物理閃避"
+    ]
+  },
+  "char_608_acpion": {
+    "trait_tw": "",
+    "talents_tw": [
+      "部署後第2次開啟技能之前，技力自然回復速度+0.3/秒",
+      "攻擊力+10%，擊殺敵人時額外獲得1點部署費用"
+    ]
+  },
+  "char_427_vigil": {
+    "trait_tw": "",
+    "talents_tw": [
+      "可以在戰術點召喚由初始兩隻“狼影”構成的狼群協助作戰，“狼影”的數量每30秒增加一隻（至多3隻；每隻“狼影”使狼群阻擋數+1且攻擊額外造成一次傷害）",
+      "敵人被狼群阻擋時，伺夜和狼群對其的攻擊無視其175防禦力"
+    ]
+  },
+  "char_249_mlyss": {
+    "trait_tw": "",
+    "talents_tw": [
+      "可召喚流形來複製待部署幹員的少量屬性（生命上限、攻擊、防禦、法抗、阻擋數、攻擊間隔、攻擊範圍、傷害類型、根據近/遠程位獲得特殊特性）協助作戰，其被擊敗後會在30秒後自動刷新",
+      "攜帶時【萊茵生命】幹員部署費用-2，首名【萊茵生命】幹員部署費用額外-1"
+    ]
+  },
+  "char_1045_svash2": {
+    "trait_tw": "",
+    "talents_tw": [
+      "在場時向待部署區中加入“風雪之眼”，且會使待部署區按照部署費用排列。位於“風雪之眼”左側的幹員與自身初始技力+2，下次再部署時間-10%",
+      "在場時，【謝拉格】幹員免疫<$ba.frozen>凍結</>，防禦力+60且每秒回復1.5%最大生命值；凜御銀灰在場15秒後防禦力和生命回復效果翻倍"
+    ]
+  },
+  "char_4087_ines": {
+    "trait_tw": "",
+    "talents_tw": [
+      "對每個敵人首次造成傷害後，使目標<$ba.root>束縛</>3秒並<$ba.steal>偷取</>其50點攻擊力（持續至目標被擊倒或伊內絲離場）",
+      "攻擊範圍內敵人的<$ba.invisible>隱匿</>效果失效且移動速度-30%，撤退後留下一個影哨使該效果持續生效（最多1個）"
+    ]
+  },
+  "char_134_ifrit": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊範圍內的敵軍法術抗性-15%",
+      "每6秒額外回復2點技力"
+    ]
+  },
+  "char_213_mostma": {
+    "trait_tw": "",
+    "talents_tw": [
+      "在場時所有【術師】幹員的技力自然回復速度+0.2/秒（同類效果取最高）",
+      "攻擊範圍內的敵人移動速度-15%"
+    ]
+  },
+  "char_180_amgoat": {
+    "trait_tw": "",
+    "talents_tw": [
+      "在場時，所有友方【術師】職業幹員的攻擊力+7%",
+      "部署後立即隨機獲得7~15點技力"
+    ]
+  },
+  "char_2013_cerber": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊時對目標額外造成相當於其防禦力25%的法術傷害",
+      "當周圍四格內沒有其他友方單位時，攻擊力+8%，攻擊速度+8"
+    ]
+  },
+  "char_4027_heyak": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊空中目標時攻擊力提升至110%，並使其特殊能力失效1秒",
+      "攻擊範圍內所有生命值高於80%的敵人<$ba.weightless>失重</>"
+    ]
+  },
+  "char_4133_logos": {
+    "trait_tw": "",
+    "talents_tw": [
+      "對一個目標發起攻擊時，有40%機率額外對攻擊範圍內一個隨機目標造成相當於攻擊力40%的法術傷害",
+      "攻擊使目標在5秒內法術抗性-10且受到的法術傷害提高150點"
+    ]
+  },
+  "char_2015_dusk": {
+    "trait_tw": "",
+    "talents_tw": [
+      "擊殺一名敵人獲得2%攻擊力，最多可疊加10層",
+      "部署後首次攻擊敵人時，在目標位置（可部署地面）召喚一個“小自在”（持續25秒）"
+    ]
+  },
+  "char_4141_marcil": {
+    "trait_tw": "",
+    "talents_tw": [
+      "技能消耗<$ba.magicpoint>魔力</>且可隨時開啟，<$ba.magicpoint>魔力</>不自然回復，不在場時每秒回復1點；有<$ba.magicpoint>魔力</>時，攻擊力+10%，攻擊濺射範圍擴大",
+      "初始<$ba.magicpoint>魔力</>+25，編隊中有4名<$ba.laiosteam>【萊歐斯小隊】</>幹員時，所有<$ba.laiosteam>【萊歐斯小隊】</>幹員攻擊速度+25，防禦力+35%"
+    ]
+  },
+  "char_612_accast": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊無視目標6法術抗性",
+      "自身及相鄰四格的【術師】幹員攻擊力+10%"
+    ]
+  },
+  "char_472_pasngr": {
+    "trait_tw": "攻擊造成<@ba.kw>法術傷害</>，且會在<@ba.kw>{attack@max_target}</>個敵人間跳躍，每次跳躍傷害降低15%並造成短暫<$ba.sluggish>停頓</>（精英2後更新）",
+    "talents_tw": [
+      "攻擊命中生命值在80%以上的敵人時，3秒內異客對其造成的傷害提升10%",
+      "當周圍4格沒有敵人時，攻擊力+8%"
+    ]
+  },
+  "char_426_billro": {
+    "trait_tw": "",
+    "talents_tw": [
+      "開啟技能時立即恢復30%最大生命值；\n<$ba.charged>蓄力</>時效果翻倍",
+      "技力超過上限時，技力自然回復速度+0.6/秒"
+    ]
+  },
+  "char_4080_lin": {
+    "trait_tw": "",
+    "talents_tw": [
+      "擁有可以抵擋所有傷害的琉璃璧；琉璃璧在受到單次超過150點傷害時破碎，對周圍所有敵人造成相當於林攻擊力60%的法術傷害、使其<$ba.stun>暈眩</>1秒，並在12秒後再次生成",
+      "受到攻擊時，有50%機率回復1點技力"
+    ]
+  },
+  "char_1046_sbell2": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊範圍內的地面每隔10秒產生一層積雪，地面敵人經過時立即受到相當於攻擊力20%的法術傷害，每層積雪使經過的所有敵人移動速度下降10%，最多疊加5層（首個敵人離開該地塊時積雪消失）",
+      "受到傷害時使敵人<$ba.cold>寒冷</>1.5秒，若受到致命傷害，僅一次立刻回復所有生命值並使自身<$ba.frozen>凍結</>4秒，使攻擊範圍內所有敵方單位<$ba.frozen>凍結</>8秒"
+    ]
+  },
+  "char_377_gdglow": {
+    "trait_tw": "操作<@ba.kw>浮游單元</>造成<@ba.kw>法術傷害</>\n單元攻擊同一敵人傷害提升（最高造成幹員110%攻擊力的傷害）",
+    "talents_tw": [
+      "技能開啟後浮游單元攻擊時有10%機率自爆（回到幹員身邊）對小範圍敵人造成澄閃200%攻擊力的法術傷害",
+      "自身與浮游單元無視敵人15點法術抗性"
+    ]
+  },
+  "char_1038_whitw2": {
+    "trait_tw": "操作<@ba.kw>浮游單元</>造成<@ba.kw>法術傷害</>\n單元攻擊同一敵人傷害提升（最高造成幹員110%攻擊力的傷害）",
+    "talents_tw": [
+      "每在場上停留30秒，浮遊單元依次獲得以下一個效果：傷害上限提高6%、造成傷害時使目標特殊能力失效1秒、數量+1",
+      "編入隊伍時，所有【敘拉古】幹員的初始技力+5"
+    ]
+  },
+  "char_4046_ebnhlz": {
+    "trait_tw": "",
+    "talents_tw": [
+      "儲存的攻擊能量造成的傷害提升至120%，可額外儲存1份只用於攻擊精英或領袖敵人的攻擊能量",
+      "若攻擊目標周圍沒有其他敵人，攻擊對其額外造成相當於攻擊力15%的法術傷害"
+    ]
+  },
+  "char_4146_nymph": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊處於<$ba.dt.apoptosis2>凋亡損傷</>爆發期間的敵人時使其每秒受到相當於攻擊力30%的元素傷害，持續至<$ba.dt.apoptosis2>凋亡損傷</>爆發結束",
+      "每當自身攻擊範圍內敵人<$ba.dt.apoptosis2>凋亡損傷</>爆發，攻擊力+2%，最多可疊加10層"
+    ]
+  },
+  "char_1040_blaze2": {
+    "trait_tw": "",
+    "talents_tw": [
+      "全場有敵人<$ba.dt.burning2>灼燃損傷</>爆發開始時，立即對其造成相當於攻擊力250%的元素傷害並回復6%最大生命",
+      "被擊倒時倒地並獲得6000點<$ba.barrier>屏障</>，倒地期間不能攻擊，無法被治療，每秒回復3%生命；生命回滿後復活並使附近的敵人<$ba.stun>暈眩</>5秒"
+    ]
+  },
+  "char_4204_mantra": {
+    "trait_tw": "",
+    "talents_tw": [
+      "場上敵人觸發<$ba.palsy>麻痺</>效果時立即受到相當於真言攻擊力100%的元素傷害，且觸發<$ba.palsy>麻痺</>時有8%機率不消耗<$ba.palsy>麻痺</>層數",
+      "距離真言最近的一個侵入點出場的敵人出現時立刻獲得1層<$ba.palsy>麻痺</>"
+    ]
+  },
+  "char_450_necras": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊範圍內敵人被擊倒時生成一個悲歎的僕役，最多召喚2個，若無法再次召喚則使一個悲歎的僕役升級（提升生命、攻擊和防禦）",
+      "自身和召喚物攻擊生命低於50%的敵人時攻擊力提升至140%"
+    ]
+  },
+  "char_206_gnosis": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊造成1秒<$ba.cold>寒冷</>；範圍內<$ba.cold>寒冷</>的敵人受到15%的<$ba.fragile>脆弱</>，範圍內<$ba.frozen>凍結</>的敵人<$ba.fragile>脆弱</>效果提升至2倍",
+      "靈知在場且部署後經過10秒時，使所有【謝拉格】幹員獲得<$ba.buffres>抵抗</>"
+    ]
+  },
+  "char_291_aglina": {
+    "trait_tw": "",
+    "talents_tw": [
+      "全場友方單位攻速+3",
+      "技能未開啟時，全場友方單位每秒回復20點生命"
+    ]
+  },
+  "char_358_lisa": {
+    "trait_tw": "",
+    "talents_tw": [
+      "在場時所有【輔助】幹員的技力自然回復速度+0.2/秒（同類效果取最高）",
+      "攻擊範圍內被<$ba.sluggish>停頓</>的敵人在下一瞬間起還會受到等長時間的20%的<$ba.fragile>脆弱</>效果"
+    ]
+  },
+  "char_614_acsupo": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊速度+5，相鄰的幹員攻擊速度+3",
+      "攻擊範圍內敵人的物理和法術命中率降低10%"
+    ]
+  },
+  "char_1047_halo2": {
+    "trait_tw": "",
+    "talents_tw": [
+      "對敵人造成<$ba.sluggish>停頓</>效果時，自身的攻擊速度+1，最多疊加12次",
+      "攻擊範圍內的敵人受到10%的<$ba.fragile>脆弱</>效果，敵人在溯光星源的攻擊範圍內停留超過7秒後，<$ba.fragile>脆弱</>效果提升至14%"
+    ]
+  },
+  "char_248_mgllan": {
+    "trait_tw": "",
+    "talents_tw": [
+      "可以使用3個不阻擋敵人的無人機（最多同時部署3個），功能隨技能選擇而改變",
+      "無人機在部署後的12秒內處於<$ba.invisible>隱匿</>狀態（不會成為敵方遠程單位的攻擊目標）"
+    ]
+  },
+  "char_4195_radian": {
+    "trait_tw": "",
+    "talents_tw": [
+      "可以使用3個召喚物（最多同時部署3個），功能隨技能選擇而改變",
+      "電弧的召喚物獲得相當於其自身12%攻擊力、防禦力、生命值的<$ba.inspire>鼓舞</>效果"
+    ]
+  },
+  "char_1012_skadi2": {
+    "trait_tw": "不攻擊，持續恢復範圍內所有友軍<@ba.kw>生命</>（每秒相當於自身攻擊力<@ba.kw>{attack@atk_to_hp_recovery_ratio:0%}</>的生命），自身不受<$ba.inspire>鼓舞</>影響",
+    "talents_tw": [
+      "可以使用一個持續15秒的海嗣，海嗣的攻擊範圍視為自身攻擊範圍的延伸",
+      "自身或海嗣攻擊範圍內存在我方幹員時，自身攻擊力+6%；存在【深海獵人】幹員時改為攻擊力+15%"
+    ]
+  },
+  "char_4134_cetsyr": {
+    "trait_tw": "不攻擊，持續恢復範圍內所有友軍<@ba.kw>生命</>（每秒相當於自身攻擊力<@ba.kw>{attack@atk_to_hp_recovery_ratio:0%}</>的生命），自身不受<$ba.inspire>鼓舞</>影響",
+    "talents_tw": [
+      "魔王周圍持續圍繞3枚“微塵”，“微塵”碰撞友方幹員時，消失並使該幹員受到魔王特性效果提升至1.2倍，持續6秒，消失的“微塵”在6秒後重生",
+      "上陣時，所有友方單位受到【薩卡茲】敵人的傷害降低10%"
+    ]
+  },
+  "char_1031_slent2": {
+    "trait_tw": "攻擊造成<@ba.kw>法術傷害</>，技能開啟後改為治療友方單位（治療量相當於<@ba.kw>{heal_scale:0%}</>攻擊力）",
+    "talents_tw": [
+      "使攻擊範圍內的友軍獲得8%的<$ba.protect>庇護</>，友軍的生命越低該效果越強（低於30%生命時獲得最大15%的<$ba.protect>庇護</>）",
+      "攻擊範圍內生命低於50%的友軍每秒恢復相當於淬羽赫默攻擊力5%的生命，【萊茵生命】幹員的恢復效果翻倍"
+    ]
+  },
+  "char_4202_haruka": {
+    "trait_tw": "攻擊造成<@ba.kw>法術傷害</>，技能開啟後改為治療友方單位（治療量相當於<@ba.kw>{heal_scale:0%}</>攻擊力）",
+    "talents_tw": [
+      "每過一個攻擊間隔，使範圍內一名友方單位獲得10%<$ba.protect>庇護</>的浮泡，浮泡在受到敵方傷害的短暫延遲後破碎",
+      "浮泡破碎時，為所在的單位治療相當於遙攻擊力25%的生命值"
+    ]
+  },
+  "char_2023_ling": {
+    "trait_tw": "",
+    "talents_tw": [
+      "可以使用3個召喚物（最多同時部署3個），功能隨技能選擇而改變",
+      "召喚物被擊倒/吸收/回收時令額外獲得2點技力、攻擊力+2%（攻擊力加成最多疊加5層）"
+    ]
+  },
+  "char_4072_ironmn": {
+    "trait_tw": "",
+    "talents_tw": [
+      "可以攜帶2個<支援裝置>(最多可部署1個)，效果根據技能改變而改變",
+      "當白鐵周圍8格的自身裝置損毀時，有70%的機率回收使白鐵額外獲得1個裝置"
+    ]
+  },
+  "char_4212_nasti": {
+    "trait_tw": "",
+    "talents_tw": [
+      "可以攜帶2個<支援裝置>(最多可部署1個)，效果根據技能改變而改變",
+      "獲得10%<$ba.protect>庇護</>；遠程敵人出現後，改為使自身和場上的高台幹員獲得15%<$ba.protect>庇護</>，且每6秒獲得1點技力"
+    ]
+  },
+  "char_245_cello": {
+    "trait_tw": "",
+    "talents_tw": [
+      "使攻擊範圍內敵人每秒受到相當於攻擊力6%的<$ba.dt.apoptosis2>凋亡損傷</>",
+      "使攻擊範圍內敵人受到的<$ba.dt.apoptosis2>凋亡損傷</>提高20%"
+    ]
+  },
+  "char_1042_phatm2": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊附帶相當於攻擊力20%的<$ba.dt.neural2>神經損傷</>，並對目標周圍其他敵人造成一次相當於攻擊力10%的<$ba.dt.neural2>神經損傷</>",
+      "在場時，全場處於<$ba.dt.neural2>神經損傷</>爆發期間的敵人攻擊速度-12；攻擊範圍內的敵人普通攻擊時受到70點<$ba.dt.neural2>神經損傷</>"
+    ]
+  },
+  "char_250_phatom": {
+    "trait_tw": "",
+    "talents_tw": [
+      "可以使用一個虛影，虛影擁有和自己一樣的技能，擁有獨立的再部署時間",
+      "虛影的再部署時間-10秒"
+    ]
+  },
+  "char_1028_texas2": {
+    "trait_tw": "",
+    "talents_tw": [
+      "被動技能持續時間內攻擊力+10%；首次擊倒敵人時回復所有生命並重新釋放被動技能",
+      "每次部署後擊倒一名敵人之前，攻擊速度+8，受到的所有傷害降低25%"
+    ]
+  },
+  "char_1029_yato2": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊額外造成攻擊力6%的法術傷害",
+      "技能期間及技能結束後的10秒內攻擊力+13%"
+    ]
+  },
+  "char_1502_crosly": {
+    "trait_tw": "",
+    "talents_tw": [
+      "技能持續期間在自身周圍產生煙霧，使其中地面敵人的物理與法術命中率-15%",
+      "對未傷害過自身的地面敵人造成的物理傷害提升20%"
+    ]
+  },
+  "char_615_acspec": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊時有5%機率造成二連擊",
+      "周圍四格內僅存在一名敵人時，攻擊力+10%"
+    ]
+  },
+  "char_322_lmlee": {
+    "trait_tw": "",
+    "talents_tw": [
+      "老鯉阻擋目標時，使其攻擊速度-7，且自身攻擊速度+7；當周圍八格內僅存在一個敵人時效果翻倍",
+      "特性消耗費用時，若費用足夠則改為消耗5費用，抵消自身受到的下一次<$ba.stun>暈眩</>/<$ba.frozen>凍結</>，並使攻擊來源暈眩3秒"
+    ]
+  },
+  "char_1033_swire2": {
+    "trait_tw": "",
+    "talents_tw": [
+      "技能期間每次特性消耗費用時獲得1枚金幣（可用於技能消耗）",
+      "受到致命傷害時，若費用足夠則消耗5點部署費用使生命恢復到70%，每次觸發該天賦時消耗的費用翻倍"
+    ]
+  },
+  "char_400_weedy": {
+    "trait_tw": "",
+    "talents_tw": [
+      "可以使用一個持續15秒的蓄水炮，能攻擊單個敵人並將其小力度地推開",
+      "蓄水炮普通攻擊和技能的推力增加一級，且在溫蒂周圍4格內時令其每3秒獲得1點技力"
+    ]
+  },
+  "char_225_haak": {
+    "trait_tw": "",
+    "talents_tw": [
+      "每次攻擊時會隨機觸發下列效果之一：回復自身生命13%；當次攻擊力提升至130%；目標<$ba.sluggish>停頓</>1秒；目標<$ba.stun>暈眩</>0.6秒",
+      "自身受到的治療量+20%"
+    ]
+  },
+  "char_1041_angel2": {
+    "trait_tw": "",
+    "talents_tw": [
+      "在場時，每當有友方幹員的彈藥被消耗就會回復自身6%生命值，並有20%機率立即對該幹員攻擊範圍的敵人召喚一次轟炸，造成相當於自身攻擊力105%的物理濺射傷害",
+      "在場時，攜帶彈藥類技能的幹員攻擊力+9%，對【拉特蘭】幹員的效果翻倍"
+    ]
+  },
+  "char_474_glady": {
+    "trait_tw": "",
+    "talents_tw": [
+      "在場時，所有【深海獵人】幹員每秒回復1.5%最大生命值且受到【海怪】敵人的物理與法術傷害降低15%",
+      "攻擊重量小於等於3的敵人時攻擊力提升至130%"
+    ]
+  },
+  "char_437_mizuki": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊時對攻擊目標中生命值最少的敵人額外造成相當於攻擊力20%的法術傷害",
+      "攻擊範圍內存在生命值低於一半的敵人時，攻擊力+10%"
+    ]
+  },
+  "char_4132_ascln": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊對敵人施加效果：移動速度降低12％，每秒受到6％阿斯卡綸當前攻擊力的法術傷害，持續18秒，效果最多疊加三層",
+      "攻擊速度+8，自身周圍四格有高台時，攻擊速度額外+6"
+    ]
+  },
+  "char_1023_ghost2": {
+    "trait_tw": "受到致命傷時不撤退，切換成<替身>作戰（替身阻擋數為0），持續20秒後自身再次替換<替身>",
+    "talents_tw": [
+      "<替身>使周圍敵人移動速度-20%且每秒造成相當於20%攻擊力的法術傷害",
+      "編入隊伍時，所有【深海獵人】幹員的生命值+20%"
+    ]
+  },
+  "char_4048_doroth": {
+    "trait_tw": "",
+    "talents_tw": [
+      "可以使用4個共振裝置（最多擁有6個），踩上去的第一個敵人會觸發其效果",
+      "陷阱觸發後，多蘿西獲得2%的攻擊力，最多疊加10層"
+    ]
+  },
+  "char_4123_ela": {
+    "trait_tw": "",
+    "talents_tw": [
+      "可以使用1個雷電地雷（最多擁有2個），經過周圍的第一個敵人會觸發其效果，撤退時以自身為中心觸發一次雷電地雷效果",
+      "攻擊有30%機率造成相當於攻擊力150%的物理傷害，對受到雷電地雷效果影響的目標必定觸發"
+    ]
+  },
+  "char_2027_wang": {
+    "trait_tw": "",
+    "talents_tw": [
+      "可以使用4枚棋子（最多擁有5枚），棋子相連時相互啟動，敵人進入啟動的棋子所在地塊時觸發其效果",
+      "棋子啟動時所在的連續直線上每有一枚棋子，直線上所有棋子造成傷害提升10%並無視敵人9點法術抗性（最多疊加3次）"
+    ]
+  },
+  "char_1039_thorn2": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊力+3%，攻擊範圍內存在其他幹員時，自身投擲的煉金單元持續時間延長1秒",
+      "在場時，所有友方單位攻擊速度+5，敵方單位攻擊速度-5；位於連續6格或以上直線道路的友方和敵方單位受到的效果翻倍"
+    ]
+  },
+  "char_147_shining": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊範圍內的友方單位防禦力+20",
+      "攻擊速度+10"
+    ]
+  },
+  "char_613_acmedc": {
+    "trait_tw": "",
+    "talents_tw": [
+      "治療目標時，使其獲得1點技力",
+      "攻擊範圍內的友方幹員被擊倒時，獲得5點技力"
+    ]
+  },
+  "char_179_cgbird": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊範圍內的友方單位法術抗性+5",
+      "可以使用幻影。幻影無法攻擊和阻擋敵人，擁有75法術抗性，30%的物理閃避，並且更容易吸引敵人的攻擊，同時每秒流失3%的最大生命"
+    ]
+  },
+  "char_003_kalts": {
+    "trait_tw": "",
+    "talents_tw": [
+      "可以使用並治療Mon3tr，擁有35秒再部署時間，優先治療自身和Mon3tr；Mon3tr不在凱爾希攻擊範圍內時防禦力降至0",
+      "Mon3tr在被擊倒後（不包括撤退）使周圍8格內所有敵人<$ba.stun>暈眩</>3秒並對其造成1200點真實傷害"
+    ]
+  },
+  "char_4042_lumen": {
+    "trait_tw": "擁有較大治療範圍，但在治療較遠目標時治療量變為<@ba.kw>{heal_scale:0%}</>",
+    "talents_tw": [
+      "治療的目標獲得2秒<$ba.buffres>抵抗</>，若目標生命值高於75%則改為4秒<$ba.buffres>抵抗</>",
+      "攻擊範圍內的友方受到異常狀態時，立刻治療目標相當於流明攻擊力80%的生命，該效果有12秒冷卻時間"
+    ]
+  },
+  "char_1016_agoat2": {
+    "trait_tw": "恢復友方單位生命，並回復相當於攻擊力<@ba.kw>{ep_heal_ratio:0%}</>的<$ba.dt.element>元素損傷</>（可以回復未受傷友方單位的<$ba.dt.element>元素損傷</>）",
+    "talents_tw": [
+      "普通治療使目標每秒額外受到一次治療量和<$ba.dt.element>元素損傷</>回復量為8%的增益治療，持續4秒（最多疊加3層）",
+      "攻擊範圍內的友方單位生命上限+6%，且受到的<$ba.dt.element>元素損傷</>降低12%"
+    ]
+  },
+  "char_1020_reed2": {
+    "trait_tw": "攻擊造成<@ba.kw>法術傷害</>，攻擊敵人時為攻擊範圍內一名友方幹員治療相當於<@ba.kw>{scale:0%}</>傷害的生命值",
+    "talents_tw": [
+      "造成傷害時有30%機率對敵人施加灼痕效果：攻擊力-10%、15%的<$ba.magicfragile>【法術脆弱】</>，不可疊加持續6秒",
+      "治療其他友方單位時，焰影葦草同時享受50%的治療量"
+    ]
+  },
+  "char_4056_titi": {
+    "trait_tw": "攻擊造成<@ba.kw>法術傷害</>，攻擊敵人時為攻擊範圍內一名友方幹員治療相當於<@ba.kw>{scale:0%}</>傷害的生命值",
+    "talents_tw": [
+      "自身可以攻擊<$ba.sleep>沉睡</>的敵人，且攻擊非移動敵人時對其額外造成相當於攻擊力10%的法術傷害，在場時<$ba.sleep>沉睡</>中的敵人每秒受到緹緹攻擊力18%的法術傷害",
+      "場上的【米諾斯】或【薩爾貢】幹員生命值高於50%時，獲得+20攻速的<$ba.strong>精力充沛</>"
+    ]
+  },
+  "char_4179_monstr": {
+    "trait_tw": "恢復友方單位生命，且會在<@ba.kw>3</>個友方單位間跳躍，每次跳躍治療量降低25%",
+    "talents_tw": [
+      "可以在攻擊範圍內的地面使用一個僅可被自身治療的重構體，重構體周圍友方單位的攻擊力+3%，重構體受到自身和Mon3tr治療時，可額外進行一次不會衰減的治療跳躍",
+      "自身或重構體造成治療時，使目標及自身的攻擊速度+10，持續10秒（無法疊加）"
+    ]
+  },
+  "char_136_hsguma": {
+    "trait_tw": "",
+    "talents_tw": [
+      "獲得12%的傷害抵擋",
+      "在場時所有友方【重裝】職業幹員的防禦力提升6%"
+    ]
+  },
+  "char_610_acfend": {
+    "trait_tw": "",
+    "talents_tw": [
+      "防禦力+3%，生命值低於50%時，防禦力額外+3%",
+      "自身阻擋的敵人攻擊速度-5"
+    ]
+  },
+  "char_202_demkni": {
+    "trait_tw": "",
+    "talents_tw": [
+      "每在場上停留20秒，攻擊力+2%，防禦力+2%，最多疊加5層",
+      "每次回復友方單位生命值時額外回復該單位1點技力"
+    ]
+  },
+  "char_423_blemsh": {
+    "trait_tw": "",
+    "talents_tw": [
+      "在場時所有受擊回復的技能在幹員攻擊時也回復1點技力",
+      "自身可以攻擊並優先攻擊<$ba.sleep>沉睡</>的目標且攻擊力提升至120%"
+    ]
+  },
+  "char_2025_shu": {
+    "trait_tw": "",
+    "talents_tw": [
+      "治療幹員時對其與周圍四格地塊進行播種施加如下效果：每秒恢復40生命、獲得5%<$ba.protect>庇護</>",
+      "場上有三名不同職業幹員時所有幹員生命上限+12%、三名相同職業幹員時所有幹員攻擊速度+12，編隊中有四名【歲】幹員時所有幹員攻擊力+12%且4秒獲得1點技力"
+    ]
+  },
+  "char_2014_nian": {
+    "trait_tw": "",
+    "talents_tw": [
+      "編入隊伍時，所有【重裝】職業幹員的生命上限+8%",
+      "部署後立即獲得3層<$ba.shield>護盾</>"
+    ]
+  },
+  "char_311_mudrok": {
+    "trait_tw": "",
+    "talents_tw": [
+      "每9秒獲得1層<$ba.shield>護盾</>（最多2層，部署後立即獲得1層），每層護盾破裂時恢復自身15%最大生命",
+      "受到來自【薩卡茲】敵人的傷害降低30%"
+    ]
+  },
+  "char_4065_judge": {
+    "trait_tw": "",
+    "talents_tw": [
+      "部署後立即獲得相當於生命上限30%的<$ba.barrier>屏障</>",
+      "擁有來源於自身的<$ba.barrier>屏障</>時，每次受到攻擊對目標造成相當於斥罪攻擊力50%的法術傷害"
+    ]
+  },
+  "char_416_zumama": {
+    "trait_tw": "",
+    "talents_tw": [
+      "生命值高於一半時，攻擊造成108%傷害；生命值不高於一半時，獲得10%的<$ba.protect>庇護</>",
+      "阻擋敵人時技力回復速度+0.2/秒"
+    ]
+  },
+  "char_4039_horn": {
+    "trait_tw": "",
+    "talents_tw": [
+      "在場時所有重裝幹員的攻擊力+10%",
+      "被擊倒時不撤退，恢復所有生命且生命上限-50%，攻擊速度+18、防禦力+18%（單次部署只觸發一次）"
+    ]
+  },
+  "char_1034_jesca2": {
+    "trait_tw": "",
+    "talents_tw": [
+      "可以使用一個持續20秒的機動盾牌，機動盾牌只能放置於滌火潔西卡四周，機動盾牌部署後，滌火潔西卡立刻轉向盾牌且自身與身後的單位防禦力+5%",
+      "機動盾牌受到傷害時，有50%的機率使滌火潔西卡獲得1點技力"
+    ]
+  },
+  "char_4194_rmixer": {
+    "trait_tw": "",
+    "talents_tw": [
+      "每次造成傷害使自身10秒內防禦力+20，攻擊速度+2，最多可疊加3層",
+      "若8秒內未主動攻擊，獲得相當於生命上限15%的<$ba.barrier>屏障</>，失去屏障後重新計時"
+    ]
+  },
+  "char_2026_yu": {
+    "trait_tw": "",
+    "talents_tw": [
+      "阻擋敵人時自身獲得15%的<$ba.protect>庇護</>，並使阻擋的目標每秒受到相當於攻擊力25%的法術傷害和相當於攻擊力8%的<$ba.dt.burning2>灼燃損傷</>",
+      "場上幹員數量不低於4時，自身每秒回復相當於生命上限1.5%的生命與<$ba.dt.element>元素損傷</>"
+    ]
+  },
+  "char_1044_hsgma2": {
+    "trait_tw": "",
+    "talents_tw": [
+      "生命降至0時進入“我執”：期間不成為其他角色的治療目標，受到的傷害會繼續累積，累積至生命上限的100%時被擊倒，5秒內未受到傷害時，每秒回復5%生命，生命大於0時退出“我執”",
+      "在場時，自身獲得最高+50法術抗性和35%攻擊力的<$ba.berserk>堅忍</>（損失70%生命值時達到最大加成）"
+    ]
+  },
+  "char_264_f12yin": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊時有20%的機率攻擊力提升至140%，並在3秒內使目標攻擊力降低10%（不可疊加）",
+      "防禦力+10%，獲得15%的物理閃避"
+    ]
+  },
+  "char_2024_chyue": {
+    "trait_tw": "",
+    "talents_tw": [
+      "對目標普通攻擊時，有18%的機率使重岳2.5秒內對其造成的傷害提升55%",
+      "若重岳釋放一次技能擊倒不少於一個敵人，則回復3點技力"
+    ]
+  },
+  "char_4037_demetr": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊使目標在10秒內防禦力降低5%（最多疊加5次），並且目標剩餘生命值比例越低自身對其造成的傷害越高，在剩餘20%以下生命值時傷害提高到最高120%",
+      "獲得40%的物理和法術閃避，部署後提高到80%並在20秒內逐漸衰減"
+    ]
+  },
+  "char_172_svrash": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊力+5%，編入隊伍時所有我方單位的再部署時間-5%",
+      "攻擊範圍內敵人的<$ba.invisible>隱匿</>效果失效"
+    ]
+  },
+  "char_293_thorns": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊使目標中毒，在3秒內每秒受到65點法術傷害（會對遠程攻擊的目標傷害加倍）",
+      "如果2秒內沒有主動攻擊過，每秒恢復最大生命3.5%的生命"
+    ]
+  },
+  "char_4082_qiubai": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊處於<$ba.sluggish>停頓</>、<$ba.root>束縛</>的敵人時，額外造成相當於攻擊力25%的法術傷害",
+      "攻擊時有20%的機率使目標<$ba.root>束縛</>1.5秒"
+    ]
+  },
+  "char_4182_oblvns": {
+    "trait_tw": "",
+    "talents_tw": [
+      "豐川祥子可以<$ba.permanentatk>持續攻擊</>且攻擊會演奏追蹤敵人的音符，音符飄出攻擊範圍一段時間後消失",
+      "對敵人造成傷害時使<$ba.fever>Fever</>+1"
+    ]
+  },
+  "char_617_sharp2": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊力+5%，獲得10%的法術閃避",
+      "攻擊範圍內存在2名及以上敵人時，攻擊速度+12"
+    ]
+  },
+  "char_4088_hodrer": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊敵人時攻擊力提升至105%，若目標處於<$ba.stun>暈眩</>、<$ba.root>束縛</>則改為提升至125%",
+      "使自身與身後一格的友軍獲得18%的<$ba.protect>庇護</>"
+    ]
+  },
+  "char_4145_ulpia": {
+    "trait_tw": "",
+    "talents_tw": [
+      "每次受到傷害時，治療自身80點生命值；生命值低於50%時，治療效果提升至120點生命值",
+      "每次擊倒一名敵人時，自身的生命上限提高120，攻擊力提高30，最多疊加9次，其他【深海獵人】幹員獲得50%的提高效果"
+    ]
+  },
+  "char_4058_pepe": {
+    "trait_tw": "攻擊使目標周圍的其他敵人受到相當於攻擊力<@ba.kw>{attack@atk_scale_2:0%}</>的<@ba.kw>群體</>物理傷害",
+    "talents_tw": [
+      "技能期間每擊倒1名敵人，技能結束時獲得1點技力，最多回復10點",
+      "在場時，所有【近衛】幹員的攻擊力+16%"
+    ]
+  },
+  "char_1051_headb2": {
+    "trait_tw": "攻擊使目標周圍的其他敵人受到相當於攻擊力<@ba.kw>{attack@atk_scale_2:0%}</>的<@ba.kw>群體</>物理傷害",
+    "talents_tw": [
+      "特性濺射造成的物理傷害提升24%，且濺射到的每個高台對周圍四格所有地面敵人造成相當於攻擊力24%的物理傷害",
+      "技能期間所有場上幹員攻擊力和防禦力+14%，【烏薩斯學生自治團】幹員獲得加成效果翻倍"
+    ]
+  },
+  "char_010_chen": {
+    "trait_tw": "",
+    "talents_tw": [
+      "在場時每5秒回復全場友方角色1點攻擊/受擊技力",
+      "攻擊力+5%，防禦力+5%，物理閃避+10%"
+    ]
+  },
+  "char_4009_irene": {
+    "trait_tw": "",
+    "talents_tw": [
+      "對敵人造成物理傷害時有50%機率無視其30%防禦力，對空中單位機率提升至100%",
+      "攻擊速度+18，場上有【海怪】敵人時效果翻倍"
+    ]
+  },
+  "char_4116_blkkgt": {
+    "trait_tw": "",
+    "talents_tw": [
+      "造成傷害時有10%的機率攻擊力提升至130%，並使目標<$ba.tremble>戰慄</>5秒",
+      "攻擊被<$ba.tremble>戰慄</>的目標時，無視目標25%的防禦力"
+    ]
+  },
+  "char_017_huang": {
+    "trait_tw": "",
+    "talents_tw": [
+      "在生命值低於25%時，僅一次回復50%的生命值並在3秒內使生命值不低於50%",
+      "在戰場停留15秒後獲得<$ba.buffres>抵抗</>"
+    ]
+  },
+  "char_1026_gvial2": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊力和防禦力提升5%，每再阻擋一個敵人提升3%",
+      "受到的治療效果提升20%，生命值低於一半時提升至40%"
+    ]
+  },
+  "char_350_surtr": {
+    "trait_tw": "",
+    "talents_tw": [
+      "無視攻擊目標12法術抗性",
+      "受到致命傷害時持續使生命值不低於1，4秒後強制退出戰場"
+    ]
+  },
+  "char_4098_vvana": {
+    "trait_tw": "",
+    "talents_tw": [
+      "造成的法術傷害+5%，受到的物理和法術傷害-5%。攻擊範圍內存在精英或領袖敵人時，該效果提升至2倍",
+      "攻擊精英或領袖敵人時，有18%機率獲得一層僅抵擋近戰攻擊的<$ba.shield>護盾</>（最多1層）"
+    ]
+  },
+  "char_1019_siege2": {
+    "trait_tw": "",
+    "talents_tw": [
+      "自身與周圍8格友方單位受到的物理傷害減少12%，且此範圍內每個友方單位使維娜攻擊力+3%",
+      "對每個敵人首次造成傷害時，使其<$ba.tremble>戰慄</>4秒"
+    ]
+  },
+  "char_1050_chen3": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊力+8%，攻擊速度+8，攻擊變為<$ba.weaknessatk>弱點傷害</>",
+      "未受到傷害時，每7秒隨機治療自身一定（攻擊力的30%~160%）生命值，並閃避下次物理與法術攻擊"
+    ]
+  },
+  "char_188_helage": {
+    "trait_tw": "不成為其他角色的治療目標，每次攻擊到敵人後回復自身<@ba.kw>{value}</>生命（精英1後更新）",
+    "talents_tw": [
+      "在場時，自身獲得最高+50攻擊速度的<$ba.berserk>堅忍</>（損失50%生命值時達到最大加成）",
+      "未阻擋敵人時每秒回復60生命"
+    ]
+  },
+  "char_4121_zuole": {
+    "trait_tw": "不成為其他角色的治療目標，每次攻擊到敵人後回復自身<@ba.kw>{value}</>生命（精英1後更新）",
+    "talents_tw": [
+      "在場時，自身獲得最高+30攻擊速度和技力自然回復速度+0.5/秒的<$ba.berserk>堅忍</>（損失50%生命值時達到最大加成）",
+      "攻擊時有20%的機率獲得1點技力，生命低於50%時機率變為70%"
+    ]
+  },
+  "char_485_pallas": {
+    "trait_tw": "",
+    "talents_tw": [
+      "在場時，所有【米諾斯】幹員生命值高於80%時獲得+15%攻擊力的<$ba.strong>精力充沛</>",
+      "每攻擊一名敵人時為自身與身前一格的我方幹員恢復40點生命值"
+    ]
+  },
+  "char_1014_nearl2": {
+    "trait_tw": "",
+    "talents_tw": [
+      "部署時對周圍四格敵人造成50%攻擊力的真實傷害並<$ba.stun>暈眩</>2秒，上一名部署幹員勢力為【卡西米爾】時額外造成一次傷害",
+      "攻擊無視敵人20%的防禦力"
+    ]
+  },
+  "char_4011_lessng": {
+    "trait_tw": "",
+    "talents_tw": [
+      "阻擋時，受到來自非自身阻擋敵人的物理和法術傷害降低20%",
+      "受到傷害後，攻擊力+12%，持續15秒（不可疊加）"
+    ]
+  },
+  "char_609_acguad": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊力+5%，獲得10%的物理閃避",
+      "在戰場停留30秒後，自身攻擊速度+10"
+    ]
+  },
+  "char_1032_excu2": {
+    "trait_tw": "無法被友方角色治療，攻擊造成<@ba.kw>群體傷害</>，每攻擊到一個敵人回復自身<@ba.kw>{value}</>生命，最大生效數等於阻擋數",
+    "talents_tw": [
+      "攻擊時有10%機率額外攻擊一次，技能期間每消耗1顆彈藥這個機率提升3%，技能結束時重置",
+      "每有一個【拉特蘭】幹員在場，自身的彈藥類技能彈藥上限+1（最多4層）"
+    ]
+  },
+  "char_4010_etlchi": {
+    "trait_tw": "無法被友方角色治療，攻擊造成<@ba.kw>群體傷害</>，每攻擊到一個敵人回復自身<@ba.kw>{value}</>生命，最大生效數等於阻擋數",
+    "talents_tw": [
+      "每次攻擊敵人時<$ba.steal>偷取</>目標50點生命上限（最高900）並使目標每秒受到100點法術傷害持續5秒",
+      "生命值低於25%時，僅一次立刻回復50%最大生命值，且自身之後受到的物理傷害降低10%"
+    ]
+  },
+  "char_4064_mlynar": {
+    "trait_tw": "通常不攻擊且阻擋數為0，技能未開啟時<@ba.kw>{max_stack_cnt}</>秒內攻擊力逐漸提升至最高<@ba.kw>+{atk:0%}</>且技能結束時重置攻擊力",
+    "talents_tw": [
+      "攻擊敵人時攻擊力提升至105%。周圍存在3名及以上敵人時攻擊力提升至110%且受到的傷害減少10%",
+      "在場時，自身更容易受到攻擊，所有卡西米爾幹員被攻擊時反彈相當於瑪恩納攻擊力15%的真實傷害"
+    ]
+  },
+  "char_1043_leizi2": {
+    "trait_tw": "通常不攻擊且阻擋數為0，技能未開啟時<@ba.kw>{max_stack_cnt}</>秒內攻擊力逐漸提升至最高<@ba.kw>+{atk:0%}</>且技能結束時重置攻擊力",
+    "talents_tw": [
+      "攻擊範圍內地塊每秒有10%的機率落雷造成相當於攻擊力50%的法術傷害。未開啟技能時<$ba.liftoff>起飛</>",
+      "開啟技能時，使攻擊範圍內所有地面地塊落雷，對所有敵人造成相當於攻擊力100%的法術傷害和2秒<$ba.tremble>戰慄</>"
+    ]
+  },
+  "char_4214_cairn": {
+    "trait_tw": "",
+    "talents_tw": [
+      "對自身阻擋的敵人每秒造成相當於攻擊力4%的<$ba.dt.neural2>神經損傷</>"
+    ]
+  },
+  "token_10001_deepcl_tentac": {
+    "trait_tw": "",
+    "talents_tw": [
+      "token數+1"
+    ]
+  },
+  "token_10002_kalts_mon3tr": {
+    "trait_tw": "",
+    "talents_tw": [
+      "可以被凱爾希治療，不在凱爾希攻擊範圍內時防禦力降至0",
+      "被擊倒後（不包括撤退）使周圍8格內所有敵人暈眩3秒並對其造成1200點真實傷害"
+    ]
+  },
+  "token_10003_cgbird_bird": {
+    "trait_tw": "",
+    "talents_tw": [
+      "擁有75法術抗性和30%的物理閃避，並且更容易吸引敵人的攻擊，同時每秒流失3%的最大生命"
+    ]
+  },
+  "token_10004_otter_motter": {
+    "trait_tw": "",
+    "talents_tw": [
+      "使阻擋的敵人攻擊速度-10"
+    ]
+  },
+  "token_10005_mgllan_drone1": {
+    "trait_tw": "",
+    "talents_tw": [
+      "TOKEN數+3",
+      "部署後<$ba.invisible>隱匿</>12秒"
+    ]
+  },
+  "token_10005_mgllan_drone2": {
+    "trait_tw": "",
+    "talents_tw": [
+      "TOKEN數+3",
+      "部署後<$ba.invisible>隱匿</>12秒"
+    ]
+  },
+  "token_10005_mgllan_drone3": {
+    "trait_tw": "",
+    "talents_tw": [
+      "TOKEN數+3",
+      "部署後<$ba.invisible>隱匿</>12秒"
+    ]
+  },
+  "token_10007_phatom_twin": {
+    "trait_tw": "",
+    "talents_tw": [
+      "可以使用一個虛影，虛影擁有和自己一樣的技能，擁有獨立的再部署時間",
+      "再部署時間-10秒"
+    ]
+  },
+  "token_10008_cqbw_box": {
+    "trait_tw": "",
+    "talents_tw": [
+      "-"
+    ]
+  },
+  "token_10009_weedy_cannon": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊時會將目標小力度地推開，部署後持續15秒",
+      "普通攻擊和技能的推力增加一級，且在溫蒂周圍4格內時令其每3秒獲得1點技力"
+    ]
+  },
+  "token_10010_folivo_car": {
+    "trait_tw": "",
+    "talents_tw": [
+      "-"
+    ]
+  },
+  "token_10011_beewax_oblisk": {
+    "trait_tw": "",
+    "talents_tw": [
+      "-"
+    ]
+  },
+  "token_10012_rosmon_shield": {
+    "trait_tw": "",
+    "talents_tw": [
+      "-"
+    ]
+  },
+  "token_10014_bstalk_crab": {
+    "trait_tw": "",
+    "talents_tw": [
+      "被擊敗後會在20秒後自動刷新"
+    ]
+  },
+  "token_10015_dusk_drgn": {
+    "trait_tw": "",
+    "talents_tw": [
+      "-"
+    ]
+  },
+  "token_10017_skadi2_dedant": {
+    "trait_tw": "不會受到攻擊",
+    "talents_tw": [
+      "部署後持續15秒",
+      "-"
+    ]
+  },
+  "token_10018_robrta_mach": {
+    "trait_tw": "不會受到攻擊",
+    "talents_tw": [
+      "使一名近戰位上的單位防禦力+10%並獲得1層<$ba.shield>護盾</>（持續15秒，防禦加成不疊加）"
+    ]
+  },
+  "token_10019_nearl2_sword": {
+    "trait_tw": "",
+    "talents_tw": [
+      "-"
+    ]
+  },
+  "token_10020_ling_soul1": {
+    "trait_tw": "",
+    "talents_tw": [
+      "TOKEN數+3"
+    ]
+  },
+  "token_10020_ling_soul2": {
+    "trait_tw": "",
+    "talents_tw": [
+      "TOKEN數+3"
+    ]
+  },
+  "token_10020_ling_soul3": {
+    "trait_tw": "",
+    "talents_tw": [
+      "TOKEN數+3"
+    ]
+  },
+  "token_10021_blkngt_hypnos": {
+    "trait_tw": "",
+    "talents_tw": [
+      "被擊敗後會在20秒後自動刷新"
+    ]
+  },
+  "token_10022_kazema_shadow": {
+    "trait_tw": "",
+    "talents_tw": [
+      "-"
+    ]
+  },
+  "token_10023_windft_wrench": {
+    "trait_tw": "不會受到攻擊",
+    "talents_tw": [
+      "僅對術師和輔助幹員生效，使裝備者攻擊力+5%（持續20秒）"
+    ]
+  },
+  "token_10041_cathy_catsld": {
+    "trait_tw": "不會受到攻擊",
+    "talents_tw": [
+      "使攻擊範圍內一名友方幹員獲得相當於凱瑟琳生命上限10%的<$ba.barrier>屏障</>（若目標最近5秒內未受攻擊，則每秒補充相當於凱瑟琳生命上限6%的<$ba.barrier>屏障</>，不超過初始上限），裝置效果不疊加，持續時間無限"
+    ]
+  },
+  "token_10045_alanna_crane": {
+    "trait_tw": "不會受到攻擊",
+    "talents_tw": [
+      "使攻擊範圍內一名幹員攻擊敵人時無視其40點防禦力（持續30秒），裝置效果不疊加"
+    ]
+  },
+  "token_10024_ebnhlz_rcube": {
+    "trait_tw": "",
+    "talents_tw": [
+      "-"
+    ]
+  },
+  "token_10026_bgsnow_subbow": {
+    "trait_tw": "",
+    "talents_tw": [
+      "-",
+      "“打字機”的攻擊會使命中目標的防禦力下降18%，持續4秒；若“打字機”放在鴻雪周圍四格則效果提升至23%"
+    ]
+  },
+  "token_10027_ironmn_pile1": {
+    "trait_tw": "",
+    "talents_tw": [
+      "使攻擊範圍內一名友方幹員的攻擊力+12%，持續時間無限"
+    ]
+  },
+  "token_10027_ironmn_pile2": {
+    "trait_tw": "",
+    "talents_tw": [
+      "使攻擊範圍內一名友方幹員每3.5秒額外獲得1點技力，每秒流失0.4%生命，持續時間無限"
+    ]
+  },
+  "token_10027_ironmn_pile3": {
+    "trait_tw": "可被我方幹員攻擊但不受傷害，受到工匠幹員攻擊時回復生命",
+    "talents_tw": [
+      "使身後一格友方幹員受到的物理傷害減少20%，持續時間無限"
+    ]
+  },
+  "token_10028_vigil_wolf": {
+    "trait_tw": "只能部署在召喚者攻擊範圍內",
+    "talents_tw": [
+      "每30秒增加一隻“狼影”（至多3隻），每存在一隻“狼影”，狼群阻擋數+1，每次攻擊額外造成一次傷害；當存在多於1隻“狼影”時，受到致命傷害時損失一隻“狼影”但回復所有生命",
+      "攻擊阻擋的目標時無視其175的防禦力"
+    ]
+  },
+  "token_10029_slent2_protrb": {
+    "trait_tw": "",
+    "talents_tw": [
+      "使攻擊範圍內的友軍獲得8%的<$ba.protect>庇護</>，友軍的生命越低該效果越強（低於30%生命時獲得最大15%的<$ba.protect>庇護</>）"
+    ]
+  },
+  "token_10030_mlyss_wtrman": {
+    "trait_tw": "",
+    "talents_tw": [
+      "技能開啟時複製目標50%的生命值、攻擊力、防禦力、法抗，以及阻擋數、攻擊間隔、攻擊範圍、初始傷害類型（不攻擊、治療類型則不繼承）"
+    ]
+  },
+  "token_10032_jesca2_jckshd": {
+    "trait_tw": "",
+    "talents_tw": [
+      "更容易受到傷害"
+    ]
+  },
+  "token_10034_ray_sndbst": {
+    "trait_tw": "不會受到攻擊，只能部署在召喚者攻擊範圍內",
+    "talents_tw": [
+      "部署後偵察周圍區域延伸萊伊的攻擊範圍，持續15秒",
+      "-"
+    ]
+  },
+  "token_10033_ela_grzmot": {
+    "trait_tw": "",
+    "talents_tw": [
+      "-"
+    ]
+  },
+  "token_10039_ulpia_block": {
+    "trait_tw": "",
+    "talents_tw": [
+      "-"
+    ]
+  },
+  "token_10037_mitm_trshrb": {
+    "trait_tw": "",
+    "talents_tw": [
+      "作為小車形態存在時被擊敗後會在20秒後自動重置；作為殘骸形態存在時可以阻擋1個敵人"
+    ]
+  },
+  "token_10036_lasher_mcbird": {
+    "trait_tw": "",
+    "talents_tw": [
+      "對機械敵人傷害提升10%"
+    ]
+  },
+  "token_10040_siege2_vlion": {
+    "trait_tw": "",
+    "talents_tw": [
+      "-"
+    ]
+  },
+  "token_10050_monstr_prosts": {
+    "trait_tw": "自身生命會不斷流失",
+    "talents_tw": []
+  },
+  "token_10054_phatm2_encdool": {
+    "trait_tw": "",
+    "talents_tw": [
+      "-"
+    ]
+  },
+  "token_10057_svash2_eagle1": {
+    "trait_tw": "",
+    "talents_tw": [
+      "使左側的幹員初始技力增加，再部署時間減少"
+    ]
+  },
+  "token_10057_svash2_eagle2": {
+    "trait_tw": "",
+    "talents_tw": [
+      "使左側的幹員初始技力增加，再部署時間減少"
+    ]
+  },
+  "token_10057_svash2_eagle3": {
+    "trait_tw": "",
+    "talents_tw": [
+      "使左側的幹員初始技力增加，再部署時間減少"
+    ]
+  },
+  "token_10059_nasti_nstdef": {
+    "trait_tw": "",
+    "talents_tw": [
+      "使前方幹員的防禦力+17%"
+    ]
+  },
+  "token_10060_nasti_nstchr": {
+    "trait_tw": "",
+    "talents_tw": [
+      "最大生命值固定為6，部署時生命值為1，僅可透過自身技能補充生命"
+    ]
+  },
+  "token_10061_nasti_nstbld": {
+    "trait_tw": "",
+    "talents_tw": [
+      "部署時在前方可部署地面生成高台裝置（最多存在1個）；使前方高台裝置每秒回復1%最大生命值，但自身流失2%最大生命值，娜斯提技能期間回復效果翻倍"
+    ]
+  },
+  "token_10065_demetr_dmtpos": {
+    "trait_tw": "",
+    "talents_tw": [
+      "-"
+    ]
+  },
+  "trap_008_farm": {
+    "trait_tw": "",
+    "talents_tw": [
+      "摧毀時扣除1點關卡生命值"
+    ]
+  },
+  "trap_009_battery": {
+    "trait_tw": "",
+    "talents_tw": [
+      "每4秒回復友方單位3點技力"
+    ]
+  },
+  "trap_012_mine": {
+    "trait_tw": "",
+    "talents_tw": [
+      "-"
+    ]
+  },
+  "trap_016_peon": {
+    "trait_tw": "",
+    "talents_tw": [
+      "-"
+    ]
+  },
+  "trap_028_cannon": {
+    "trait_tw": "",
+    "talents_tw": [
+      "-"
+    ]
+  },
+  "trap_029_poison": {
+    "trait_tw": "",
+    "talents_tw": [
+      "-"
+    ]
+  },
+  "trap_030_factory": {
+    "trait_tw": "",
+    "talents_tw": [
+      "-"
+    ]
+  },
+  "trap_031_sleep": {
+    "trait_tw": "",
+    "talents_tw": [
+      "-"
+    ]
+  },
+  "trap_032_mound": {
+    "trait_tw": "",
+    "talents_tw": [
+      "-"
+    ]
+  },
+  "trap_033_sbomb": {
+    "trait_tw": "",
+    "talents_tw": [
+      "-"
+    ]
+  },
+  "trap_037_airsup": {
+    "trait_tw": "",
+    "talents_tw": [
+      "-"
+    ]
+  },
+  "trap_038_dsbell": {
+    "trait_tw": "",
+    "talents_tw": [
+      "-"
+    ]
+  },
+  "trap_039_dstnta": {
+    "trait_tw": "",
+    "talents_tw": [
+      "-"
+    ]
+  },
+  "trap_043_dupilr": {
+    "trait_tw": "",
+    "talents_tw": [
+      "可被相鄰的我方單位攻擊"
+    ]
+  },
+  "trap_045_dublst": {
+    "trait_tw": "",
+    "talents_tw": [
+      "部署後立即爆炸，對前方一格造成傷害並小力度推動敵人，直接擊倒前方一格的戰場支柱"
+    ]
+  },
+  "trap_048_neonlamp": {
+    "trait_tw": "",
+    "talents_tw": [
+      "-"
+    ]
+  },
+  "trap_054_dancdol": {
+    "trait_tw": "",
+    "talents_tw": [
+      "使周圍的我方單位攻擊力下降"
+    ]
+  },
+  "trap_056_sfsuifire": {
+    "trait_tw": "",
+    "talents_tw": [
+      "-"
+    ]
+  },
+  "trap_057_wpnsts": {
+    "trait_tw": "",
+    "talents_tw": [
+      "-"
+    ]
+  },
+  "trap_058_gunctrl": {
+    "trait_tw": "",
+    "talents_tw": [
+      "-"
+    ]
+  },
+  "trap_075_bgarmn": {
+    "trait_tw": "",
+    "talents_tw": [
+      "-"
+    ]
+  },
+  "trap_076_bgarms": {
+    "trait_tw": "",
+    "talents_tw": [
+      "-"
+    ]
+  },
+  "trap_077_rmtarmn": {
+    "trait_tw": "",
+    "talents_tw": [
+      "-"
+    ]
+  },
+  "trap_078_rmtarms": {
+    "trait_tw": "",
+    "talents_tw": [
+      "-"
+    ]
+  },
+  "char_230_savage": {
+    "trait_tw": "",
+    "talents_tw": [
+      "周圍四格中有兩格以上的高地地形時攻擊力和防禦力+5%"
+    ]
+  },
+  "char_282_catap": {
+    "trait_tw": "",
+    "talents_tw": [
+      "自身部署費用-1"
+    ]
+  },
+  "char_283_midn": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊時，10%機率當次攻擊的攻擊力提升至150%"
+    ]
+  },
+  "char_137_brownb": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊相同目標時每次攻擊可提高自身攻擊力3%，最多可疊加5層。更換目標會失去之前疊加的效果"
+    ]
+  },
+  "char_347_jaksel": {
+    "trait_tw": "",
+    "talents_tw": [
+      "獲得15%的物理閃避，閃避成功後攻擊速度+6（持續5秒，不可疊加）"
+    ]
+  },
+  "char_164_nightm": {
+    "trait_tw": "",
+    "talents_tw": [
+      "裝備技能1時獲得20%的物理和法術閃避，裝備技能2時獲得+9%攻擊力"
+    ]
+  },
+  "char_220_grani": {
+    "trait_tw": "",
+    "talents_tw": [
+      "在場時，所有【先鋒】職業幹員獲得10%的物理閃避"
+    ]
+  },
+  "char_263_skadi": {
+    "trait_tw": "",
+    "talents_tw": [
+      "編入隊伍時，所有【深海獵人】幹員的攻擊力+7%",
+      "自身再部署時間-10秒"
+    ]
+  },
+  "trap_066_rarebox": {
+    "trait_tw": "",
+    "talents_tw": [
+      "-"
+    ]
+  },
+  "trap_068_badbox": {
+    "trait_tw": "",
+    "talents_tw": [
+      "-"
+    ]
+  },
+  "trap_067_dice": {
+    "trait_tw": "部署時消耗<@ba.vup>1</>擲骰次數，部署後根據擲骰結果使敵人的速度在<@ba.vup>15</>秒內降低，點數越大，效果越強\n每場戰鬥僅可使用<@ba.vup>1</>次骰子",
+    "talents_tw": [
+      "場上所有敵人攻擊速度<@ba.vup>-20</>，移動速度<@ba.vup>-50%</>",
+      "場上所有敵人攻擊速度<@ba.vup>-30</>，移動速度<@ba.vup>-70%</>"
+    ]
+  },
+  "trap_088_dice2": {
+    "trait_tw": "部署時消耗<@ba.vup>1</>擲骰次數，部署後根據擲骰結果使敵人的速度在<@ba.vup>15</>秒內降低，可能<@ba.vup>減少</>我方再部署時間，點數越大，效果越強\n每場戰鬥僅可使用<@ba.vup>1</>次骰子",
+    "talents_tw": [
+      "場上所有敵人攻擊速度<@ba.vup>-20</>，移動速度<@ba.vup>-50%</>",
+      "場上所有敵人攻擊速度<@ba.vup>-30</>，移動速度<@ba.vup>-70%</>",
+      "場上所有敵人攻擊速度<@ba.vup>-40</>，移動速度<@ba.vup>-80%</>；當前再部署時間<@ba.vup>減半</>"
+    ]
+  },
+  "trap_089_dice3": {
+    "trait_tw": "部署時消耗<@ba.vup>1</>擲骰次數，部署後根據擲骰結果使敵人的速度在<@ba.vup>15</>秒內降低，可能<@ba.vup>清除</>我方再部署時間，點數越大，效果越強\n每場戰鬥僅可使用<@ba.vup>1</>次骰子",
+    "talents_tw": [
+      "場上所有敵人攻擊速度<@ba.vup>-20</>，移動速度<@ba.vup>-50%</>",
+      "場上所有敵人攻擊速度<@ba.vup>-30</>，移動速度<@ba.vup>-70%</>",
+      "場上所有敵人攻擊速度<@ba.vup>-40</>，移動速度<@ba.vup>-80%</>；當前再部署時間<@ba.vup>減半</>",
+      "場上所有敵人攻擊速度<@ba.vup>-40</>，移動速度<@ba.vup>-80%</>；<@ba.vup>清除</>當前再部署時間"
+    ]
+  },
+  "trap_093_tbattbc": {
+    "trait_tw": "",
+    "talents_tw": [
+      "\"暴食之果\"的攻擊力與防禦力大幅提升(可疊加)"
+    ]
+  },
+  "trap_094_tbpsnc": {
+    "trait_tw": "",
+    "talents_tw": [
+      "使全場所有友方單位每秒受到<@ba.vup>15</>點真實傷害(可疊加)"
+    ]
+  },
+  "trap_095_tbsmmc": {
+    "trait_tw": "",
+    "talents_tw": [
+      "\"暴食之果\"呼喚夥伴幫助自己(每次使用都會呼喚更強的夥伴)"
+    ]
+  },
+  "trap_086_larva": {
+    "trait_tw": "被摧毀時生成食腐使徒，其屬性隨關卡進度成長",
+    "talents_tw": []
+  },
+  "trap_096_gflag": {
+    "trait_tw": "",
+    "talents_tw": [
+      "在場時，強化所有敵軍的攻擊速度與移動速度"
+    ]
+  },
+  "trap_109_smrbox": {
+    "trait_tw": "",
+    "talents_tw": [
+      "-"
+    ]
+  },
+  "trap_700_cdabyss": {
+    "trait_tw": "",
+    "talents_tw": [
+      "所有深海獵人幹員的戰術裝備上限+3"
+    ]
+  },
+  "trap_701_cdabyssa": {
+    "trait_tw": "",
+    "talents_tw": [
+      "所有深海獵人幹員的戰術裝備上限+5，每次獲得戰術裝備時額外獲得一件"
+    ]
+  },
+  "trap_702_cdabyssb": {
+    "trait_tw": "",
+    "talents_tw": [
+      "所有深海獵人幹員的戰術裝備上限+3"
+    ]
+  },
+  "trap_703_cdcredit": {
+    "trait_tw": "戰鬥開始時一定出現在待部署區",
+    "talents_tw": []
+  },
+  "trap_704_cdcredita": {
+    "trait_tw": "戰鬥開始時一定出現在待部署區",
+    "talents_tw": []
+  },
+  "trap_705_cdcreditb": {
+    "trait_tw": "戰鬥開始時一定出現在待部署區",
+    "talents_tw": [
+      "有幹員進入求援時立刻抽一張牌（每場戰鬥最多觸發3次）"
+    ]
+  },
+  "trap_713_cdflsb": {
+    "trait_tw": "戰鬥開始時不出現在待部署區",
+    "talents_tw": []
+  },
+  "trap_433_sandsdr": {
+    "trait_tw": "攻擊造成<@ba.kw>法術傷害</>，且會在<@ba.kw>{attack@max_target}</>個敵人間跳躍，每次跳躍傷害降低15%並造成短暫<$ba.sluggish>停頓</>",
+    "talents_tw": []
+  },
+  "trap_723_cdcvrt": {
+    "trait_tw": "戰鬥開始時一定出現在待部署區",
+    "talents_tw": []
+  },
+  "trap_724_cdcvrta": {
+    "trait_tw": "戰鬥開始時一定出現在待部署區",
+    "talents_tw": []
+  },
+  "trap_725_cdcvrtb": {
+    "trait_tw": "戰鬥開始時一定出現在待部署區",
+    "talents_tw": []
+  },
+  "trap_735_platre": {
+    "trait_tw": "",
+    "talents_tw": [
+      "死亡給boss扣屬性",
+      "真傷+神經損傷光環"
+    ]
+  },
+  "trap_739_sniper": {
+    "trait_tw": "戰鬥開始時一定出現在待部署區",
+    "talents_tw": []
+  },
+  "trap_740_snipera": {
+    "trait_tw": "戰鬥開始時一定出現在待部署區",
+    "talents_tw": []
+  },
+  "trap_741_sniperb": {
+    "trait_tw": "戰鬥開始時一定出現在待部署區",
+    "talents_tw": []
+  },
+  "trap_742_gasbot": {
+    "trait_tw": "更容易受到攻擊；戰鬥開始時一定出現在待部署區",
+    "talents_tw": []
+  },
+  "trap_743_gasbota": {
+    "trait_tw": "更容易受到攻擊；戰鬥開始時一定出現在待部署區",
+    "talents_tw": []
+  },
+  "trap_744_gasbotb": {
+    "trait_tw": "更容易受到攻擊；戰鬥開始時一定出現在待部署區",
+    "talents_tw": [
+      "周圍的敵人在寒冷、冰凍、暈眩、束縛、浮空、停頓狀態下被擊倒時，回復<@ba.vup>15%</>最大生命值"
+    ]
+  },
+  "trap_746_cdrhine": {
+    "trait_tw": "戰鬥開始時一定出現在待部署區",
+    "talents_tw": []
+  },
+  "trap_747_cdrhinea": {
+    "trait_tw": "戰鬥開始時一定出現在待部署區",
+    "talents_tw": []
+  },
+  "trap_748_cdrhineb": {
+    "trait_tw": "戰鬥開始時一定出現在待部署區",
+    "talents_tw": []
+  },
+  "trap_749_cd1punch": {
+    "trait_tw": "位於身後一格的我方角色享受<@ba.vup>2</>倍物理傷害提高效果；戰鬥開始時一定出現在待部署區",
+    "talents_tw": []
+  },
+  "trap_750_cd1puncha": {
+    "trait_tw": "位於身後一格的我方角色享受<@ba.vup>4</>倍物理傷害提高效果；戰鬥開始時一定出現在待部署區",
+    "talents_tw": []
+  },
+  "trap_751_cd1punchb": {
+    "trait_tw": "位於身後一格的我方角色享受<@ba.vup>2</>倍物理傷害提高效果；戰鬥開始時一定出現在待部署區",
+    "talents_tw": []
+  },
+  "trap_752_cdcaster": {
+    "trait_tw": "戰鬥開始時一定出現在待部署區",
+    "talents_tw": []
+  },
+  "trap_753_cdcastera": {
+    "trait_tw": "戰鬥開始時一定出現在待部署區",
+    "talents_tw": []
+  },
+  "trap_754_cdcasterb": {
+    "trait_tw": "攻擊範圍內每有一個敵人倒下，回復<@ba.vup>1500</>生命值；戰鬥開始時一定出現在待部署區",
+    "talents_tw": []
+  },
+  "trap_755_cdsoul": {
+    "trait_tw": "",
+    "talents_tw": [
+      "“哀慟賦格”期間，未被部署時每<@ba.vup>2</>秒扣除<@ba.vup>1</>點部署費用，在場時使“織鬱伯爵”攻擊力上升，被擊倒時使“織鬱伯爵”受到<@ba.vup>20000</>點真實傷害"
+    ]
+  },
+  "trap_459_xblight": {
+    "trait_tw": "",
+    "talents_tw": [
+      "可以偵查範圍內的視野"
+    ]
+  },
+  "trap_460_xbdiam": {
+    "trait_tw": "可被採集",
+    "talents_tw": []
+  },
+  "trap_141_sheltr": {
+    "trait_tw": "",
+    "talents_tw": [
+      "被加固過的封阻物，擁有更高的生命和防禦"
+    ]
+  },
+  "trap_142_barrel": {
+    "trait_tw": "",
+    "talents_tw": [
+      "被擊破時對周圍所有單位造成3000點物理傷害，並使目標暈眩5秒"
+    ]
+  },
+  "trap_148_amblls": {
+    "trait_tw": "",
+    "talents_tw": [
+      "當“阿米婭”發動【永恆塵埃】時，自身會旋轉並改變攻擊方向，被擊破時對“阿米婭”造成傷害最大生命值10%的傷害"
+    ]
+  },
+  "trap_151_muruinw": {
+    "trait_tw": "",
+    "talents_tw": [
+      "維護完成後可以使遠程位幹員部署其上"
+    ]
+  },
+  "trap_152_muruino": {
+    "trait_tw": "",
+    "talents_tw": [
+      "維護完成後可以形成一個<城防屏障>"
+    ]
+  },
+  "trap_154_mugtps": {
+    "trait_tw": "",
+    "talents_tw": [
+      "可以反彈<足球>"
+    ]
+  },
+  "trap_165_muftbl": {
+    "trait_tw": "",
+    "talents_tw": [
+      "部署以指定重新發球的位置"
+    ]
+  },
+  "trap_166_muwork": {
+    "trait_tw": "",
+    "talents_tw": [
+      "部署後建造面前一格的<原料箱>，建造完成後使其生效"
+    ]
+  },
+  "trap_167_muruinf": {
+    "trait_tw": "",
+    "talents_tw": [
+      "維護完成後，可部署上限+1"
+    ]
+  },
+  "trap_169_muruinb": {
+    "trait_tw": "",
+    "talents_tw": [
+      "維護完成後，每輪休整時間額外獲得1位<折疊設施維護員>"
+    ]
+  },
+  "trap_155_aegiret": {
+    "trait_tw": "",
+    "talents_tw": [
+      "周圍4格每有一名友方高台單位，每秒回復1點技力"
+    ]
+  },
+  "trap_760_skztzs": {
+    "trait_tw": "",
+    "talents_tw": [
+      "周圍產生年代印痕，處於年代印痕中的友方單位持續受到凋亡損傷"
+    ]
+  },
+  "trap_761_skzthx": {
+    "trait_tw": "",
+    "talents_tw": [
+      "與特雷西斯，黑冠尊主同時向前砍出劍氣"
+    ]
+  },
+  "trap_762_skztxy": {
+    "trait_tw": "",
+    "talents_tw": [
+      "每隔一段時間召喚尊主的殘影"
+    ]
+  },
+  "trap_766_duelwal": {
+    "trait_tw": "",
+    "talents_tw": [
+      "擊敗難度越高的敵人獲得的獎勵越豐富"
+    ]
+  },
+  "trap_183_sheltk": {
+    "trait_tw": "",
+    "talents_tw": [
+      "被加固過的封阻物，擁有更高的生命和防禦"
+    ]
+  },
+  "trap_171_trpot": {
+    "trait_tw": "",
+    "talents_tw": [
+      "擊殺可食用敵人可獲得食材，投入特殊食材會影響烹飪的飯"
+    ]
+  },
+  "trap_172_trbox": {
+    "trait_tw": "",
+    "talents_tw": [
+      "周圍4格每有一個我方單位，每秒回復1點技力"
+    ]
+  },
+  "trap_173_slfrut": {
+    "trait_tw": "",
+    "talents_tw": [
+      "放入鍋中：使鍋獲得20點食材\n獨享：使幹員獲得20點技力"
+    ]
+  },
+  "trap_174_smfrut": {
+    "trait_tw": "",
+    "talents_tw": [
+      "放入鍋中：使鍋獲得150點食材，開飯後所有我方幹員自動開啟技能，且技能結束後隨機位置再部署（最小間隔10秒）\n獨享：使幹員獲得150點技力，並單獨獲得上述效果"
+    ]
+  },
+  "trap_175_frfrut": {
+    "trait_tw": "",
+    "talents_tw": [
+      "放入鍋中：開飯後所有我方幹員+100%生命上限\n獨享：使幹員+500生命上限"
+    ]
+  },
+  "trap_176_frutwn": {
+    "trait_tw": "",
+    "talents_tw": [
+      "放入鍋中：開飯後所有我方幹員攻擊速度+100，持續30秒，之後攻擊速度-50，持續30秒，後依此循環\n獨享：使幹員單獨獲得上述效果"
+    ]
+  },
+  "trap_177_tentcl": {
+    "trait_tw": "",
+    "talents_tw": [
+      "放入鍋中：開飯後所有我方幹員攻擊力+80%，且每秒回復80點神經損傷\n獨享：使幹員單獨攻擊力+80%，但每秒受到20點神經損傷"
+    ]
+  },
+  "trap_178_trrbox": {
+    "trait_tw": "",
+    "talents_tw": [
+      "周圍4格每有一個我方單位，每秒回復1點技力"
+    ]
+  },
+  "trap_779_skzth": {
+    "trait_tw": "奎隆，摩訶薩埵權化每次攻擊後，尼盧火對周圍所有目標造成法術傷害；尼盧火持續時間結束後，對周圍所有目標造成法術傷害，並使場上攻擊最高的幹員攻擊力大幅下降",
+    "talents_tw": [
+      "每存在一個尼盧火，奎隆，摩訶薩埵權化受到的物理與法術傷害降低，治療後尼盧火消失"
+    ]
+  },
+  "trap_192_archook": {
+    "trait_tw": "在一定範圍內轉動",
+    "talents_tw": []
+  },
+  "trap_195_arcpw": {
+    "trait_tw": "",
+    "talents_tw": [
+      "部署後面前一格我方單位的推拉力增加一級"
+    ]
+  },
+  "trap_202_muworkg": {
+    "trait_tw": "",
+    "talents_tw": [
+      "部署後建造面前一格的<原料箱>，建造完成後使其生效，工作時間很長"
+    ]
+  },
+  "trap_204_mufrtm": {
+    "trait_tw": "",
+    "talents_tw": [
+      "建造完成後，使全部波次結束時出現固定種類的豐碑",
+      "使全部波次結束時出現固定種類的豐碑"
+    ]
+  },
+  "trap_205_mufrfm": {
+    "trait_tw": "",
+    "talents_tw": [
+      "建造完成後，使每個波次開始時獲得額外的設施建築工",
+      "使每個波次開始時獲得額外的設施建築工",
+      "使每個波次開始時獲得更多的設施建築工",
+      "使每個波次開始時獲得更多的設施建築工，且建築工的修建速度增加"
+    ]
+  },
+  "trap_206_mufrbk": {
+    "trait_tw": "",
+    "talents_tw": [
+      "建造完成後，提高幹員部署上限",
+      "提高幹員部署上限",
+      "進一步提高幹員部署上限",
+      "進一步提高幹員部署上限，且幹員的再部署時間大幅減少"
+    ]
+  },
+  "trap_207_mufrwl": {
+    "trait_tw": "",
+    "talents_tw": [
+      "建造完成後，變為可部署遠程幹員的液壓式高台",
+      "可部署遠程幹員的液壓式高台",
+      "可部署遠程幹員的液壓式高台，生命值更高",
+      "可部署遠程幹員的液壓式高台，生命值更高，且部署的幹員攻擊速度提升"
+    ]
+  },
+  "trap_208_mufrst": {
+    "trait_tw": "",
+    "talents_tw": [
+      "建造完成後，變為阻擋敵人的混凝土路障",
+      "阻擋敵人的混凝土路障",
+      "生命值更高的混凝土路障",
+      "生命值更高的混凝土路障，被摧毀時會爆炸傷害周圍的敵人"
+    ]
+  },
+  "trap_209_mufrbs": {
+    "trait_tw": "",
+    "talents_tw": [
+      "建造完成後，提升雙方幹員的屬性",
+      "提升雙方幹員的生命值",
+      "額外提升雙方幹員的攻擊力",
+      "額外提升雙方幹員的技力回復速度"
+    ]
+  },
+  "trap_218_fttree": {
+    "trait_tw": "",
+    "talents_tw": [
+      "每隔15秒向周圍4格的<草毯>生長<樹叢>"
+    ]
+  },
+  "trap_219_fttreant": {
+    "trait_tw": "",
+    "talents_tw": [
+      "每隔15秒向周圍4格的<草毯>生長<樹叢>"
+    ]
+  },
+  "trap_220_ftbone": {
+    "trait_tw": "",
+    "talents_tw": [
+      "被摧毀時對周圍造成<@ba.kw>法術傷害</>和<@ba.kw><$ba.dt.burning2>灼燃損傷</></>"
+    ]
+  },
+  "trap_221_ftshad": {
+    "trait_tw": "",
+    "talents_tw": [
+      "造成傷害時附帶相當於<@ba.vup>40%</>傷害的<@ba.kw><$ba.dt.burning2>灼燃損傷</></>"
+    ]
+  },
+  "trap_222_rgdysm": {
+    "trait_tw": "",
+    "talents_tw": [
+      "自身及自身周圍四格的敵人受到來自雕倀自身周圍四格以外的物理和法術傷害降低75%，經過雕倀自身周圍四格的敵人攻擊速度和移動速度大幅提升；擊破額外獲得4源石錠",
+      "和坎諾特似乎有些奇怪的關係",
+      "-"
+    ]
+  },
+  "trap_224_dyrbox": {
+    "trait_tw": "",
+    "talents_tw": [
+      "-"
+    ]
+  },
+  "trap_239_dyffgd": {
+    "trait_tw": "",
+    "talents_tw": [
+      "選擇遠程幹員與敵人作戰，擊敗難度越高的敵人獲得的獎勵越豐富"
+    ]
+  },
+  "trap_240_dyffdd": {
+    "trait_tw": "",
+    "talents_tw": [
+      "選擇近戰幹員與敵人作戰，擊敗難度越高的敵人獲得的獎勵越豐富"
+    ]
+  },
+  "trap_226_dychss": {
+    "trait_tw": "",
+    "talents_tw": [
+      "對周圍4格的我方單位造成攻擊力100%的法術傷害；周圍4格每有一名我方單位，受到的傷害提高50%；處於“望”周圍時，變換形態並且攻擊造成暈眩"
+    ]
+  },
+  "trap_780_supspt": {
+    "trait_tw": "戰鬥開始時一定出現在待部署區",
+    "talents_tw": []
+  },
+  "trap_781_supspta": {
+    "trait_tw": "戰鬥開始時一定出現在待部署區",
+    "talents_tw": []
+  },
+  "trap_782_supsptb": {
+    "trait_tw": "戰鬥開始時一定出現在待部署區",
+    "talents_tw": []
+  },
+  "trap_235_hlnpcm": {
+    "trait_tw": "",
+    "talents_tw": [
+      "甦醒後，立即回復5部署費用，並使部署幹員單位數+1"
+    ]
+  },
+  "trap_786_fxdtwr": {
+    "trait_tw": "",
+    "talents_tw": [
+      "在場時，攻擊力不斷提升"
+    ]
+  },
+  "trap_270_spawnp": {
+    "trait_tw": "",
+    "talents_tw": [
+      "每隔15秒集結一名礦工游擊隊，最多3名"
+    ]
+  },
+  "trap_1500_lhgras": {
+    "trait_tw": "",
+    "talents_tw": [
+      "部署後立即獲得一些<@ba.drop>培訓手冊</>；部署過5個【草叢】後，場上的【草叢】將變為【花叢】；後續部署的【草叢】也將立即變為【花叢】"
+    ]
+  },
+  "trap_1501_lhpark": {
+    "trait_tw": "",
+    "talents_tw": [
+      "部署後立即獲得更多<@ba.drop>培訓手冊</>；場上每個【花叢】使友方幹員每秒回復1點生命值"
+    ]
+  },
+  "trap_1502_lhrock": {
+    "trait_tw": "",
+    "talents_tw": [
+      "所有幹員最大生命值額外+25；周圍8格每有一個其他【岩石】，最大生命值額外+5；3×3格的【岩石】會形成【山脈】，形成時生成一隻<@ba.enemy>守墓石像</>（擊敗可獲得<@ba.drop>術師和輔助進階信物</>）"
+    ]
+  },
+  "trap_1503_lhshan": {
+    "trait_tw": "",
+    "talents_tw": [
+      "所有幹員最大生命值額外+500，形成時生成一隻<@ba.enemy>守墓石像</>（擊敗可獲得<@ba.drop>術師和輔助進階信物</>）"
+    ]
+  },
+  "trap_1504_lhtree": {
+    "trait_tw": "",
+    "talents_tw": [
+      "所有幹員攻擊力額外+5；連續的三塊【林地】會形成【密林】，形成時生成一隻<@ba.enemy>提亞卡烏勇士</>（擊敗可獲得<@ba.drop>近衛和先鋒進階信物</>）"
+    ]
+  },
+  "trap_1505_lhfrst": {
+    "trait_tw": "",
+    "talents_tw": [
+      "所有幹員攻擊力額外+20，形成時生成一隻<@ba.enemy>提亞卡烏勇士</>（擊敗可獲得<@ba.drop>近衛和先鋒進階信物</>）"
+    ]
+  },
+  "trap_1506_lhhe": {
+    "trait_tw": "",
+    "talents_tw": [
+      "【沃土】使其上的幹員攻擊力與最大生命值+50%，【田地/溫室棚架】產出提高\n被汙染後，所有相連的【河流】與【沃土】均會被汙染；【河流】被汙染後使周圍4格的我方幹員每秒受到傷害，攻擊力+50%；【沃土】被汙染後其上的幹員也會受到此效果影響\n周圍四格有【偵測中心】時，形成【裝卸機】"
+    ]
+  },
+  "trap_1507_lhukmi": {
+    "trait_tw": "",
+    "talents_tw": [
+      "在其上部署【勘探器】以形成【源石礦場】"
+    ]
+  },
+  "trap_1508_lhmine": {
+    "trait_tw": "",
+    "talents_tw": [
+      "擊破後獲得少量<@ba.drop>封裝礦核</>；被擊破3次後形成【源石晶簇】，形成時生成<@ba.enemy>輻能源石蟲</>"
+    ]
+  },
+  "trap_1511_lhfac": {
+    "trait_tw": "",
+    "talents_tw": [
+      "攻擊範圍內每有一個【源石晶簇】，每秒額外獲得1點技力"
+    ]
+  },
+  "trap_1512_lhfarm": {
+    "trait_tw": "",
+    "talents_tw": [
+      "周圍四格有【源石晶簇】時，形成【被汙染的回收爐】"
+    ]
+  },
+  "trap_1514_lhpad": {
+    "trait_tw": "",
+    "talents_tw": [
+      "連續的三塊【田地】可以形成【溫室棚架】，提供更多資源"
+    ]
+  },
+  "trap_1516_lhnat": {
+    "trait_tw": "",
+    "talents_tw": [
+      "每5秒使攻擊範圍內的生產模組獲得1點技力，友方幹員自動開啟技能（效果不可疊加）"
+    ]
+  },
+  "trap_1517_lhcol": {
+    "trait_tw": "",
+    "talents_tw": [
+      "周圍四格有【改良巫術祭壇】時，形成【大圖書館】"
+    ]
+  },
+  "trap_1519_lhrift": {
+    "trait_tw": "",
+    "talents_tw": [
+      "使場上的【荒野村落】都變為【巫術村落】；新部署的【荒野村落】若無其他升級，也將變為【巫術村落】"
+    ]
+  },
+  "trap_1521_lhmagd": {
+    "trait_tw": "",
+    "talents_tw": [
+      "部署於其上的幹員，技能期間攻擊力+100%，此後每次開啟技能此效果降低50%（開啟兩次後失效）"
+    ]
+  },
+  "trap_1522_lhvlg": {
+    "trait_tw": "",
+    "talents_tw": [
+      "3×3格的【先遣偵測器】會形成【偵測中心】；生成的第四代【先遣偵測器】將不再生成新的【先遣偵測器】"
+    ]
+  },
+  "trap_1526_lharen": {
+    "trait_tw": "",
+    "talents_tw": [
+      "部署於其上的幹員每秒回復自身最大生命值的3%"
+    ]
+  },
+  "trap_1527_lhtwer": {
+    "trait_tw": "",
+    "talents_tw": [
+      "部署於其上的幹員，自身不再自然回復技力，但每次造成傷害都使自身攻擊速度+5（上限300）"
+    ]
+  },
+  "trap_1528_lhruin": {
+    "trait_tw": "",
+    "talents_tw": [
+      "被擊破後，將自身所部署地塊變為【崗哨】（可以部署高台單位），並有機率獲得一件<@ba.drop>低級戰術擴充</>"
+    ]
+  },
+  "trap_1529_lhsht": {
+    "trait_tw": "",
+    "talents_tw": [
+      "自身所在格可以部署高台單位\n周圍四格有【藏書館/大圖書館】時，形成【術法崗哨】\n周圍四格有【偵測中心/先遣偵測器】時，形成【警戒崗哨】"
+    ]
+  },
+  "trap_1530_lhcamp": {
+    "trait_tw": "",
+    "talents_tw": [
+      "當攻擊範圍內有以下生產模組時，會變成新的生產模組，擊倒敵人會獲得對應的材料：\n有【先遣偵測器/偵測中心】時，變為【水產村落】，可獲得<@ba.drop>特種和重裝進階信物</>\n有【林地/密林】時，變為【獵戶村落】，可獲得<@ba.drop>狙擊和特種進階信物</>\n有【岩石/山脈】時，變為【山地村落】，可獲得<@ba.drop>重裝和醫療進階信物</>\n有【草叢/花叢】時，變為【牧場村落】，可獲得<@ba.drop>近衛和先鋒進階信物</>\n有【改良巫術祭壇】時，新部署的【荒野村落】若無上述變化，會變為【巫術村落】，可獲得所有<@ba.drop>精英進階信物</>"
+    ]
+  },
+  "trap_1536_lhbat": {
+    "trait_tw": "",
+    "talents_tw": [
+      "周圍四格有【偵測中心】時，形成【衝突圍欄】"
+    ]
+  },
+  "trap_1069_acarm069": {
+    "trait_tw": "",
+    "talents_tw": [
+      "本裝備不會合併為進階品質"
+    ]
+  },
+  "trap_1070_acarm070": {
+    "trait_tw": "",
+    "talents_tw": [
+      "本裝備不會合併為進階品質"
+    ]
+  },
+  "trap_1072_acarm072": {
+    "trait_tw": "",
+    "talents_tw": [
+      "本裝備不會合併為進階品質"
+    ]
+  },
+  "trap_1073_acarm073": {
+    "trait_tw": "",
+    "talents_tw": [
+      "“炎國短刀”→【炎】盟約\n“維式重鎚”系列裝備→【維多利亞】盟約\n“阿戈爾重刃”→【阿戈爾】盟約\n“堅守盾牌”→【堅守】盟約\n“薩爾貢濃茶”→【薩爾貢】盟約\n“不屈彈射器”→【不屈】盟約\n“拉特蘭橋夾”→【拉特蘭】盟約\n“謝拉格不融冰”→【謝拉格】盟約\n“精準狙擊鏡”→【精準】盟約\n“突襲手榴彈”→【突襲】盟約\n“迅捷作戰糧”→【迅捷】盟約\n“卡西米爾競技旗”→【卡西米爾】盟約\n“敘拉古正裝”→【敘拉古】盟約\n“奧術法陣”→【奧術】盟約\n本裝備不會合併為進階品質"
+    ]
+  },
+  "trap_1075_acarm075": {
+    "trait_tw": "",
+    "talents_tw": [
+      "本裝備不會合併為進階品質"
+    ]
+  },
+  "trap_258_rgcssm": {
+    "trait_tw": "",
+    "talents_tw": [
+      "-",
+      "可以被啟動，未啟動時不召喚敵人；自身及自身周圍四格的敵人受到來自古雕倀自身周圍四格以外的物理和法術傷害降低75%，經過古雕倀自身周圍四格的敵人攻擊速度和移動速度大幅提升"
+    ]
+  },
+  "trap_263_murbox": {
+    "trait_tw": "",
+    "talents_tw": [
+      "每次被攻擊扣除<@ba.vdown>10</>點分數"
+    ]
+  },
+  "trap_278_dyfgdd": {
+    "trait_tw": "",
+    "talents_tw": [
+      "選擇幹員與敵人作戰，擊敗難度越高的敵人獲得的獎勵越豐富"
+    ]
+  },
+  "trap_279_pirene": {
+    "trait_tw": "",
+    "talents_tw": [
+      "當相連的所有噴泉水池生命值為滿後，周圍4格地塊進入花香瀰散狀態；\n超過50%的生命值會向相鄰的水位更低的噴泉水池流淌"
+    ]
+  },
+  "trap_328_newlamp": {
+    "trait_tw": "",
+    "talents_tw": [
+      "-"
+    ]
+  },
+  "trap_316_ubtower": {
+    "trait_tw": "",
+    "talents_tw": [
+      "自然狀態下每隔15秒順時針轉動90°；\n每次攻擊提高300點攻擊力，最多疊加15次，旋轉後重置"
+    ]
+  },
+  "trap_317_ubprison": {
+    "trait_tw": "",
+    "talents_tw": [
+      "擊破後，給予3個偽裝工具以及10點部署費用"
+    ]
+  },
+  "trap_318_ubodst": {
+    "trait_tw": "使被影響的單位潛伏30秒，其間無法被選中也不會阻擋敵對單位",
+    "talents_tw": []
+  }
+}

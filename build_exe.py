@@ -37,7 +37,7 @@ cmd = [
 for dep in deps:
     cmd.extend(["--copy-metadata", dep])
 
-cmd.append("skill_auto_overlay_viewer.py")
+cmd.append("main.py")
 
 print("Copying metadata for:", ", ".join(deps), flush=True)
 

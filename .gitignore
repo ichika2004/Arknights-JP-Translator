@@ -1,41 +1,53 @@
-
-# Python
+# Python and environments
 __pycache__/
 *.py[cod]
+.pytest_cache/
+.mypy_cache/
 .venv/
 venv/
+env/
 
-# Environment and secrets
+# Runtime settings, secrets and OCR model caches
 .env
 .env.*
 !.env.example
 config.local.json
-
-# OCR models and cache
 models/
 .paddlex/
 .cache/
 *.sqlite3
-data/raw/
 
-# Build artifacts
+# Generated originals, bulky audits, and debugging
+# Curated runtime indexes in data/generated/*.json are intentionally retained
+data/raw/
+data/generated/*_report.json
+data/generated/*_review.csv
+data/generated/*_audit.csv
+data/generated/rogue_database_candidates.json
+worker_debug.txt
+*.log
+
+# Packaging and local outputs
 build/
 dist/
 *.spec
-
-# Release files
 *.zip
+samples/
+output/
+ocr_result.txt
 
 # IDE
 .vscode/
 .idea/
+.DS_Store
+Thumbs.db
 
-# Reference assets
-reference_images/*
-!reference_images/.gitkeep
-
-# Screenshots and output
-samples/
-output/
-ocr_result.txt
-worker_debug.txt
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+build/
+dist/
+*.spec
+*.log
+project_tree.txt

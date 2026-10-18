@@ -1,0 +1,2498 @@
+{
+  "rogue_1/rogue_1_band_1": {
+    "topic_id": "rogue_1",
+    "item_id": "rogue_1_band_1",
+    "name_jp": "指揮分隊",
+    "name_tw": "指揮分隊",
+    "effect_jp": "臨時耐久値+4",
+    "effect_tw": "每場戰鬥獲得4點臨時目標生命值",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": null,
+    "source_path": "details/rogue_1/items/rogue_1_band_1"
+  },
+  "rogue_1/rogue_1_band_2": {
+    "topic_id": "rogue_1",
+    "item_id": "rogue_1_band_2",
+    "name_jp": "集団分隊",
+    "name_tw": "集群分隊",
+    "effect_jp": "編成上限+2、同時配置可能人数+2",
+    "effect_tw": "可攜帶幹員+2，可同時部署人數+2",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": null,
+    "source_path": "details/rogue_1/items/rogue_1_band_2"
+  },
+  "rogue_1/rogue_1_band_3": {
+    "topic_id": "rogue_1",
+    "item_id": "rogue_1_band_3",
+    "name_jp": "支援分隊",
+    "name_tw": "後勤分隊",
+    "effect_jp": "初期源石錐+20、初期希望+2",
+    "effect_tw": "初始源石錠+20，初始希望+2",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": null,
+    "source_path": "details/rogue_1/items/rogue_1_band_3"
+  },
+  "rogue_1/rogue_1_band_4": {
+    "topic_id": "rogue_1",
+    "item_id": "rogue_1_band_4",
+    "name_jp": "先鋒分隊",
+    "name_tw": "矛頭分隊",
+    "effect_jp": "初期耐久値が1になり、味方全員の攻撃力・最大HP+15%",
+    "effect_tw": "初始目標生命值變為1，所有我方單位的攻擊力+15%，生命值+15%",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": null,
+    "source_path": "details/rogue_1/items/rogue_1_band_4"
+  },
+  "rogue_1/rogue_1_band_5": {
+    "topic_id": "rogue_1",
+    "item_id": "rogue_1_band_5",
+    "name_jp": "突撃戦術分隊",
+    "name_tw": "突擊戰術分隊",
+    "effect_jp": "★4以上の【先鋒】・【前衛】は、昇進済みの状態で招集される",
+    "effect_tw": "招募4星以上的【先鋒】【近衛】幹員時直接就是已進階的狀態",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": null,
+    "source_path": "details/rogue_1/items/rogue_1_band_5"
+  },
+  "rogue_1/rogue_1_band_6": {
+    "topic_id": "rogue_1",
+    "item_id": "rogue_1_band_6",
+    "name_jp": "要塞戦術分隊",
+    "name_tw": "堡壘戰術分隊",
+    "effect_jp": "★4以上の【重装】・【補助】は、昇進済みの状態で招集される",
+    "effect_tw": "招募4星以上的【重裝】【輔助】幹員時直接就是已進階的狀態",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": null,
+    "source_path": "details/rogue_1/items/rogue_1_band_6"
+  },
+  "rogue_1/rogue_1_band_7": {
+    "topic_id": "rogue_1",
+    "item_id": "rogue_1_band_7",
+    "name_jp": "援護戦術分隊",
+    "name_tw": "遠程戰術分隊",
+    "effect_jp": "★4以上の【医療】・【狙撃】は、昇進済みの状態で招集される",
+    "effect_tw": "招募4星以上的【醫療】【狙擊】幹員時直接就是已進階的狀態",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": null,
+    "source_path": "details/rogue_1/items/rogue_1_band_7"
+  },
+  "rogue_1/rogue_1_band_8": {
+    "topic_id": "rogue_1",
+    "item_id": "rogue_1_band_8",
+    "name_jp": "破壊戦術分隊",
+    "name_tw": "破壞戰術分隊",
+    "effect_jp": "★4以上の【術師】・【特殊】は、昇進済みの状態で招集される",
+    "effect_tw": "招募4星以上的【術師】【特種】幹員時直接就是已進階的狀態",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": null,
+    "source_path": "details/rogue_1/items/rogue_1_band_8"
+  },
+  "rogue_1/rogue_1_band_9": {
+    "topic_id": "rogue_1",
+    "item_id": "rogue_1_band_9",
+    "name_jp": "研究分隊",
+    "name_tw": "研究分隊",
+    "effect_jp": "初期耐久値+2、指揮経験値の獲得量+30%",
+    "effect_tw": "初始目標生命+2，戰鬥獲得的指揮經驗+30%",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": null,
+    "source_path": "details/rogue_1/items/rogue_1_band_9"
+  },
+  "rogue_1/rogue_1_band_10": {
+    "topic_id": "rogue_1",
+    "item_id": "rogue_1_band_10",
+    "name_jp": "高規格分隊",
+    "name_tw": "高規格分隊",
+    "effect_jp": "初期招集時、ランダムな上級招集券を追加で1枚獲得",
+    "effect_tw": "初始招募時額外獲得1張隨機高級招募券",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": null,
+    "source_path": "details/rogue_1/items/rogue_1_band_10"
+  },
+  "rogue_2/rogue_2_band_1": {
+    "topic_id": "rogue_2",
+    "item_id": "rogue_2_band_1",
+    "name_jp": "指揮分隊",
+    "name_tw": "指揮分隊",
+    "effect_jp": "最大耐久値+2、戦闘終了時に追加で耐久値を1回復",
+    "effect_tw": "目標生命上限+2，每次戰鬥結束後額外回復1目標生命",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": null,
+    "source_path": "details/rogue_2/items/rogue_2_band_1"
+  },
+  "rogue_2/rogue_2_band_2": {
+    "topic_id": "rogue_2",
+    "item_id": "rogue_2_band_2",
+    "name_jp": "集団分隊",
+    "name_tw": "集群分隊",
+    "effect_jp": "編成上限+2、同時配置可能人数+2",
+    "effect_tw": "可攜帶幹員+2，可同時部署人數+2",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": null,
+    "source_path": "details/rogue_2/items/rogue_2_band_2"
+  },
+  "rogue_2/rogue_2_band_3": {
+    "topic_id": "rogue_2",
+    "item_id": "rogue_2_band_3",
+    "name_jp": "支援分隊",
+    "name_tw": "後勤分隊",
+    "effect_jp": "初期源石錐+20、初期希望+2",
+    "effect_tw": "初始源石錠+20，初始希望+2",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": null,
+    "source_path": "details/rogue_2/items/rogue_2_band_3"
+  },
+  "rogue_2/rogue_2_band_4": {
+    "topic_id": "rogue_2",
+    "item_id": "rogue_2_band_4",
+    "name_jp": "先鋒分隊",
+    "name_tw": "矛頭分隊",
+    "effect_jp": "耐久値が1になり、味方全員の攻撃力・最大HP+15%",
+    "effect_tw": "目標生命變為1，所有我方單位的攻擊力+15%，生命值+15%",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": null,
+    "source_path": "details/rogue_2/items/rogue_2_band_4"
+  },
+  "rogue_2/rogue_2_band_5": {
+    "topic_id": "rogue_2",
+    "item_id": "rogue_2_band_5",
+    "name_jp": "突撃戦術分隊",
+    "name_tw": "突擊戰術分隊",
+    "effect_jp": "★4以上の【前衛】・【先鋒】の招集時に消費する希望-2、昇進時に消費する希望-1、昇進招集の出現確率が大幅に上昇",
+    "effect_tw": "招募和進階4星以上的【近衛】【先鋒】幹員時希望降低2點和1點，隨機直升機率大幅提升",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": null,
+    "source_path": "details/rogue_2/items/rogue_2_band_5"
+  },
+  "rogue_2/rogue_2_band_6": {
+    "topic_id": "rogue_2",
+    "item_id": "rogue_2_band_6",
+    "name_jp": "要塞戦術分隊",
+    "name_tw": "堡壘戰術分隊",
+    "effect_jp": "★4以上の【重装】・【補助】の招集時に消費する希望-2、昇進時に消費する希望-1、昇進招集の出現確率が大幅に上昇",
+    "effect_tw": "招募和進階4星以上的【重裝】【輔助】幹員時希望降低2點和1點，隨機直升機率大幅提升",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": null,
+    "source_path": "details/rogue_2/items/rogue_2_band_6"
+  },
+  "rogue_2/rogue_2_band_7": {
+    "topic_id": "rogue_2",
+    "item_id": "rogue_2_band_7",
+    "name_jp": "援護戦術分隊",
+    "name_tw": "遠程戰術分隊",
+    "effect_jp": "★4以上の【医療】・【狙撃】の招集時に消費する希望-2、昇進時に消費する希望-1、昇進招集の出現確率が大幅に上昇",
+    "effect_tw": "招募和進階4星以上的【醫療】【狙擊】幹員時希望降低2點和1點，隨機直升機率大幅提升",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": null,
+    "source_path": "details/rogue_2/items/rogue_2_band_7"
+  },
+  "rogue_2/rogue_2_band_8": {
+    "topic_id": "rogue_2",
+    "item_id": "rogue_2_band_8",
+    "name_jp": "破壊戦術分隊",
+    "name_tw": "破壞戰術分隊",
+    "effect_jp": "★4以上の【術師】・【特殊】の招集時に消費する希望-2、昇進時に消費する希望-1、昇進招集の出現確率が大幅に上昇",
+    "effect_tw": "招募和進階4星以上的【術師】【特種】幹員時希望降低2點和1點，隨機直升機率大幅提升",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": null,
+    "source_path": "details/rogue_2/items/rogue_2_band_8"
+  },
+  "rogue_2/rogue_2_band_9": {
+    "topic_id": "rogue_2",
+    "item_id": "rogue_2_band_9",
+    "name_jp": "研究分隊",
+    "name_tw": "研究分隊",
+    "effect_jp": "初期シールド値+3、指揮経験値の獲得量+30%",
+    "effect_tw": "初始護盾值+3，戰鬥獲得指揮經驗+30%",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": null,
+    "source_path": "details/rogue_2/items/rogue_2_band_9"
+  },
+  "rogue_2/rogue_2_band_10": {
+    "topic_id": "rogue_2",
+    "item_id": "rogue_2_band_10",
+    "name_jp": "高規格分隊",
+    "name_tw": "高規格分隊",
+    "effect_jp": "初期招集時、ランダムな精鋭招集券を追加で1枚獲得",
+    "effect_tw": "初始招募時額外獲得1張隨機精銳招募券",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": null,
+    "source_path": "details/rogue_2/items/rogue_2_band_10"
+  },
+  "rogue_2/rogue_2_band_11": {
+    "topic_id": "rogue_2",
+    "item_id": "rogue_2_band_11",
+    "name_jp": "精神論分隊",
+    "name_tw": "心勝於物分隊",
+    "effect_jp": "戦闘後、確率で追加の秘宝を獲得",
+    "effect_tw": "戰鬥有機率獲得額外收藏品",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_2_band_11",
+      "bandLevel": 0,
+      "normalBandId": "rogue_2_band_11"
+    },
+    "source_path": "details/rogue_2/items/rogue_2_band_11"
+  },
+  "rogue_2/rogue_2_band_12": {
+    "topic_id": "rogue_2",
+    "item_id": "rogue_2_band_12",
+    "name_jp": "精神論分隊",
+    "name_tw": "心勝於物分隊",
+    "effect_jp": "戦闘後、確率で追加の秘宝を獲得。依頼を達成した時、追加で報酬を1回選択可能",
+    "effect_tw": "戰鬥有機率獲得額外收藏品；完成委託可額外選擇一次獎勵",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_2_band_12",
+      "bandLevel": 1,
+      "normalBandId": "rogue_2_band_11"
+    },
+    "source_path": "details/rogue_2/items/rogue_2_band_12"
+  },
+  "rogue_2/rogue_2_band_13": {
+    "topic_id": "rogue_2",
+    "item_id": "rogue_2_band_13",
+    "name_jp": "精神論分隊",
+    "name_tw": "心勝於物分隊",
+    "effect_jp": "戦闘後、より高い確率で追加の秘宝を獲得。依頼を達成した時、追加で報酬を1回選択可能",
+    "effect_tw": "戰鬥有更高機率獲得額外收藏品；完成委託可額外選擇一次獎勵",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_2_band_13",
+      "bandLevel": 2,
+      "normalBandId": "rogue_2_band_11"
+    },
+    "source_path": "details/rogue_2/items/rogue_2_band_13"
+  },
+  "rogue_2/rogue_2_band_14": {
+    "topic_id": "rogue_2",
+    "item_id": "rogue_2_band_14",
+    "name_jp": "精神論分隊",
+    "name_tw": "心勝於物分隊",
+    "effect_jp": "戦闘後、より高い確率で追加の秘宝を獲得。依頼を達成した時、追加で報酬を1回選択可能。初めから「生還者の契約」を所持",
+    "effect_tw": "戰鬥有更高機率獲得額外收藏品；完成委託可額外選擇一次獎勵；初始攜帶“生還者合約”",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_2_band_14",
+      "bandLevel": 3,
+      "normalBandId": "rogue_2_band_11"
+    },
+    "source_path": "details/rogue_2/items/rogue_2_band_14"
+  },
+  "rogue_2/rogue_2_band_15": {
+    "topic_id": "rogue_2",
+    "item_id": "rogue_2_band_15",
+    "name_jp": "最大活用分隊",
+    "name_tw": "物盡其用分隊",
+    "effect_jp": "新エリアに入るたび、ダイスロール回数+1",
+    "effect_tw": "每進入新的一層獲得1擲骰次數",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_2_band_15",
+      "bandLevel": 0,
+      "normalBandId": "rogue_2_band_15"
+    },
+    "source_path": "details/rogue_2/items/rogue_2_band_15"
+  },
+  "rogue_2/rogue_2_band_16": {
+    "topic_id": "rogue_2",
+    "item_id": "rogue_2_band_16",
+    "name_jp": "最大活用分隊",
+    "name_tw": "物盡其用分隊",
+    "effect_jp": "新エリアに入るたび、ダイスロール回数+1。初期ダイスが8面ダイスにグレードアップ",
+    "effect_tw": "每進入新的一層獲得1擲骰次數；初始骰子升級為八面骰子",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_2_band_16",
+      "bandLevel": 1,
+      "normalBandId": "rogue_2_band_15"
+    },
+    "source_path": "details/rogue_2/items/rogue_2_band_16"
+  },
+  "rogue_2/rogue_2_band_17": {
+    "topic_id": "rogue_2",
+    "item_id": "rogue_2_band_17",
+    "name_jp": "最大活用分隊",
+    "name_tw": "物盡其用分隊",
+    "effect_jp": "新エリアに入るたび、ダイスロール回数+2。初期ダイスが8面ダイスにグレードアップ",
+    "effect_tw": "每進入新的一層獲得2擲骰次數；初始骰子升級為八面骰子",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_2_band_17",
+      "bandLevel": 2,
+      "normalBandId": "rogue_2_band_15"
+    },
+    "source_path": "details/rogue_2/items/rogue_2_band_17"
+  },
+  "rogue_2/rogue_2_band_18": {
+    "topic_id": "rogue_2",
+    "item_id": "rogue_2_band_18",
+    "name_jp": "最大活用分隊",
+    "name_tw": "物盡其用分隊",
+    "effect_jp": "新エリアに入るたび、ダイスロール回数+2。初期ダイスが8面ダイスにグレードアップ。戦闘中に使用できるダイスロールの回数が増加",
+    "effect_tw": "每進入新的一層獲得2擲骰次數；初始骰子升級為八面骰子；戰鬥中可以使用更多骰子",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_2_band_18",
+      "bandLevel": 3,
+      "normalBandId": "rogue_2_band_15"
+    },
+    "source_path": "details/rogue_2/items/rogue_2_band_18"
+  },
+  "rogue_2/rogue_2_band_19": {
+    "topic_id": "rogue_2",
+    "item_id": "rogue_2_band_19",
+    "name_jp": "人文主義分隊",
+    "name_tw": "以人為本分隊",
+    "effect_jp": "全てのオペレーター招集時の希望消費-1",
+    "effect_tw": "招募所有幹員的希望消耗-1",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_2_band_19",
+      "bandLevel": 0,
+      "normalBandId": "rogue_2_band_19"
+    },
+    "source_path": "details/rogue_2/items/rogue_2_band_19"
+  },
+  "rogue_2/rogue_2_band_20": {
+    "topic_id": "rogue_2",
+    "item_id": "rogue_2_band_20",
+    "name_jp": "人文主義分隊",
+    "name_tw": "以人為本分隊",
+    "effect_jp": "全てのオペレーターの招集時の希望消費-1。【安全な片隅】で報酬をもう1回選択可能",
+    "effect_tw": "招募所有幹員的希望消耗-1；在“安全的角落”節點可額外選擇一次獎勵",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_2_band_20",
+      "bandLevel": 1,
+      "normalBandId": "rogue_2_band_19"
+    },
+    "source_path": "details/rogue_2/items/rogue_2_band_20"
+  },
+  "rogue_2/rogue_2_band_21": {
+    "topic_id": "rogue_2",
+    "item_id": "rogue_2_band_21",
+    "name_jp": "人文主義分隊",
+    "name_tw": "以人為本分隊",
+    "effect_jp": "全てのオペレーターの招集及び昇進時の希望消費-1。【安全な片隅】で報酬をもう1回選択可能",
+    "effect_tw": "招募和晉升所有幹員的希望消耗-1；在“安全的角落”節點可額外選擇一次獎勵",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_2_band_21",
+      "bandLevel": 2,
+      "normalBandId": "rogue_2_band_19"
+    },
+    "source_path": "details/rogue_2/items/rogue_2_band_21"
+  },
+  "rogue_2/rogue_2_band_22": {
+    "topic_id": "rogue_2",
+    "item_id": "rogue_2_band_22",
+    "name_jp": "人文主義分隊",
+    "name_tw": "以人為本分隊",
+    "effect_jp": "全てのオペレーターの招集及び昇進時の希望消費-1。【安全な片隅】で報酬をもう1回選択可能。指揮Lv上限+1",
+    "effect_tw": "招募和晉升所有幹員的希望消耗-1；在“安全的角落”節點可額外選擇一次獎勵；指揮等級上限+1",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_2_band_22",
+      "bandLevel": 3,
+      "normalBandId": "rogue_2_band_19"
+    },
+    "source_path": "details/rogue_2/items/rogue_2_band_22"
+  },
+  "rogue_3/rogue_3_band_1": {
+    "topic_id": "rogue_3",
+    "item_id": "rogue_3_band_1",
+    "name_jp": "指揮分隊",
+    "name_tw": "指揮分隊",
+    "effect_jp": "最大耐久値+2、戦闘終了時に追加で耐久値を1回復",
+    "effect_tw": "目標生命上限+2，每次戰鬥結束後額外回復1目標生命",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": null,
+    "source_path": "details/rogue_3/items/rogue_3_band_1"
+  },
+  "rogue_3/rogue_3_band_2": {
+    "topic_id": "rogue_3",
+    "item_id": "rogue_3_band_2",
+    "name_jp": "集団分隊",
+    "name_tw": "集群分隊",
+    "effect_jp": "編成上限+2、同時配置可能人数+2",
+    "effect_tw": "可攜帶幹員+2，可同時部署人數+2",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": null,
+    "source_path": "details/rogue_3/items/rogue_3_band_2"
+  },
+  "rogue_3/rogue_3_band_3": {
+    "topic_id": "rogue_3",
+    "item_id": "rogue_3_band_3",
+    "name_jp": "支援分隊",
+    "name_tw": "後勤分隊",
+    "effect_jp": "初期源石錐+20、初期希望+2",
+    "effect_tw": "初始源石錠+20，初始希望+2",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": null,
+    "source_path": "details/rogue_3/items/rogue_3_band_3"
+  },
+  "rogue_3/rogue_3_band_4": {
+    "topic_id": "rogue_3",
+    "item_id": "rogue_3_band_4",
+    "name_jp": "先鋒分隊",
+    "name_tw": "矛頭分隊",
+    "effect_jp": "耐久値が1になり、味方全員の攻撃力・最大HP+15%",
+    "effect_tw": "目標生命變為1，所有我方單位的攻擊力+15%，生命值+15%",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": null,
+    "source_path": "details/rogue_3/items/rogue_3_band_4"
+  },
+  "rogue_3/rogue_3_band_5": {
+    "topic_id": "rogue_3",
+    "item_id": "rogue_3_band_5",
+    "name_jp": "突撃戦術分隊",
+    "name_tw": "突擊戰術分隊",
+    "effect_jp": "★4以上の【前衛】・【先鋒】の招集時に消費する希望-2、昇進時に消費する希望-1、昇進招集の出現確率が大幅に上昇",
+    "effect_tw": "招募和進階4星以上的【近衛】【先鋒】幹員時希望降低2點和1點，隨機直升機率大幅提升",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": null,
+    "source_path": "details/rogue_3/items/rogue_3_band_5"
+  },
+  "rogue_3/rogue_3_band_6": {
+    "topic_id": "rogue_3",
+    "item_id": "rogue_3_band_6",
+    "name_jp": "要塞戦術分隊",
+    "name_tw": "堡壘戰術分隊",
+    "effect_jp": "★4以上の【重装】・【補助】の招集時に消費する希望-2、昇進時に消費する希望-1、昇進招集の出現確率が大幅に上昇",
+    "effect_tw": "招募和進階4星以上的【重裝】【輔助】幹員時希望降低2點和1點，隨機直升機率大幅提升",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": null,
+    "source_path": "details/rogue_3/items/rogue_3_band_6"
+  },
+  "rogue_3/rogue_3_band_7": {
+    "topic_id": "rogue_3",
+    "item_id": "rogue_3_band_7",
+    "name_jp": "援護戦術分隊",
+    "name_tw": "遠程戰術分隊",
+    "effect_jp": "★4以上の【医療】・【狙撃】の招集時に消費する希望-2、昇進時に消費する希望-1、昇進招集の出現確率が大幅に上昇",
+    "effect_tw": "招募和進階4星以上的【醫療】【狙擊】幹員時希望降低2點和1點，隨機直升機率大幅提升",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": null,
+    "source_path": "details/rogue_3/items/rogue_3_band_7"
+  },
+  "rogue_3/rogue_3_band_8": {
+    "topic_id": "rogue_3",
+    "item_id": "rogue_3_band_8",
+    "name_jp": "破壊戦術分隊",
+    "name_tw": "破壞戰術分隊",
+    "effect_jp": "★4以上の【術師】・【特殊】の招集時に消費する希望-2、昇進時に消費する希望-1、昇進招集の出現確率が大幅に上昇",
+    "effect_tw": "招募和進階4星以上的【術師】【特種】幹員時希望降低2點和1點，隨機直升機率大幅提升",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": null,
+    "source_path": "details/rogue_3/items/rogue_3_band_8"
+  },
+  "rogue_3/rogue_3_band_9": {
+    "topic_id": "rogue_3",
+    "item_id": "rogue_3_band_9",
+    "name_jp": "特訓分隊",
+    "name_tw": "特訓分隊",
+    "effect_jp": "初期シールド値+3、オペレーター昇進時に希望を消費しない",
+    "effect_tw": "初始護盾值+3，進階幹員不消耗希望",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": null,
+    "source_path": "details/rogue_3/items/rogue_3_band_9"
+  },
+  "rogue_3/rogue_3_band_10": {
+    "topic_id": "rogue_3",
+    "item_id": "rogue_3_band_10",
+    "name_jp": "高規格分隊",
+    "name_tw": "高規格分隊",
+    "effect_jp": "初期招集時、ランダムな精鋭招集券を追加で1枚獲得、★5昇進招集の出現確率が大幅に上昇",
+    "effect_tw": "初始招募時額外獲得1張隨機精銳招募券，5星幹員隨機直升機率大幅提升",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": null,
+    "source_path": "details/rogue_3/items/rogue_3_band_10"
+  },
+  "rogue_3/rogue_3_band_11": {
+    "topic_id": "rogue_3",
+    "item_id": "rogue_3_band_11",
+    "name_jp": "永久狩猟分隊",
+    "name_tw": "永恆狩獵分隊",
+    "effect_jp": "最大耐久値+2、作戦を完璧にクリアできなかった場合は追加で崩壊値+1、作戦を完璧にクリアできた場合は崩壊値-2",
+    "effect_tw": "目標生命上限+2，非完美作戰使坍縮值額外+1，完美作戰後坍縮值-2",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": null,
+    "source_path": "details/rogue_3/items/rogue_3_band_11"
+  },
+  "rogue_3/rogue_3_band_12": {
+    "topic_id": "rogue_3",
+    "item_id": "rogue_3_band_12",
+    "name_jp": "生活重視分隊",
+    "name_tw": "生活至上分隊",
+    "effect_jp": "初期状態でランダムな啓示板を3つ所持、遠見をする際に啓示板が必ず出現する",
+    "effect_tw": "初始攜帶3個隨機密文板，遠見預知時總會預知密文板",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": null,
+    "source_path": "details/rogue_3/items/rogue_3_band_12"
+  },
+  "rogue_3/rogue_3_band_13": {
+    "topic_id": "rogue_3",
+    "item_id": "rogue_3_band_13",
+    "name_jp": "科学主義分隊",
+    "name_tw": "科學主義分隊",
+    "effect_jp": "探査装置の初期耐干渉指数0。新しいエリアに進むたび、耐干渉指数+2",
+    "effect_tw": "初始勘察設備抗干擾指數為0，每進入新的一層抗干擾指數+2",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": null,
+    "source_path": "details/rogue_3/items/rogue_3_band_13"
+  },
+  "rogue_4/rogue_4_band_1": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_1",
+    "name_jp": "指揮分隊",
+    "name_tw": "指揮分隊",
+    "effect_jp": "最大耐久値+2、戦闘終了時に追加で耐久値を1回復",
+    "effect_tw": "目標生命上限+2，每次戰鬥結束後額外回復1目標生命",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_1",
+      "bandLevel": 0,
+      "normalBandId": "rogue_4_band_1"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_1"
+  },
+  "rogue_4/rogue_4_band_2": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_2",
+    "name_jp": "指揮分隊",
+    "name_tw": "指揮分隊",
+    "effect_jp": "最大耐久値+5、戦闘終了時に追加で耐久値を1回復",
+    "effect_tw": "目標生命上限+5，每次戰鬥結束後額外回復1目標生命",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_2",
+      "bandLevel": 1,
+      "normalBandId": "rogue_4_band_1"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_2"
+  },
+  "rogue_4/rogue_4_band_3": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_3",
+    "name_jp": "集団分隊",
+    "name_tw": "集群分隊",
+    "effect_jp": "編成上限+2、同時配置可能人数+2。初期招集時、ロドス予備隊オペレーターを5名招集",
+    "effect_tw": "可攜帶幹員+2，可同時部署人數+2，初始招募五名羅德島預備幹員",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_3",
+      "bandLevel": 0,
+      "normalBandId": "rogue_4_band_3"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_3"
+  },
+  "rogue_4/rogue_4_band_4": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_4",
+    "name_jp": "支援分隊",
+    "name_tw": "後勤分隊",
+    "effect_jp": "初期源石錐+20、初期希望+2",
+    "effect_tw": "初始源石錠+20，初始希望+2",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_4",
+      "bandLevel": 0,
+      "normalBandId": "rogue_4_band_4"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_4"
+  },
+  "rogue_4/rogue_4_band_5": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_5",
+    "name_jp": "支援分隊",
+    "name_tw": "後勤分隊",
+    "effect_jp": "初期源石錐+30、初期希望+2",
+    "effect_tw": "初始源石錠+30，初始希望+2",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_5",
+      "bandLevel": 1,
+      "normalBandId": "rogue_4_band_4"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_5"
+  },
+  "rogue_4/rogue_4_band_6": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_6",
+    "name_jp": "先鋒分隊",
+    "name_tw": "矛頭分隊",
+    "effect_jp": "耐久値が1になり、味方全員の攻撃力・最大HP+15%",
+    "effect_tw": "目標生命變為1，所有我方單位的攻擊力+15%，生命值+15%",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_6",
+      "bandLevel": 0,
+      "normalBandId": "rogue_4_band_6"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_6"
+  },
+  "rogue_4/rogue_4_band_7": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_7",
+    "name_jp": "先鋒分隊",
+    "name_tw": "矛頭分隊",
+    "effect_jp": "耐久値が1になり、味方全員の攻撃力・最大HP+20%",
+    "effect_tw": "目標生命變為1，所有我方單位的攻擊力+20%，生命值+20%",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_7",
+      "bandLevel": 1,
+      "normalBandId": "rogue_4_band_6"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_7"
+  },
+  "rogue_4/rogue_4_band_8": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_8",
+    "name_jp": "突撃戦術分隊",
+    "name_tw": "突擊戰術分隊",
+    "effect_jp": "★4以上の【前衛】・【先鋒】の招集時の希望消費-2、昇進時の希望消費-1、いずれかの対応する職業の初回招集時は昇進済みの状態となる。また、対応する職業の招集券はショップでの出現確率上昇",
+    "effect_tw": "招募和進階4星以上的【近衛】或【先鋒】幹員時希望降低2點和1點，首次招募時為直升狀態，並更容易購買到相應職業的招募券",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_8",
+      "bandLevel": 0,
+      "normalBandId": "rogue_4_band_8"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_8"
+  },
+  "rogue_4/rogue_4_band_9": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_9",
+    "name_jp": "要塞戦術分隊",
+    "name_tw": "堡壘戰術分隊",
+    "effect_jp": "★4以上の【重装】・【補助】の招集時の希望消費-2、昇進時の希望消費-1、いずれかの対応する職業の初回招集時は昇進済みの状態となる。また、対応する職業の招集券はショップでの出現確率上昇",
+    "effect_tw": "招募和進階4星以上的【重裝】或【輔助】幹員時希望降低2點和1點，首次招募時為直升狀態，並更容易購買到相應職業的招募券",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_9",
+      "bandLevel": 0,
+      "normalBandId": "rogue_4_band_9"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_9"
+  },
+  "rogue_4/rogue_4_band_10": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_10",
+    "name_jp": "援護戦術分隊",
+    "name_tw": "遠程戰術分隊",
+    "effect_jp": "★4以上の【医療】・【狙撃】の招集時の希望消費-2、昇進時の希望消費-1、いずれかの対応する職業の初回招集時は昇進済みの状態となる。また、対応する職業の招集券はショップでの出現確率上昇",
+    "effect_tw": "招募和進階4星以上的【醫療】或【狙擊】幹員時希望降低2點和1點，首次招募時為直升狀態，並更容易購買到相應職業的招募券",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_10",
+      "bandLevel": 0,
+      "normalBandId": "rogue_4_band_10"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_10"
+  },
+  "rogue_4/rogue_4_band_11": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_11",
+    "name_jp": "破壊戦術分隊",
+    "name_tw": "破壞戰術分隊",
+    "effect_jp": "★4以上の【術師】・【特殊】の招集時の希望消費-2、昇進時の希望消費-1、いずれかの対応する職業の初回招集時は昇進済みの状態となる。また、対応する職業の招集券はショップでの出現確率上昇",
+    "effect_tw": "招募和進階4星以上的【術師】或【特種】幹員時希望降低2點和1點，首次招募時為直升狀態，並更容易購買到相應職業的招募券",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_11",
+      "bandLevel": 0,
+      "normalBandId": "rogue_4_band_11"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_11"
+  },
+  "rogue_4/rogue_4_band_12": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_12",
+    "name_jp": "高規格分隊",
+    "name_tw": "高規格分隊",
+    "effect_jp": "★5オペレーターは昇進済みの状態で招集される",
+    "effect_tw": "5星幹員招募時都為直升狀態",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_12",
+      "bandLevel": 0,
+      "normalBandId": "rogue_4_band_12"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_12"
+  },
+  "rogue_4/rogue_4_band_13": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_13",
+    "name_jp": "臨機応変分隊",
+    "name_tw": "因地制宜分隊",
+    "effect_jp": "新エリアに入るたび、ランダムに秘宝を1つ獲得",
+    "effect_tw": "每進入新的一層，獲得一個隨機收藏品",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_13",
+      "bandLevel": 0,
+      "normalBandId": "rogue_4_band_13"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_13"
+  },
+  "rogue_4/rogue_4_band_14": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_14",
+    "name_jp": "霊魂護送分隊",
+    "name_tw": "魂靈護送分隊",
+    "effect_jp": "新エリアに入るたび、妙想を2つ獲得",
+    "effect_tw": "每進入新的一層，獲得2縷靈感",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_14",
+      "bandLevel": 0,
+      "normalBandId": "rogue_4_band_14"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_14"
+  },
+  "rogue_4/rogue_4_band_15": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_15",
+    "name_jp": "霊魂護送分隊",
+    "name_tw": "魂靈護送分隊",
+    "effect_jp": "新エリアに入るたび、妙想を2つ獲得し、負荷臨界点+1",
+    "effect_tw": "每進入新的一層，獲得2縷靈感且負荷臨界點+1",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_15",
+      "bandLevel": 1,
+      "normalBandId": "rogue_4_band_14"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_15"
+  },
+  "rogue_4/rogue_4_band_16": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_16",
+    "name_jp": "博学多識分隊",
+    "name_tw": "博聞廣記分隊",
+    "effect_jp": "初期負荷臨界点+5、初期希望+2",
+    "effect_tw": "初始負荷臨界點+5，初始希望+2",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_16",
+      "bandLevel": 0,
+      "normalBandId": "rogue_4_band_16"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_16"
+  },
+  "rogue_4/rogue_4_band_17": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_17",
+    "name_jp": "博学多識分隊",
+    "name_tw": "博聞廣記分隊",
+    "effect_jp": "初期負荷臨界点+10、初期希望+2",
+    "effect_tw": "初始負荷臨界點+10，初始希望+2",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_17",
+      "bandLevel": 1,
+      "normalBandId": "rogue_4_band_16"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_17"
+  },
+  "rogue_4/rogue_4_band_18": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_18",
+    "name_jp": "位置測定分隊",
+    "name_tw": "藍圖測繪分隊",
+    "effect_jp": "スポット更新回数+1。各スポットの初回更新時に構想を消費しない",
+    "effect_tw": "重置節點次數+1，每個節點的首次重置不消耗構想",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_18",
+      "bandLevel": 0,
+      "normalBandId": "rogue_4_band_18"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_18"
+  },
+  "rogue_4/rogue_4_band_19": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_19",
+    "name_jp": "位置測定分隊",
+    "name_tw": "藍圖測繪分隊",
+    "effect_jp": "スポット更新回数+1、初期構想+1。各スポットの初回更新時に構想を消費しない",
+    "effect_tw": "重置節點次數+1，每個節點的首次重置不消耗構想，初始構想+1",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_19",
+      "bandLevel": 1,
+      "normalBandId": "rogue_4_band_18"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_19"
+  },
+  "rogue_4/rogue_4_band_20": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_20",
+    "name_jp": "破棘成金分隊",
+    "name_tw": "點刺成錠分隊",
+    "effect_jp": "新エリアに入るたび、源石錐+5。各スポットの初回更新時に構想を消費せず、必ず【怪しい旅商人】が出現。<時代の棘>を撃破すると追加で源石錐+2",
+    "effect_tw": "每進入新的一層，源石錠+5，首次刷新不消耗構想並出現詭意行商，擊敗<年代之刺>額外獲得2源石錠",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_20",
+      "bandLevel": 0,
+      "normalBandId": "rogue_4_band_20"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_20"
+  },
+  "rogue_4/rogue_4_band_21": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_21",
+    "name_jp": "擬態学者分隊",
+    "name_tw": "擬態學者分隊",
+    "effect_jp": "初期希望+1。構想と宿願解読時の秘宝出現率が大幅に上昇し、より珍しい秘宝を獲得可能",
+    "effect_tw": "初始希望+1，構想與遺願解讀時收藏品機率大幅增加，且總會獲得更稀有的收藏品",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_21",
+      "bandLevel": 0,
+      "normalBandId": "rogue_4_band_21"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_21"
+  },
+  "rogue_4/rogue_4_band_22": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_22",
+    "name_jp": "奇想天外分隊",
+    "name_tw": "異想天開分隊",
+    "effect_jp": "他の2つの分隊の効果をランダムで一部獲得",
+    "effect_tw": "隨機獲得其他2個分隊的部分效果",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_22",
+      "bandLevel": 0,
+      "normalBandId": "rogue_4_band_22"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_22"
+  },
+  "rogue_4/rogue_4_band_22_1": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_22_1",
+    "name_jp": "奇想天外分隊",
+    "name_tw": "異想天開分隊",
+    "effect_jp": "初期招集時、ランダムな上級招集券を追加で1枚獲得、全てのオペレーターの招集及び昇進時の希望消費-1",
+    "effect_tw": "初始招募時，額外獲得1張隨機高級招募券，招募和晉升所有幹員消耗的希望-1",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_22_1",
+      "bandLevel": 0,
+      "normalBandId": "rogue_4_band_22"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_22_1"
+  },
+  "rogue_4/rogue_4_band_22_2": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_22_2",
+    "name_jp": "奇想天外分隊",
+    "name_tw": "異想天開分隊",
+    "effect_jp": "★4以上の【前衛】の招集時の希望消費-2、昇進時の希望消費-1、【前衛】の初回招集時は昇進済みの状態となる。初めから「生還者の契約」を所持",
+    "effect_tw": "招募和進階4星以上的【近衛】幹員時希望降低2點和1點，首次招募時為直升狀態，初始攜帶“生還者合約”",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_22_2",
+      "bandLevel": 0,
+      "normalBandId": "rogue_4_band_22"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_22_2"
+  },
+  "rogue_4/rogue_4_band_22_3": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_22_3",
+    "name_jp": "奇想天外分隊",
+    "name_tw": "異想天開分隊",
+    "effect_jp": "★4以上の【術師】の招集時の希望消費-2、昇進時の希望消費-1、【術師】の初回招集時は昇進済みの状態となる。初めから「生還者の契約」を所持",
+    "effect_tw": "招募和進階4星以上的【術師】幹員時希望降低2點和1點，首次招募時為直升狀態，初始攜帶“生還者合約”",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_22_3",
+      "bandLevel": 0,
+      "normalBandId": "rogue_4_band_22"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_22_3"
+  },
+  "rogue_4/rogue_4_band_22_4": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_22_4",
+    "name_jp": "奇想天外分隊",
+    "name_tw": "異想天開分隊",
+    "effect_jp": "★4以上の【特殊】の招集時の希望消費-2、昇進時の希望消費-1、【特殊】の初回招集時は昇進済みの状態となる。初期源石錐+20",
+    "effect_tw": "招募和進階4星以上的【特種】幹員時希望降低2點和1點，首次招募時為直升狀態，初始源石錠+20",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_22_4",
+      "bandLevel": 0,
+      "normalBandId": "rogue_4_band_22"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_22_4"
+  },
+  "rogue_4/rogue_4_band_22_5": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_22_5",
+    "name_jp": "奇想天外分隊",
+    "name_tw": "異想天開分隊",
+    "effect_jp": "★4以上の【狙撃】の招集時の希望消費-2、昇進時の希望消費-1、【狙撃】の初回招集時は昇進済みの状態となる。初期源石錐+20",
+    "effect_tw": "招募和進階4星以上的【狙擊】幹員時希望降低2點和1點，首次招募時為直升狀態，初始源石錠+20",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_22_5",
+      "bandLevel": 0,
+      "normalBandId": "rogue_4_band_22"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_22_5"
+  },
+  "rogue_4/rogue_4_band_22_6": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_22_6",
+    "name_jp": "奇想天外分隊",
+    "name_tw": "異想天開分隊",
+    "effect_jp": "★4以上の【重装】・【狙撃】の招集時の希望消費-2、昇進時の希望消費-1、いずれかの対応する職業の初回招集時は昇進済みの状態となる。また、対応する職業の招集券はショップでの出現確率上昇",
+    "effect_tw": "招募和進階4星以上的【重裝】、【狙擊】幹員時希望降低2點和1點，首次招募時為直升狀態，且更容易購買到相應職業的招募券",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_22_6",
+      "bandLevel": 0,
+      "normalBandId": "rogue_4_band_22"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_22_6"
+  },
+  "rogue_4/rogue_4_band_22_7": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_22_7",
+    "name_jp": "奇想天外分隊",
+    "name_tw": "異想天開分隊",
+    "effect_jp": "★4以上の【術師】・【補助】の招集時の希望消費-2、昇進時の希望消費-1、いずれかの対応する職業の初回招集時は昇進済みの状態となる。また、対応する職業の招集券はショップでの出現確率上昇",
+    "effect_tw": "招募和進階4星以上的【術師】、【輔助】幹員時希望降低2點和1點，首次招募時為直升狀態，且更容易購買到相應職業的招募券",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_22_7",
+      "bandLevel": 0,
+      "normalBandId": "rogue_4_band_22"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_22_7"
+  },
+  "rogue_4/rogue_4_band_22_8": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_22_8",
+    "name_jp": "奇想天外分隊",
+    "name_tw": "異想天開分隊",
+    "effect_jp": "★4以上の【先鋒】・【特殊】の招集時の希望消費-2、昇進時の希望消費-1、いずれかの対応する職業の初回招集時は昇進済みの状態となる。また、対応する職業の招集券はショップでの出現確率上昇",
+    "effect_tw": "招募和進階4星以上的【先鋒】、【特種】幹員時希望降低2點和1點，首次招募時為直升狀態，且更容易購買到相應職業的招募券",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_22_8",
+      "bandLevel": 0,
+      "normalBandId": "rogue_4_band_22"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_22_8"
+  },
+  "rogue_4/rogue_4_band_22_9": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_22_9",
+    "name_jp": "奇想天外分隊",
+    "name_tw": "異想天開分隊",
+    "effect_jp": "★4以上の【前衛】・【医療】の招集時の希望消費-2、昇進時の希望消費-1、いずれかの対応する職業の初回招集時は昇進済みの状態となる。また、対応する職業の招集券はショップでの出現確率上昇",
+    "effect_tw": "招募和進階4星以上的【近衛】、【醫療】幹員時希望降低2點和1點，首次招募時為直升狀態，且更容易購買到相應職業的招募券",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_22_9",
+      "bandLevel": 0,
+      "normalBandId": "rogue_4_band_22"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_22_9"
+  },
+  "rogue_4/rogue_4_band_22_10": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_22_10",
+    "name_jp": "奇想天外分隊",
+    "name_tw": "異想天開分隊",
+    "effect_jp": "★4以上の【前衛】の招集時の希望消費-2、昇進時の希望消費-1、【前衛】の初回招集時は昇進済みの状態となる。味方全員の攻撃力・最大HP+15%",
+    "effect_tw": "招募和進階4星以上的【近衛】幹員時希望降低2點和1點，首次招募時為直升狀態，所有我方單位的攻擊力+15%、生命值+15%",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_22_10",
+      "bandLevel": 0,
+      "normalBandId": "rogue_4_band_22"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_22_10"
+  },
+  "rogue_4/rogue_4_band_22_11": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_22_11",
+    "name_jp": "奇想天外分隊",
+    "name_tw": "異想天開分隊",
+    "effect_jp": "★4以上の【特殊】の招集時の希望消費-2、昇進時の希望消費-1、【特殊】の初回招集時は昇進済みの状態となる。初めから「生還者の契約」を所持",
+    "effect_tw": "招募和進階4星以上的【特種】幹員時希望降低2點和1點，首次招募時為直升狀態，初始攜帶“生還者合約”",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_22_11",
+      "bandLevel": 0,
+      "normalBandId": "rogue_4_band_22"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_22_11"
+  },
+  "rogue_4/rogue_4_band_22_12": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_22_12",
+    "name_jp": "奇想天外分隊",
+    "name_tw": "異想天開分隊",
+    "effect_jp": "全てのオペレーターの招集及び昇進時の希望消費-1。戦闘後、より高い確率で追加の秘宝を獲得",
+    "effect_tw": "招募和晉升所有幹員消耗的希望-1，戰鬥有更高機率獲得額外收藏品",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_22_12",
+      "bandLevel": 0,
+      "normalBandId": "rogue_4_band_22"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_22_12"
+  },
+  "rogue_4/rogue_4_band_22_13": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_22_13",
+    "name_jp": "奇想天外分隊",
+    "name_tw": "異想天開分隊",
+    "effect_jp": "★4以上の【狙撃】の招集時の希望消費-2、昇進時の希望消費-1、【狙撃】の初回招集時は昇進済みの状態となる。初めから「生還者の契約」を所持",
+    "effect_tw": "招募和進階4星以上的【狙擊】幹員時希望降低2點和1點，首次招募時為直升狀態，初始攜帶“生還者合約”",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_22_13",
+      "bandLevel": 0,
+      "normalBandId": "rogue_4_band_22"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_22_13"
+  },
+  "rogue_4/rogue_4_band_22_14": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_22_14",
+    "name_jp": "奇想天外分隊",
+    "name_tw": "異想天開分隊",
+    "effect_jp": "全てのオペレーターの招集及び昇進時の希望消費-1。味方全員の攻撃力・最大HP+15%",
+    "effect_tw": "招募和晉升所有幹員消耗的希望-1，所有我方單位的攻擊力+15%、生命值+15%",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_22_14",
+      "bandLevel": 0,
+      "normalBandId": "rogue_4_band_22"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_22_14"
+  },
+  "rogue_4/rogue_4_band_22_15": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_22_15",
+    "name_jp": "奇想天外分隊",
+    "name_tw": "異想天開分隊",
+    "effect_jp": "全てのオペレーターの招集及び昇進時の希望消費-1。初めから「生還者の契約」を所持",
+    "effect_tw": "招募和晉升所有幹員消耗的希望-1，初始攜帶“生還者合約”",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_22_15",
+      "bandLevel": 0,
+      "normalBandId": "rogue_4_band_22"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_22_15"
+  },
+  "rogue_4/rogue_4_band_22_16": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_22_16",
+    "name_jp": "奇想天外分隊",
+    "name_tw": "異想天開分隊",
+    "effect_jp": "初期源石錐+20。初めから「生還者の契約」を所持",
+    "effect_tw": "初始源石錠+20，初始攜帶“生還者合約”",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_22_16",
+      "bandLevel": 0,
+      "normalBandId": "rogue_4_band_22"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_22_16"
+  },
+  "rogue_4/rogue_4_band_22_17": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_22_17",
+    "name_jp": "奇想天外分隊",
+    "name_tw": "異想天開分隊",
+    "effect_jp": "新エリアに入るたび、妙想を2つ獲得し、初期源石錐+20",
+    "effect_tw": "每進入新的一層，獲得2縷靈感，初始源石錠+20",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_22_17",
+      "bandLevel": 0,
+      "normalBandId": "rogue_4_band_22"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_22_17"
+  },
+  "rogue_4/rogue_4_band_22_18": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_22_18",
+    "name_jp": "奇想天外分隊",
+    "name_tw": "異想天開分隊",
+    "effect_jp": "新エリアに入るたび、妙想を2つ獲得。戦闘後、より高い確率で追加の秘宝を獲得",
+    "effect_tw": "每進入新的一層，獲得2縷靈感，戰鬥有更高機率獲得額外收藏品",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_22_18",
+      "bandLevel": 0,
+      "normalBandId": "rogue_4_band_22"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_22_18"
+  },
+  "rogue_4/rogue_4_band_22_19": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_22_19",
+    "name_jp": "奇想天外分隊",
+    "name_tw": "異想天開分隊",
+    "effect_jp": "★4以上の【術師】の招集時の希望消費-2、昇進時の希望消費-1、【術師】の初回招集時は昇進済みの状態となる。味方全員の攻撃力・最大HP+15%",
+    "effect_tw": "招募和進階4星以上的【術師】幹員時希望降低2點和1點，首次招募時為直升狀態，所有我方單位的攻擊力+15%、生命值+15%",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_22_19",
+      "bandLevel": 0,
+      "normalBandId": "rogue_4_band_22"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_22_19"
+  },
+  "rogue_4/rogue_4_band_22_20": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_22_20",
+    "name_jp": "奇想天外分隊",
+    "name_tw": "異想天開分隊",
+    "effect_jp": "編成上限+2、同時配置可能人数+2。全てのオペレーターの招集及び昇進時の希望消費-1",
+    "effect_tw": "可攜帶幹員+2，可同時部署人數+2，招募和晉升所有幹員消耗的希望-1",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_22_20",
+      "bandLevel": 0,
+      "normalBandId": "rogue_4_band_22"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_22_20"
+  },
+  "rogue_4/rogue_4_band_22_21": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_22_21",
+    "name_jp": "奇想天外分隊",
+    "name_tw": "異想天開分隊",
+    "effect_jp": "初期源石錐+20。新エリアに入るたび、源石錐+5、各スポットの初回更新時に構想を消費せず、必ず【怪しい旅商人】が出現",
+    "effect_tw": "初始源石錠+20，每進入新的一層，源石錠+5，首次刷新不消耗構想並出現詭意行商",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_22_21",
+      "bandLevel": 0,
+      "normalBandId": "rogue_4_band_22"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_22_21"
+  },
+  "rogue_4/rogue_4_band_22_22": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_22_22",
+    "name_jp": "奇想天外分隊",
+    "name_tw": "異想天開分隊",
+    "effect_jp": "構想と宿願解読時の秘宝出現率が大幅に上昇し、より珍しい秘宝が獲得可能。戦闘後、より高い確率で追加の秘宝を獲得",
+    "effect_tw": "構想與遺願解讀時收藏品機率大幅增加，且總會獲得更稀有的收藏品，戰鬥有更高機率獲得額外收藏品",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_22_22",
+      "bandLevel": 0,
+      "normalBandId": "rogue_4_band_22"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_22_22"
+  },
+  "rogue_4/rogue_4_band_22_23": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_22_23",
+    "name_jp": "奇想天外分隊",
+    "name_tw": "異想天開分隊",
+    "effect_jp": "初期招集時、ランダムな上級招集券を追加で1枚獲得。★5オペレーターの招集時は昇進済みの状態となる",
+    "effect_tw": "初始招募時額外獲得1張隨機高級招募券，5星幹員招募時均為直升狀態",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_22_23",
+      "bandLevel": 0,
+      "normalBandId": "rogue_4_band_22"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_22_23"
+  },
+  "rogue_4/rogue_4_band_22_24": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_22_24",
+    "name_jp": "奇想天外分隊",
+    "name_tw": "異想天開分隊",
+    "effect_jp": "味方全員の攻撃力・最大HP+15%。戦闘後、より高い確率で追加の秘宝を獲得",
+    "effect_tw": "所有我方單位的攻擊力+15%、生命值+15%，戰鬥有更高機率獲得額外收藏品",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_22_24",
+      "bandLevel": 0,
+      "normalBandId": "rogue_4_band_22"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_22_24"
+  },
+  "rogue_4/rogue_4_band_22_25": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_22_25",
+    "name_jp": "奇想天外分隊",
+    "name_tw": "異想天開分隊",
+    "effect_jp": "初期招集時、ランダムな上級招集券を追加で1枚獲得。オペレーターの昇進時に希望を消費しない",
+    "effect_tw": "初始招募時額外獲得1張隨機高級招募券，進階幹員不消耗希望",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_22_25",
+      "bandLevel": 0,
+      "normalBandId": "rogue_4_band_22"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_22_25"
+  },
+  "rogue_4/rogue_4_band_23": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_23",
+    "name_jp": "博学多識分隊",
+    "name_tw": "博聞廣記分隊",
+    "effect_jp": "初期負荷臨界点+10、初期希望+2、初めから数個の「枯れ木と若枝」を所持",
+    "effect_tw": "初始負荷臨界點+10，初始希望+2，初始攜帶數個枯木新枝",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_23",
+      "bandLevel": 2,
+      "normalBandId": "rogue_4_band_16"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_23"
+  },
+  "rogue_4/rogue_4_band_24": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_24",
+    "name_jp": "霊魂護送分隊",
+    "name_tw": "魂靈護送分隊",
+    "effect_jp": "新エリアに入るたび、妙想を2つ獲得、負荷臨界点+1。妙想を1つ使用するたび、負荷臨界点+1。妙想を使用した戦闘において、オペレーターの再配置時間-12秒",
+    "effect_tw": "每進入新的一層，獲得2縷靈感且負荷臨界點+1；每使用一個靈感，負荷臨界點+1，作戰中如使用了靈感，幹員再部署時間-12秒",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_24",
+      "bandLevel": 2,
+      "normalBandId": "rogue_4_band_14"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_24"
+  },
+  "rogue_4/rogue_4_band_25": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_25",
+    "name_jp": "位置測定分隊",
+    "name_tw": "藍圖測繪分隊",
+    "effect_jp": "スポット更新回数+1、初期構想+1、初期希望+1。各スポットの初回更新時に構想を消費しない",
+    "effect_tw": "重置節點次數+1，每個節點的首次重置不消耗構想，初始構想+1，初始希望+1",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_25",
+      "bandLevel": 2,
+      "normalBandId": "rogue_4_band_18"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_25"
+  },
+  "rogue_4/rogue_4_band_26": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_26",
+    "name_jp": "破棘成金分隊",
+    "name_tw": "點刺成錠分隊",
+    "effect_jp": "新エリアに入るたび、源石錐+5、初回更新時に構想を消費せず、【怪しい旅商人】が出現。<時代の棘>を撃破すると追加で源石錐+2。初めから「貪欲の天秤」を所持",
+    "effect_tw": "每進入新的一層，源石錠+5，首次重置不消耗構想並出現詭意行商，擊敗<年代之刺>額外獲得2源石錠，初始攜帶貪婪天秤",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_26",
+      "bandLevel": 1,
+      "normalBandId": "rogue_4_band_20"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_26"
+  },
+  "rogue_4/rogue_4_band_27": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_27",
+    "name_jp": "破棘成金分隊",
+    "name_tw": "點刺成錠分隊",
+    "effect_jp": "新エリアに入るたび、源石錐+5、初回更新時に構想を消費せず、【怪しい旅商人】が出現。<時代の棘>を撃破すると追加で源石錐+2。初めから「貪欲の天秤」を所持。【怪しい旅商人】に入るたび、構想+1",
+    "effect_tw": "每進入新的一層，源石錠+5，首次重置不消耗構想並出現詭意行商，擊敗<年代之刺>額外獲得2源石錠，初始攜帶貪婪天秤，進入詭意行商後獲得1縷構想",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_27",
+      "bandLevel": 2,
+      "normalBandId": "rogue_4_band_20"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_27"
+  },
+  "rogue_4/rogue_4_band_28": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_28",
+    "name_jp": "擬態学者分隊",
+    "name_tw": "擬態學者分隊",
+    "effect_jp": "初期希望+1、構想と宿願または妙想解読時の秘宝出現率が大幅に上昇し、より珍しい秘宝を獲得可能",
+    "effect_tw": "初始希望+1，構想與遺願或靈感解讀時收藏品機率大幅增加，且總會獲得更稀有的收藏品",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_28",
+      "bandLevel": 1,
+      "normalBandId": "rogue_4_band_21"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_28"
+  },
+  "rogue_4/rogue_4_band_29": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_29",
+    "name_jp": "擬態学者分隊",
+    "name_tw": "擬態學者分隊",
+    "effect_jp": "初期希望+1、構想と宿願または妙想解読時の秘宝出現率が大幅に上昇し、より珍しい秘宝が獲得可能。初めから「ダウジング伯爵」を所持",
+    "effect_tw": "初始希望+1，構想與遺願或靈感解讀時收藏品機率大幅增加，且總會獲得更稀有的收藏品，初始攜帶探靈伯爵",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_29",
+      "bandLevel": 2,
+      "normalBandId": "rogue_4_band_21"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_29"
+  },
+  "rogue_4/rogue_4_band_30": {
+    "topic_id": "rogue_4",
+    "item_id": "rogue_4_band_30",
+    "name_jp": "専門家分隊",
+    "name_tw": "專業人士分隊",
+    "effect_jp": "初期招集時、上級エリート招集券を追加で1枚獲得し、【怪しい旅商人】で上級エリート招集券が販売される",
+    "effect_tw": "初始招募時額外獲得1張高級資深幹員招募券，可以購買到高級資深幹員招募券",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_4_band_30",
+      "bandLevel": 0,
+      "normalBandId": "rogue_4_band_30"
+    },
+    "source_path": "details/rogue_4/items/rogue_4_band_30"
+  },
+  "rogue_5/rogue_5_band_1": {
+    "topic_id": "rogue_5",
+    "item_id": "rogue_5_band_1",
+    "name_jp": "指揮分隊",
+    "name_tw": "指揮分隊",
+    "effect_jp": "最大耐久値+2、戦闘終了時に追加で耐久値を1回復",
+    "effect_tw": "目標生命上限+2，每次戰鬥結束後額外回復1目標生命",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_5_band_1",
+      "bandLevel": 0,
+      "normalBandId": "rogue_5_band_1"
+    },
+    "source_path": "details/rogue_5/items/rogue_5_band_1"
+  },
+  "rogue_5/rogue_5_band_2": {
+    "topic_id": "rogue_5",
+    "item_id": "rogue_5_band_2",
+    "name_jp": "指揮分隊",
+    "name_tw": "指揮分隊",
+    "effect_jp": "最大耐久値+4、戦闘終了時に追加で耐久値を1回復。初期から「時の果て」を所持",
+    "effect_tw": "目標生命上限+4，每次戰鬥後額外回復1目標生命。初始攜帶“時光之末”",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_5_band_2",
+      "bandLevel": 1,
+      "normalBandId": "rogue_5_band_1"
+    },
+    "source_path": "details/rogue_5/items/rogue_5_band_2"
+  },
+  "rogue_5/rogue_5_band_3": {
+    "topic_id": "rogue_5",
+    "item_id": "rogue_5_band_3",
+    "name_jp": "特別行動分隊",
+    "name_tw": "特勤分隊",
+    "effect_jp": "編成上限+2、同時配置可能人数+2。初期招集時、ロドス予備隊オペレーターを5名招集",
+    "effect_tw": "可攜帶幹員+2，可同時部署人數+2，初始招募五名羅德島預備幹員",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_5_band_3",
+      "bandLevel": 0,
+      "normalBandId": "rogue_5_band_3"
+    },
+    "source_path": "details/rogue_5/items/rogue_5_band_3"
+  },
+  "rogue_5/rogue_5_band_4": {
+    "topic_id": "rogue_5",
+    "item_id": "rogue_5_band_4",
+    "name_jp": "特別行動分隊",
+    "name_tw": "特勤分隊",
+    "effect_jp": "編成上限+2、同時配置可能人数+2。レイディアンとロドス予備隊オペレーターを5名招集済で探索開始",
+    "effect_tw": "可攜帶幹員+2，可同時部署人數+2，初始招募電弧及五名羅德島預備幹員",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_5_band_4",
+      "bandLevel": 1,
+      "normalBandId": "rogue_5_band_3"
+    },
+    "source_path": "details/rogue_5/items/rogue_5_band_4"
+  },
+  "rogue_5/rogue_5_band_5": {
+    "topic_id": "rogue_5",
+    "item_id": "rogue_5_band_5",
+    "name_jp": "支援分隊",
+    "name_tw": "後勤分隊",
+    "effect_jp": "初期源石錐+20、初期希望+2",
+    "effect_tw": "初始源石錠+20，初始希望+2",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_5_band_5",
+      "bandLevel": 0,
+      "normalBandId": "rogue_5_band_5"
+    },
+    "source_path": "details/rogue_5/items/rogue_5_band_5"
+  },
+  "rogue_5/rogue_5_band_6": {
+    "topic_id": "rogue_5",
+    "item_id": "rogue_5_band_6",
+    "name_jp": "支援分隊",
+    "name_tw": "後勤分隊",
+    "effect_jp": "初期源石錐+20、初期希望+2、初めから通宝「繭絹を成す」を所持",
+    "effect_tw": "初始源石錠+20，初始希望+2，初始攜帶通寶“繭成絹”",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_5_band_6",
+      "bandLevel": 1,
+      "normalBandId": "rogue_5_band_5"
+    },
+    "source_path": "details/rogue_5/items/rogue_5_band_6"
+  },
+  "rogue_5/rogue_5_band_7": {
+    "topic_id": "rogue_5",
+    "item_id": "rogue_5_band_7",
+    "name_jp": "突撃戦術分隊",
+    "name_tw": "突擊戰術分隊",
+    "effect_jp": "★4以上の【前衛】・【先鋒】の招集時の希望消費-1、昇進時の希望消費-1、いずれかの対応する職業の初回招集時は昇進済みの状態となる。また、対応する職業の招集券はショップでの出現確率上昇",
+    "effect_tw": "招募和進階4星以上的【近衛】或【先鋒】幹員時希望降低1點，首次招募時為直升狀態，且更容易購買到相應職業的招募券",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_5_band_7",
+      "bandLevel": 0,
+      "normalBandId": "rogue_5_band_7"
+    },
+    "source_path": "details/rogue_5/items/rogue_5_band_7"
+  },
+  "rogue_5/rogue_5_band_8": {
+    "topic_id": "rogue_5",
+    "item_id": "rogue_5_band_8",
+    "name_jp": "要塞戦術分隊",
+    "name_tw": "堡壘戰術分隊",
+    "effect_jp": "★4以上の【重装】・【補助】の招集時の希望消費-1、昇進時の希望消費-1、いずれかの対応する職業の初回招集時は昇進済みの状態となる。また、対応する職業の招集券はショップでの出現確率上昇",
+    "effect_tw": "招募和進階4星以上的【重裝】或【輔助】幹員時希望降低1點，首次招募時為直升狀態，且更容易購買到相應職業的招募券",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_5_band_8",
+      "bandLevel": 0,
+      "normalBandId": "rogue_5_band_8"
+    },
+    "source_path": "details/rogue_5/items/rogue_5_band_8"
+  },
+  "rogue_5/rogue_5_band_9": {
+    "topic_id": "rogue_5",
+    "item_id": "rogue_5_band_9",
+    "name_jp": "援護戦術分隊",
+    "name_tw": "遠程戰術分隊",
+    "effect_jp": "★4以上の【医療】・【狙撃】の招集時の希望消費-1、昇進時の希望消費-1、いずれかの対応する職業の初回招集時は昇進済みの状態となる。また、対応する職業の招集券はショップでの出現確率上昇",
+    "effect_tw": "招募和進階4星以上的【醫療】或【狙擊】幹員時希望降低1點，首次招募時為直升狀態，且更容易購買到相應職業的招募券",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_5_band_9",
+      "bandLevel": 0,
+      "normalBandId": "rogue_5_band_9"
+    },
+    "source_path": "details/rogue_5/items/rogue_5_band_9"
+  },
+  "rogue_5/rogue_5_band_10": {
+    "topic_id": "rogue_5",
+    "item_id": "rogue_5_band_10",
+    "name_jp": "破壊戦術分隊",
+    "name_tw": "破壞戰術分隊",
+    "effect_jp": "★4以上の【術師】・【特殊】の招集時の希望消費-1、昇進時の希望消費-1、いずれかの対応する職業の初回招集時は昇進済みの状態となる。また、対応する職業の招集券はショップでの出現確率上昇",
+    "effect_tw": "招募和進階4星以上的【術師】或【特種】幹員時希望降低1點，首次招募時為直升狀態，且更容易購買到相應職業的招募券",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_5_band_10",
+      "bandLevel": 0,
+      "normalBandId": "rogue_5_band_10"
+    },
+    "source_path": "details/rogue_5/items/rogue_5_band_10"
+  },
+  "rogue_5/rogue_5_band_11": {
+    "topic_id": "rogue_5",
+    "item_id": "rogue_5_band_11",
+    "name_jp": "高台突破分隊",
+    "name_tw": "高台突破分隊",
+    "effect_jp": "★4以上の【術師】・【狙撃】・【医療】・【補助】の招集時に消費する希望-2",
+    "effect_tw": "招募4星以上【術師】、【狙擊】、【醫療】、【輔助】幹員時希望降低2點",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_5_band_11",
+      "bandLevel": 0,
+      "normalBandId": "rogue_5_band_11"
+    },
+    "source_path": "details/rogue_5/items/rogue_5_band_11"
+  },
+  "rogue_5/rogue_5_band_12": {
+    "topic_id": "rogue_5",
+    "item_id": "rogue_5_band_12",
+    "name_jp": "地面突破分隊",
+    "name_tw": "地面突破分隊",
+    "effect_jp": "★4以上の【先鋒】・【前衛】・【重装】・【特殊】の招集時に消費する希望-2",
+    "effect_tw": "招募4星以上【先鋒】、【近衛】、【重裝】、【特種】幹員時希望降低2點",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_5_band_12",
+      "bandLevel": 0,
+      "normalBandId": "rogue_5_band_12"
+    },
+    "source_path": "details/rogue_5/items/rogue_5_band_12"
+  },
+  "rogue_5/rogue_5_band_13": {
+    "topic_id": "rogue_5",
+    "item_id": "rogue_5_band_13",
+    "name_jp": "高規格分隊",
+    "name_tw": "高規格分隊",
+    "effect_jp": "★5オペレーターは昇進済みの状態で招集される",
+    "effect_tw": "5星幹員招募時都為直升狀態",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_5_band_13",
+      "bandLevel": 0,
+      "normalBandId": "rogue_5_band_13"
+    },
+    "source_path": "details/rogue_5/items/rogue_5_band_13"
+  },
+  "rogue_5/rogue_5_band_14": {
+    "topic_id": "rogue_5",
+    "item_id": "rogue_5_band_14",
+    "name_jp": "高規格分隊",
+    "name_tw": "高規格分隊",
+    "effect_jp": "初期招集時、ランダムな精鋭招集券を追加で1枚獲得。★4・★5オペレーターの招集時は昇進済みの状態となる",
+    "effect_tw": "初始招募時額外獲得一張隨機精銳招募券，4、5星幹員招募時都為直升狀態",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_5_band_14",
+      "bandLevel": 1,
+      "normalBandId": "rogue_5_band_13"
+    },
+    "source_path": "details/rogue_5/items/rogue_5_band_14"
+  },
+  "rogue_5/rogue_5_band_15": {
+    "topic_id": "rogue_5",
+    "item_id": "rogue_5_band_15",
+    "name_jp": "観光客分隊",
+    "name_tw": "遊客分隊",
+    "effect_jp": "銭匣容量+1、振り銭の際に通宝を追加で1枚振り出す",
+    "effect_tw": "錢盒容量+1，投錢時額外投出1枚通寶",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_5_band_15",
+      "bandLevel": 0,
+      "normalBandId": "rogue_5_band_15"
+    },
+    "source_path": "details/rogue_5/items/rogue_5_band_15"
+  },
+  "rogue_5/rogue_5_band_16": {
+    "topic_id": "rogue_5",
+    "item_id": "rogue_5_band_16",
+    "name_jp": "観光客分隊",
+    "name_tw": "遊客分隊",
+    "effect_jp": "銭匣容量+2、遊覧券+3、振り銭の際に通宝を追加で2枚振り出す",
+    "effect_tw": "錢盒容量+2，票券+3。投錢時額外投出2枚通寶",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_5_band_16",
+      "bandLevel": 1,
+      "normalBandId": "rogue_5_band_15"
+    },
+    "source_path": "details/rogue_5/items/rogue_5_band_16"
+  },
+  "rogue_5/rogue_5_band_17": {
+    "topic_id": "rogue_5",
+    "item_id": "rogue_5_band_17",
+    "name_jp": "司歳台分隊",
+    "name_tw": "司歲台分隊",
+    "effect_jp": "招集券保留数上限+1、新エリアに入るたび、招集券保留数が上限に達していない場合、ランダムな招集券を1枚獲得し、保留する",
+    "effect_tw": "可留存的招募券數量上限+1，每進入新的一層，若留存招募券數量未達到上限，則獲得一張隨機的招募券並留存",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_5_band_17",
+      "bandLevel": 0,
+      "normalBandId": "rogue_5_band_17"
+    },
+    "source_path": "details/rogue_5/items/rogue_5_band_17"
+  },
+  "rogue_5/rogue_5_band_18": {
+    "topic_id": "rogue_5",
+    "item_id": "rogue_5_band_18",
+    "name_jp": "司歳台分隊",
+    "name_tw": "司歲台分隊",
+    "effect_jp": "招集券保留数上限+2、新エリアに入るたび、招集券保留数が上限に達していない場合、ランダムな招集券を1枚獲得し、保留する",
+    "effect_tw": "可留存的招募券數量上限+2，每進入新的一層，若留存招募券數量未達到上限，則獲得一張隨機的招募券並留存",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_5_band_18",
+      "bandLevel": 1,
+      "normalBandId": "rogue_5_band_17"
+    },
+    "source_path": "details/rogue_5/items/rogue_5_band_18"
+  },
+  "rogue_5/rogue_5_band_19": {
+    "topic_id": "rogue_5",
+    "item_id": "rogue_5_band_19",
+    "name_jp": "天師府分隊",
+    "name_tw": "天師府分隊",
+    "effect_jp": "第二、第四エリアで【歳獣の残識】に入った際、燭火+1。【安全な片隅】から【歳獣の残識】に入れるようになる",
+    "effect_tw": "第二層、四層進入歲獸殘識時，剩餘燭火+1，可以在安全的角落進入歲獸殘識",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_5_band_19",
+      "bandLevel": 0,
+      "normalBandId": "rogue_5_band_19"
+    },
+    "source_path": "details/rogue_5/items/rogue_5_band_19"
+  },
+  "rogue_5/rogue_5_band_20": {
+    "topic_id": "rogue_5",
+    "item_id": "rogue_5_band_20",
+    "name_jp": "天師府分隊",
+    "name_tw": "天師府分隊",
+    "effect_jp": "【歳獣の残識】に入るたび、燭火+1。【安全な片隅】から【歳獣の残識】に入れるようになる",
+    "effect_tw": "每次進入歲獸殘識時，剩餘燭火+1，可以在安全的角落進入歲獸殘識",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_5_band_20",
+      "bandLevel": 1,
+      "normalBandId": "rogue_5_band_19"
+    },
+    "source_path": "details/rogue_5/items/rogue_5_band_20"
+  },
+  "rogue_5/rogue_5_band_21": {
+    "topic_id": "rogue_5",
+    "item_id": "rogue_5_band_21",
+    "name_jp": "百花繚乱分隊",
+    "name_tw": "花團錦簇分隊",
+    "effect_jp": "【画策】で消費する耐久値が1に固定される。振り銭時に花銭が1枚以上出たら、遊覧券+1。初めから通宝「初めに文有り」を所持",
+    "effect_tw": "在籌謀中消耗的目標生命值固定為1；如果投錢時至少投出1枚花錢，獲得1票券；初始攜帶通寶“初有文”",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_5_band_21",
+      "bandLevel": 0,
+      "normalBandId": "rogue_5_band_21"
+    },
+    "source_path": "details/rogue_5/items/rogue_5_band_21"
+  },
+  "rogue_5/rogue_5_band_22": {
+    "topic_id": "rogue_5",
+    "item_id": "rogue_5_band_22",
+    "name_jp": "起死回生分隊",
+    "name_tw": "棋行險著分隊",
+    "effect_jp": "厲銭が1枚以上振り出されていると、【作戦】と【緊急作戦】で宝箱が出現しやすくなる。初めから秘宝「禍福は糾える縄のごとし」と、通宝「奇物を夢みる」を所持",
+    "effect_tw": "至少有1枚厲錢被投出時，作戰與緊急作戰更容易出現寶箱；初始攜帶“福禍相依”；初始攜帶通寶“夢奇物”",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_5_band_22",
+      "bandLevel": 0,
+      "normalBandId": "rogue_5_band_22"
+    },
+    "source_path": "details/rogue_5/items/rogue_5_band_22"
+  },
+  "rogue_5/rogue_5_band_23": {
+    "topic_id": "rogue_5",
+    "item_id": "rogue_5_band_23",
+    "name_jp": "歳影反響分隊",
+    "name_tw": "歲影回音分隊",
+    "effect_jp": "変化した他の分隊の効果をランダムで1つ獲得",
+    "effect_tw": "隨機獲得一個變化過的其他分隊的效果",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_5_band_23",
+      "bandLevel": 0,
+      "normalBandId": "rogue_5_band_23"
+    },
+    "source_path": "details/rogue_5/items/rogue_5_band_23"
+  },
+  "rogue_5/rogue_5_band_23_1": {
+    "topic_id": "rogue_5",
+    "item_id": "rogue_5_band_23_1",
+    "name_jp": "歳影反響分隊",
+    "name_tw": "歲影回音分隊",
+    "effect_jp": "銭匣容量+2、遊覧券+3、初めから通宝「黒石伏す」と「孜孜として倦まず」を所持",
+    "effect_tw": "錢盒容量+2，票券+3，初始攜帶通寶“黑子伏”、“孜孜不倦”",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_5_band_23_1",
+      "bandLevel": 0,
+      "normalBandId": "rogue_5_band_23"
+    },
+    "source_path": "details/rogue_5/items/rogue_5_band_23_1"
+  },
+  "rogue_5/rogue_5_band_23_2": {
+    "topic_id": "rogue_5",
+    "item_id": "rogue_5_band_23_2",
+    "name_jp": "歳影反響分隊",
+    "name_tw": "歲影回音分隊",
+    "effect_jp": "招集券保留上限+1、新エリアに入るたび、招集券保留数が上限に達していない場合、ランダムな特殊招集券を1枚獲得し、保留する",
+    "effect_tw": "可留存的招募券數量上限+1，每進入新的一層，若留存招募券數量未達到上限，則獲得一張隨機的特殊招募券並留存",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_5_band_23_2",
+      "bandLevel": 0,
+      "normalBandId": "rogue_5_band_23"
+    },
+    "source_path": "details/rogue_5/items/rogue_5_band_23_2"
+  },
+  "rogue_5/rogue_5_band_23_3": {
+    "topic_id": "rogue_5",
+    "item_id": "rogue_5_band_23_3",
+    "name_jp": "歳影反響分隊",
+    "name_tw": "歲影回音分隊",
+    "effect_jp": "【歳獣の残識】に入るたび、燭火+2。初めて【歳獣の残識】に入った際、全ての【雑疑】が探索可能状態になる",
+    "effect_tw": "每次進入歲獸殘識時，剩餘燭火+2，首次進入歲獸殘識時使所有雜疑節點變為可探索狀態",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_5_band_23_3",
+      "bandLevel": 0,
+      "normalBandId": "rogue_5_band_23"
+    },
+    "source_path": "details/rogue_5/items/rogue_5_band_23_3"
+  },
+  "rogue_5/rogue_5_band_23_4": {
+    "topic_id": "rogue_5",
+    "item_id": "rogue_5_band_23_4",
+    "name_jp": "歳影反響分隊",
+    "name_tw": "歲影回音分隊",
+    "effect_jp": "戦闘終了時に追加で耐久値を2回復。初期から「午商の梭」を所持",
+    "effect_tw": "每次戰鬥結束後額外回復2目標生命，初始攜帶“午商梭”",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_5_band_23_4",
+      "bandLevel": 0,
+      "normalBandId": "rogue_5_band_23"
+    },
+    "source_path": "details/rogue_5/items/rogue_5_band_23_4"
+  },
+  "rogue_5/rogue_5_band_23_5": {
+    "topic_id": "rogue_5",
+    "item_id": "rogue_5_band_23_5",
+    "name_jp": "歳影反響分隊",
+    "name_tw": "歲影回音分隊",
+    "effect_jp": "編成上限+2、同時配置可能人数+2。ロドスエリートオペレーターを5名招集済で探索開始",
+    "effect_tw": "可攜帶幹員+2，可同時部署人數+2，初始招募五名羅德島精英幹員",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_5_band_23_5",
+      "bandLevel": 0,
+      "normalBandId": "rogue_5_band_23"
+    },
+    "source_path": "details/rogue_5/items/rogue_5_band_23_5"
+  },
+  "rogue_5/rogue_5_band_23_6": {
+    "topic_id": "rogue_5",
+    "item_id": "rogue_5_band_23_6",
+    "name_jp": "歳影反響分隊",
+    "name_tw": "歲影回音分隊",
+    "effect_jp": "初期源石錐+20、初期希望+2、初めから通宝「軍屯墾す」を所持",
+    "effect_tw": "初始源石錠+20，初始希望+2，初始攜帶通寶“軍屯墾”",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_5_band_23_6",
+      "bandLevel": 0,
+      "normalBandId": "rogue_5_band_23"
+    },
+    "source_path": "details/rogue_5/items/rogue_5_band_23_6"
+  },
+  "rogue_5/rogue_5_band_23_7": {
+    "topic_id": "rogue_5",
+    "item_id": "rogue_5_band_23_7",
+    "name_jp": "歳影反響分隊",
+    "name_tw": "歲影回音分隊",
+    "effect_jp": "★5オペレーターは昇進済みの状態で招集される。初めから「家庭風の炒め物」を所持",
+    "effect_tw": "5星幹員招募時都為直升狀態，初始攜帶“家常小炒”",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_5_band_23_7",
+      "bandLevel": 0,
+      "normalBandId": "rogue_5_band_23"
+    },
+    "source_path": "details/rogue_5/items/rogue_5_band_23_7"
+  },
+  "rogue_5/rogue_5_band_23_8": {
+    "topic_id": "rogue_5",
+    "item_id": "rogue_5_band_23_8",
+    "name_jp": "歳影反響分隊",
+    "name_tw": "歲影回音分隊",
+    "effect_jp": "★4以上の【重装】・【狙撃】の招集・昇進時の希望消費-1、いずれかの対応する職業の初回招集時は昇進済みの状態となる。また、対応する職業の招集券はショップでの出現確率上昇",
+    "effect_tw": "招募和進階4星以上的【重裝】、【狙擊】幹員時希望降低1點，首次招募時為直升狀態，並更容易購買到相應職業的招募券",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_5_band_23_8",
+      "bandLevel": 0,
+      "normalBandId": "rogue_5_band_23"
+    },
+    "source_path": "details/rogue_5/items/rogue_5_band_23_8"
+  },
+  "rogue_5/rogue_5_band_23_9": {
+    "topic_id": "rogue_5",
+    "item_id": "rogue_5_band_23_9",
+    "name_jp": "歳影反響分隊",
+    "name_tw": "歲影回音分隊",
+    "effect_jp": "★4以上の【術師】・【補助】の招集・昇進時の希望消費-1、いずれかの対応する職業の初回招集時は昇進済みの状態となる。また、対応する職業の招集券はショップでの出現確率上昇",
+    "effect_tw": "招募和進階4星以上的【術師】、【輔助】幹員時希望降低1點，首次招募時為直升狀態，並更容易購買到相應職業的招募券",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_5_band_23_9",
+      "bandLevel": 0,
+      "normalBandId": "rogue_5_band_23"
+    },
+    "source_path": "details/rogue_5/items/rogue_5_band_23_9"
+  },
+  "rogue_5/rogue_5_band_23_10": {
+    "topic_id": "rogue_5",
+    "item_id": "rogue_5_band_23_10",
+    "name_jp": "歳影反響分隊",
+    "name_tw": "歲影回音分隊",
+    "effect_jp": "★4以上の【先鋒】・【特殊】の招集・昇進時の希望消費-1、いずれかの対応する職業の初回招集時は昇進済みの状態となる。また、対応する職業の招集券はショップでの出現確率上昇",
+    "effect_tw": "招募和進階4星以上的【先鋒】、【特種】幹員時希望降低1點，首次招募時為直升狀態，並更容易購買到相應職業的招募券",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_5_band_23_10",
+      "bandLevel": 0,
+      "normalBandId": "rogue_5_band_23"
+    },
+    "source_path": "details/rogue_5/items/rogue_5_band_23_10"
+  },
+  "rogue_5/rogue_5_band_23_11": {
+    "topic_id": "rogue_5",
+    "item_id": "rogue_5_band_23_11",
+    "name_jp": "歳影反響分隊",
+    "name_tw": "歲影回音分隊",
+    "effect_jp": "★4以上の【前衛】・【医療】の招集・昇進時の希望消費-1、いずれかの対応する職業の初回招集時は昇進済みの状態となる。また、対応する職業の招集券はショップでの出現確率上昇",
+    "effect_tw": "招募和進階4星以上的【近衛】、【醫療】幹員時希望降低1點，首次招募時為直升狀態，並更容易購買到相應職業的招募券",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_5_band_23_11",
+      "bandLevel": 0,
+      "normalBandId": "rogue_5_band_23"
+    },
+    "source_path": "details/rogue_5/items/rogue_5_band_23_11"
+  },
+  "rogue_5/rogue_5_band_23_12": {
+    "topic_id": "rogue_5",
+    "item_id": "rogue_5_band_23_12",
+    "name_jp": "歳影反響分隊",
+    "name_tw": "歲影回音分隊",
+    "effect_jp": "★4以上の【特殊】・【狙撃】・【医療】の招集時に消費する希望-2、初期招集時、上級エリート招集券を追加で1枚獲得",
+    "effect_tw": "招募4星以上的【特種】、【狙擊】、【醫療】幹員時希望降低2點，初始招募時額外獲得1張高級資深幹員招募券",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_5_band_23_12",
+      "bandLevel": 0,
+      "normalBandId": "rogue_5_band_23"
+    },
+    "source_path": "details/rogue_5/items/rogue_5_band_23_12"
+  },
+  "rogue_5/rogue_5_band_23_13": {
+    "topic_id": "rogue_5",
+    "item_id": "rogue_5_band_23_13",
+    "name_jp": "歳影反響分隊",
+    "name_tw": "歲影回音分隊",
+    "effect_jp": "★4以上の【先鋒】・【前衛】・【重装】の招集時に消費する希望-2、初期招集時、上級エリート招集券を追加で1枚獲得",
+    "effect_tw": "招募4星以上的【先鋒】、【近衛】、【重裝】幹員時希望降低2點，初始招募時額外獲得1張高級資深幹員招募券",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_5_band_23_13",
+      "bandLevel": 0,
+      "normalBandId": "rogue_5_band_23"
+    },
+    "source_path": "details/rogue_5/items/rogue_5_band_23_13"
+  },
+  "rogue_5/rogue_5_band_23_14": {
+    "topic_id": "rogue_5",
+    "item_id": "rogue_5_band_23_14",
+    "name_jp": "歳影反響分隊",
+    "name_tw": "歲影回音分隊",
+    "effect_jp": "★4以上の【補助】・【重装】・【術師】の招集時に消費する希望-2、初期招集時、上級エリート招集券を追加で1枚獲得",
+    "effect_tw": "招募4星以上的【輔助】、【重裝】、【術師】幹員時希望降低2點，初始招募時額外獲得1張高級資深幹員招募券",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_5_band_23_14",
+      "bandLevel": 0,
+      "normalBandId": "rogue_5_band_23"
+    },
+    "source_path": "details/rogue_5/items/rogue_5_band_23_14"
+  },
+  "rogue_5/rogue_5_band_23_15": {
+    "topic_id": "rogue_5",
+    "item_id": "rogue_5_band_23_15",
+    "name_jp": "歳影反響分隊",
+    "name_tw": "歲影回音分隊",
+    "effect_jp": "戦闘勝利時の指揮経験値の獲得量+30%、指揮Lv上限+5",
+    "effect_tw": "戰鬥獲得的指揮經驗+30%，指揮等級上限+5",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_5_band_23_15",
+      "bandLevel": 0,
+      "normalBandId": "rogue_5_band_23"
+    },
+    "source_path": "details/rogue_5/items/rogue_5_band_23_15"
+  },
+  "rogue_5/rogue_5_band_23_16": {
+    "topic_id": "rogue_5",
+    "item_id": "rogue_5_band_23_16",
+    "name_jp": "歳影反響分隊",
+    "name_tw": "歲影回音分隊",
+    "effect_jp": "新エリアと【歳獣の残識】に入るたび、ランダムに秘宝を1つ獲得",
+    "effect_tw": "每次進入新的一層或歲獸殘識時，隨機獲得1個收藏品",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_5_band_23_16",
+      "bandLevel": 0,
+      "normalBandId": "rogue_5_band_23"
+    },
+    "source_path": "details/rogue_5/items/rogue_5_band_23_16"
+  },
+  "rogue_5/rogue_5_band_23_17": {
+    "topic_id": "rogue_5",
+    "item_id": "rogue_5_band_23_17",
+    "name_jp": "歳影反響分隊",
+    "name_tw": "歲影回音分隊",
+    "effect_jp": "耐久値が1になる。スポットを通過するたび、耐久値-1（1未満にはならない）。全てのオペレーターの攻撃力+25%、攻撃速度+25、最大HP+50%、ブロック数+1",
+    "effect_tw": "目標生命值變為1，每完成一個節點，失去1目標生命值（不會低於1），所有幹員的攻擊力+25%，攻擊速度+25，生命值+50%，阻擋數+1",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_5_band_23_17",
+      "bandLevel": 0,
+      "normalBandId": "rogue_5_band_23"
+    },
+    "source_path": "details/rogue_5/items/rogue_5_band_23_17"
+  },
+  "rogue_5/rogue_5_band_24": {
+    "topic_id": "rogue_5",
+    "item_id": "rogue_5_band_24",
+    "name_jp": "代理人分隊",
+    "name_tw": "代理人分隊",
+    "effect_jp": "一部の非戦闘スポットに追加の選択肢が出現。非戦闘スポット・【雑疑】を通過するたび、一定確率で希望、最大耐久値、招集券保留上限、源石錐のいずれかが+1",
+    "effect_tw": "進入部分非戰鬥節點時，會出現額外選項。進入非戰鬥及雜疑節點時，有機率使希望、目標生命上限、留存券上限或源石錠+1",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_5_band_24",
+      "bandLevel": 0,
+      "normalBandId": "rogue_5_band_24"
+    },
+    "source_path": "details/rogue_5/items/rogue_5_band_24"
+  },
+  "rogue_5/rogue_5_band_25": {
+    "topic_id": "rogue_5",
+    "item_id": "rogue_5_band_25",
+    "name_jp": "知学分隊",
+    "name_tw": "知學分隊",
+    "effect_jp": "初期招集時、上級エリート招集券を追加で1枚獲得し、【怪しい旅商人】で上級エリート招集券が販売される。初めから通宝「聖詔神を封ず」を所持",
+    "effect_tw": "初始招募時額外獲得1張高級資深幹員招募券，可以購買到高級資深幹員招募券。初始攜帶“聖詔封神”",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_5_band_25",
+      "bandLevel": 0,
+      "normalBandId": "rogue_5_band_25"
+    },
+    "source_path": "details/rogue_5/items/rogue_5_band_25"
+  },
+  "rogue_5/rogue_5_band_26": {
+    "topic_id": "rogue_5",
+    "item_id": "rogue_5_band_26",
+    "name_jp": "商人分隊",
+    "name_tw": "商賈分隊",
+    "effect_jp": "通宝交換時に源石錐+3。【怪しい旅商人】に必ず縦のパスが出現し、商品価格-50%。初めから通宝「触鎖の代幣」を所持",
+    "effect_tw": "交換通寶時獲得3源石錠。詭意行商必定出現縱向通路且詭意行商的商品價格降低50%。初始攜帶“觸鎖代幣”",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_5_band_26",
+      "bandLevel": 0,
+      "normalBandId": "rogue_5_band_26"
+    },
+    "source_path": "details/rogue_5/items/rogue_5_band_26"
+  },
+  "rogue_5/rogue_5_band_27": {
+    "topic_id": "rogue_5",
+    "item_id": "rogue_5_band_27",
+    "name_jp": "観光客分隊",
+    "name_tw": "遊客分隊",
+    "effect_jp": "銭匣容量+2、遊覧券+4、振り銭の際に通宝を追加で3枚振り出す。初めから通宝「花-烽火台」を所持",
+    "effect_tw": "錢盒容量+2，票券+4。投錢時額外投出3枚通寶。初始攜帶“花-烽火台”",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_5_band_27",
+      "bandLevel": 2,
+      "normalBandId": "rogue_5_band_15"
+    },
+    "source_path": "details/rogue_5/items/rogue_5_band_27"
+  },
+  "rogue_5/rogue_5_band_28": {
+    "topic_id": "rogue_5",
+    "item_id": "rogue_5_band_28",
+    "name_jp": "天師府分隊",
+    "name_tw": "天師府分隊",
+    "effect_jp": "【歳獣の残識】に入るたび、燭火+2。【安全な片隅】から【歳獣の残識】に入れるようになる。【拾遺】【伝説】【雑疑】【禍乱】をそれぞれ全て通過するごとに秘宝を獲得",
+    "effect_tw": "每次進入歲獸殘識時，剩餘燭火+2，可以在安全的角落進入歲獸殘識。且完成所有拾遺、傳說、雜疑、禍亂節點後分別獲得收藏品獎勵",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_5_band_28",
+      "bandLevel": 2,
+      "normalBandId": "rogue_5_band_19"
+    },
+    "source_path": "details/rogue_5/items/rogue_5_band_28"
+  },
+  "rogue_5/rogue_5_band_29": {
+    "topic_id": "rogue_5",
+    "item_id": "rogue_5_band_29",
+    "name_jp": "司歳台分隊",
+    "name_tw": "司歲台分隊",
+    "effect_jp": "招集券保留上限+3、新エリアに入るたび、招集券保留数が上限に達していない場合、ランダムな上級招集券を2枚獲得し、保留する。【燭火の導き】に入るたび、希望+2",
+    "effect_tw": "可留存的招募券數量上限+3，每進入新的一層，若留存招募券數量未達到上限，則獲得兩張隨機的高級招募券並留存。進入指點迷津時，希望+2",
+    "description_jp": "",
+    "description_tw": "",
+    "sub_type": "NONE",
+    "rarity": "BORN",
+    "band_ref": {
+      "itemId": "rogue_5_band_29",
+      "bandLevel": 2,
+      "normalBandId": "rogue_5_band_17"
+    },
+    "source_path": "details/rogue_5/items/rogue_5_band_29"
+  }
+}
